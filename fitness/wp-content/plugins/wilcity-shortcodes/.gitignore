@@ -1,0 +1,6 @@
+.DS_Store
+.svn
+node_modules/
+HEAD
+/wilcity-shortcodes.zip
+wilcity-shortcodes/

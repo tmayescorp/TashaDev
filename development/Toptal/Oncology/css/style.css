@@ -1,0 +1,664 @@
+/* landing page styles*/
+/* Toptal LLC - Tasha Mayes 11/20/19 */
+body {
+    margin     : -1px;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+h1,
+h2,
+h3,
+p,
+ul,
+li,
+a {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.container-full {
+    max-width       : 100%;
+    background-color: #fafafa;
+}
+
+.container-full .gray {
+    background-color: #dcdcdc;
+}
+
+.contains {
+    max-width: 1024px;
+    margin   : 0 auto;
+    display  : block;
+    padding  : 0 15px;
+
+}
+
+.container {
+    max-width       : 1024px;
+    margin          : 0 auto;
+    width           : 100%;
+    display         : block;
+    height          : auto;
+    background-color: #fafafa;
+    padding-bottom  : 135px;
+    border          : 1px solid #ccc;
+}
+
+nav {
+    max-width       : 100%;
+    height          : 54px;
+    margin          : 0 auto;
+    box-shadow      : 0 1px 2px 0 rgba(0, 0, 0, 0.25);
+    background-color: #ffffff;
+    display         : block;
+}
+
+.logo {
+    margin-left: 50px;
+    float      : left;
+    padding    : 10.8px 0;
+    font-size  : 15px;
+    color      : blue;
+    font-weight: bold;
+}
+
+nav a.right {
+    float          : right;
+    margin-right   : 61.5px;
+    padding        : 17px 19px;
+    font-size      : 12px;
+    font-weight    : normal;
+    font-stretch   : normal;
+    font-style     : normal;
+    line-height    : normal;
+    letter-spacing : normal;
+    text-align     : center;
+    color          : #636b74;
+    text-decoration: none;
+    font-family    : 'Noto Sans TC', sans-serif;
+
+}
+
+.row {
+    clear  : both;
+    display: block;
+    padding: 0 52px 0;
+}
+
+.cta-left h1 {
+    font-family   : 'Noto Sans TC', sans-serif;
+    max-width     : 556px;
+    margin-top    : 100px;
+    font-size     : 32px;
+    font-weight   : bold;
+    font-stretch  : normal;
+    font-style    : normal;
+    line-height   : 1.44;
+    letter-spacing: normal;
+    color         : #3bb2da;
+}
+
+.cta-left {
+    float    : left;
+    max-width: 556px;
+
+}
+
+.cta-left p {
+    font-family   : 'Noto Sans TC', sans-serif;
+    max-width     : 556px;
+    font-size     : 20px;
+    font-weight   : normal;
+    font-stretch  : normal;
+    font-style    : normal;
+    line-height   : 1.4;
+    letter-spacing: normal;
+    color         : #636b74;
+    width         : 100%;
+    margin-bottom : 57px;
+
+}
+
+.cta-form {
+    margin-top      : 51px;
+    float           : right;
+    max-width       : 302px;
+    width           : 100%;
+    height          : 281px;
+    border-radius   : 6px;
+    box-shadow      : 0 2px 3px 0 rgba(0, 0, 0, 0.25);
+    border          : solid 1px #e5e5ea;
+    background-color: #ffffff;
+    padding         : 7px 18px 13px 23px;
+}
+
+.cta-form h1 {
+    margin: 0;
+    height: auto;
+    font-family: 'Noto Sans TC',
+        sans-serif;
+    font-size     : 20px;
+    font-weight   : bold;
+    font-stretch  : normal;
+    font-style    : normal;
+    line-height   : normal;
+    letter-spacing: normal;
+    text-align    : center;
+    color         : #3bb2da;
+}
+
+input[type="password"],
+.opera input[type="password"],
+.webkit input[type="password"] {
+    font          : large Verdana, sans-serif;
+    letter-spacing: 1px;
+}
+
+.cta-form input {
+    clear        : both;
+    width        : 281px;
+    height       : 38px;
+    border-radius: 2px;
+    border       : solid 1px rgba(118, 118, 118, 0.35);
+    display      : block;
+    padding-left : 9px;
+
+}
+
+input {
+    padding       : 3px;
+    font-family   : 'Noto Sans TC', sans-serif;
+    font-size     : 12px;
+    font-weight   : normal;
+    font-stretch  : normal;
+    font-style    : normal;
+    line-height   : normal;
+    letter-spacing: normal;
+    color         : #767676;
+}
+
+.cta-form label {
+    padding-top: 11px;
+    font-family: 'Noto Sans TC',
+        sans-serif;
+    font-size     : 12px;
+    font-weight   : normal;
+    font-stretch  : normal;
+    font-style    : normal;
+    line-height   : normal;
+    letter-spacing: normal;
+    color         : #767676;
+    display       : block;
+    margin-bottom : 3px;
+}
+
+button {
+    width           : 98%;
+    height          : 36px;
+    border-radius   : 8px;
+    padding         : 0 15px;
+    background-color: #0079c2;
+    font-family     : 'Noto Sans TC',
+        sans-serif;
+    font-size     : 14px;
+    font-weight   : bold;
+    font-stretch  : normal;
+    font-style    : normal;
+    line-height   : normal;
+    letter-spacing: normal;
+    text-align    : center;
+    color         : #ffffff;
+    margin-bottom : 13px;
+    margin        : 0 auto;
+}
+
+small {
+    padding: 15px;
+    font-family: 'Noto Sans TC',
+        sans-serif;
+    font-size     : 10px;
+    font-weight   : normal;
+    font-stretch  : normal;
+    font-style    : normal;
+    line-height   : 1.4;
+    letter-spacing: normal;
+    text-align    : center;
+    color         : #636b74;
+    display       : block;
+}
+
+small a {
+    color: #0079c2;
+}
+
+small a:hover {
+    color: #000000;
+}
+
+.col-1 {
+    max-width    : 270px;
+    width        : 40%;
+    padding-right: 41px;
+    float        : left;
+    text-align   : center;
+    display      : block;
+    margin-bottom: 24px;
+}
+
+.col-1:last-child {
+    padding-right: 0;
+}
+
+.col-1 h2 {
+    font-family: 'Noto Sans TC',
+        sans-serif;
+    font-size     : 20px;
+    font-weight   : 500;
+    font-stretch  : normal;
+    font-style    : normal;
+    line-height   : normal;
+    letter-spacing: normal;
+    text-align    : center;
+    color         : #636b74;
+}
+
+.col-1 p {
+    font-family: 'Noto Sans TC',
+        sans-serif;
+    font-size     : 15px;
+    font-weight   : normal;
+    font-stretch  : normal;
+    font-style    : normal;
+    line-height   : 1.33;
+    letter-spacing: normal;
+    text-align    : center;
+    color         : #636b74;
+    height        : 96px;
+}
+
+.bg-img {
+    background-position: 100% 43%;
+    background-image   : url(https://www.tashadev.com/development/Toptal/Oncology//images/path.png);
+    background-image   : -webkit-image-set(url(https://www.tashadev.com/development/Toptal/Oncology//images/path.png) 1x, url(https://www.tashadev.com/development/Toptal/Oncology//images/path.png@2x.png) 2x, url(../images/path.png@3x.png) 3x, );
+    background-image   : image-set(url(https://www.tashadev.com/development/Toptal/Oncology//images/path.png) 1x, url(https://www.tashadev.com/development/Toptal/Oncology//images/path@2x.png) 2x, url(https://www.tashadev.com/development/Toptal/Oncology//images/path@3x.png) 3x, );
+    background-size    : 51%;
+    height             : 290px;
+    background-repeat  : no-repeat;
+    padding-top        : 110px;
+}
+
+.player {
+    display : block;
+    left    : 20%;
+    top     : 50%;
+    position: relative;
+}
+
+.textoverlay {
+    position : relative;
+    display  : block;
+    float    : left;
+    top      : 10%;
+    left     : 5%;
+    max-width: 400px;
+}
+
+.textoverlay h1 {
+    font-size     : 30px;
+    margin-top    : 0;
+    margin-bottom : 0;
+    font-weight   : bold;
+    font-stretch  : normal;
+    font-style    : normal;
+    line-height   : 0.75;
+    letter-spacing: normal;
+    color         : #636b74;
+    font-family   : 'Noto Sans TC', sans-serif;
+}
+
+.textoverlay p {
+    max-width     : 300px;
+    font-size     : 18px;
+    font-weight   : normal;
+    font-stretch  : normal;
+    font-style    : normal;
+    line-height   : 1.22;
+    letter-spacing: normal;
+    color         : #636b74;
+    font-family   : 'Noto Sans TC',
+        sans-serif;
+}
+
+.video-full {
+    height             : 630px;
+    border-radius      : 2px;
+    box-shadow         : 0 0 6px 1px rgba(0, 0, 0, 0.05);
+    clear              : both;
+    margin-bottom      : 0;
+    padding-bottom     : 0;
+    background-position: 100%;
+    background-image   : url(https://www.tashadev.com/development/Toptal/Oncology//images/video-image-default.png);
+    background-image   :
+        -webkit-image-set(url(https://www.tashadev.com/development/Toptal/Oncology//images/video-image-default.png) 1x,
+            url(https://www.tashadev.com/development/Toptal/Oncology//images/video-image-default@2x.png) 2x,
+            url(https://www.tashadev.com/development/Toptal/Oncology//images/video-image-default@3x.png) 3x,
+        );
+    background-image:
+        image-set(url(https://www.tashadev.com/development/Toptal/Oncology//images/video-image-default.png) 1x,
+            url(https://www.tashadev.com/development/Toptal/Oncology//images/video-image-default@2x.png) 2x,
+            url(https://www.tashadev.com/development/Toptal/Oncology//images/video-image-default@3x.png) 3x,
+        );
+}
+
+.video-full img {
+    margin-top: -7px;
+}
+
+.cta-options {
+    margin : 78px 0;
+    clear  : both;
+    padding: 0 62px;
+}
+
+.cta-options img.bullet {
+    float     : left;
+    position  : relative;
+    top       : 28px;
+    left      : -4px;
+    max-width : 14px;
+    max-height: 14px;
+}
+
+.cta-options h3 {
+    font-family   : 'Noto Sans TC', sans-serif;
+    font-size     : 20px;
+    max-width     : 330px;
+    font-weight   : bold;
+    font-stretch  : normal;
+    font-style    : normal;
+    letter-spacing: normal;
+    color         : #636b74;
+    padding-left  : 20px;
+}
+
+.cta-options p {
+    max-width     : 330px;
+    font-family   : 'Noto Sans TC', sans-serif;
+    font-size     : 20px;
+    font-weight   : normal;
+    font-stretch  : normal;
+    font-style    : normal;
+    line-height   : 1.3;
+    letter-spacing: normal;
+    color         : #636b74;
+    padding-left  : 20px;
+
+}
+
+.cta-options img.left {
+    padding-right: 25px;
+    float        : left;
+}
+
+.cta-options img {
+    max-width    : 60%;
+    float        : right;
+    margin-bottom: 78px;
+    width        : 534px;
+    height       : 362px;
+
+
+}
+
+.col-2 {
+    max-width : 37%;
+    float     : left;
+    display   : block;
+    margin-top: 70px;
+}
+
+footer {
+    background-color: #fafafa;
+    max-width       : 1024px;
+    margin          : 0 auto;
+    text-align      : center;
+    clear           : both;
+}
+
+footer .container {
+    margin-top   : 107px;
+    border-top   : 1px solid #d1d1d6;
+    max-width    : 800px;
+    margin       : 0 auto;
+    text-align   : center;
+    margin-bottom: 10px;
+    border-left  : none;
+    border-right : none;
+    border-bottom: none;
+
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer ul li {
+    display      : inline-block;
+    padding-right: 14px;
+    color        : #d1d1d6;
+
+}
+
+footer ul li a {
+    padding-right  : 14px;
+    font-size      : 12px;
+    font-weight    : normal;
+    font-stretch   : normal;
+    font-style     : normal;
+    line-height    : normal;
+    letter-spacing : normal;
+    color          : #636b74;
+    text-decoration: none;
+    font-family    : 'Noto Sans TC', sans-serif;
+}
+
+footer p {
+    font-family: 'Noto Sans TC',
+        sans-serif;
+    font-size     : 10px;
+    font-weight   : normal;
+    font-stretch  : normal;
+    font-style    : normal;
+    line-height   : normal;
+    letter-spacing: normal;
+    text-align    : center;
+    color         : #636b74;
+}
+
+/* The Modal (background) */
+.modal {
+    display         : none;
+    position        : fixed;
+    z-index         : 1;
+    padding-top     : 100px;
+    left            : 0;
+    top             : 0;
+    width           : 100%;
+    height          : 100%;
+    overflow        : auto;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+/* Modal Content */
+.modal-window {
+    position        : fixed;
+    box-shadow      : 0 1px 2px 0 rgba(0, 0, 0, 0.25);
+    background-color: rgba(0, 0, 0, 0.60);
+    top             : 0;
+    right           : 0;
+    bottom          : 0;
+    left            : 0;
+    z-index         : 999;
+    visibility      : hidden;
+    opacity         : 0;
+    pointer-events  : none;
+    transition      : all 0.3s;
+}
+
+.modal-window div h1 {
+    text-align: center;
+    max-width : 100%;
+    padding   : 20px 0 0;
+}
+
+.modal-window div p,
+.modal-body ol li {
+    font-size     : 12px;
+    font-weight   : normal;
+    font-stretch  : normal;
+    font-style    : normal;
+    line-height   : 1.58;
+    letter-spacing: normal;
+    color         : #636b74;
+}
+
+.modal-window:target {
+    visibility    : visible;
+    opacity       : 1;
+    pointer-events: auto;
+}
+
+#open-video.modal-window>div {
+    width     : 1024px;
+    position  : absolute;
+    top       : 50%;
+    left      : 50%;
+    transform : translate(-50%, -50%);
+    padding   : 0;
+    background: #fff;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.25);
+    max-height: calc(100vh - 210px);
+    overflow-y: auto;
+}
+
+.modal-window>div {
+    width           : 800px;
+    position        : absolute;
+    top             : 50%;
+    left            : 50%;
+    transform       : translate(-50%, -50%);
+    max-height      : calc(100vh - 210px);
+    width           : 700px;
+    height          : auto;
+    border-radius   : 6px;
+    box-shadow      : 0 0 2px 3px rgba(0, 0, 0, 0.05);
+    background-color: #ffffff;
+}
+
+.modal-header {
+    border-bottom: 1px solid #ccc;
+}
+.modal-header h1 {
+    color:#3BB2DA;
+}
+
+.modal-body {
+    overflow-y: auto;
+    max-height: 400px;
+    padding   : 0 2em;
+}
+
+.modal-body p.center {
+    text-align    : center;
+    font-size     : 15px !important;
+    padding-bottom: 20px;
+}
+
+.modal-body p.center a {
+    font-size: 15px !important;
+}
+
+.modal-body a {
+    font-size     : 15px;
+    font-weight   : normal;
+    font-stretch  : normal;
+    font-style    : normal;
+    line-height   : 1.27;
+    letter-spacing: normal;
+    text-align    : center;
+    color         : #0079c2;
+}
+
+.cta-close {
+    display                : block;
+    text-align             : center;
+    max-width              : 800px;
+    border-top             : 1px solid #ccc;
+    position               : relative !important;
+    height                 : 20px !important;
+    bottom                 : 100% !important;
+    top                    : 95% !important;
+    border-top-left-radius : 0 !important;
+    border-top-right-radius: 0 !important;
+    padding                : 2em;
+}
+
+.cta-close .modal-close {
+    width           : 103px;
+    height          : 36px;
+    border-radius   : 8px;
+    background-color: #0079c2;
+    margin          : 0 auto;
+    position        : relative;
+    color           : #fff;
+    line-height     : 0;
+    font-size       : 14px;
+    font-weight     : bold;
+    font-stretch    : normal;
+    font-style      : normal;
+    line-height     : normal;
+    letter-spacing  : normal;
+    text-align      : center;
+    color           : #ffffff;
+    right           : none;
+    text-align      : center;
+    top             : 0;
+    padding         : 13px;
+    text-decoration : none;
+}
+
+.modal-window header {
+    font-weight: bold;
+}
+
+.modal-window h1 {
+    font-size: 150%;
+    margin   : 0 0 15px;
+}
+
+.modal-close {
+    color          : #aaa;
+    line-height    : 50px;
+    font-size      : 80%;
+    position       : absolute;
+    text-align     : center;
+    width          : 70px;
+    text-decoration: none;
+    font-size      : 18px;
+    right          : 0;
+    top            : 10px;
+}
+
+.modal-close:hover {
+    color: black;
+}
+
+.modal-window div:not(:last-of-type) {
+    margin-bottom: 15px;
+}
+
+@media screen and (min-width: 1200px) {
+    .container {
+        max-width: 1500px;
+    }
+}

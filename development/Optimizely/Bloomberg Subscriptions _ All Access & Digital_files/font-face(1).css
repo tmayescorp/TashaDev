@@ -1,0 +1,31 @@
+
+@font-face {
+    font-family: 'BWHaasGrotesk-55Roman-Web';
+    font-display: fallback;
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Web-7998fbcba8.eot');
+    src: local('?'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Web-5cf5733cd9.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Web-a1ea4fd367.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'BWHaasGrotesk-75Bold-Web';
+    font-display: fallback;
+    
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-75Bold-Web-de8c77cce2.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-75Bold-Web-506363704e.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Bloomberg';
+    font-display: block;
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/Bloomberg-a9711631fc.eot');
+    src: local('?'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/Bloomberg-03c9b52a6f.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/Bloomberg-7de2f22d56.woff') format('woff'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/Bloomberg-b4c34ea4cf.svg') format('svg'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/Bloomberg-29b21823f6.ttf') format('truetype');
+}

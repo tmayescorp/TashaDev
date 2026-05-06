@@ -1,0 +1,28 @@
+<?php
+return [
+	'domain' => 'wp-module-help-center',
+	'plural-forms' => 'nplurals=2; plural=(n != 1);',
+	'language' => 'en_GB',
+	'project-id-version' => '',
+	'pot-creation-date' => '2025-02-13T09:55:55+00:00',
+	'po-revision-date' => '2026-04-29T15:29:36+00:00',
+	'x-generator' => 'WP-CLI 2.11.0',
+	'messages' => [
+		'We could not find the brand' => 'We could not find the brand',
+		'You must be authenticated to make this call' => 'You must be authenticated to make this call',
+		'Bluehost' => 'Bluehost',
+		'Your dream site is just a click away.' => 'Your dream site is just a click away.',
+		'Let\'s build a site you love, together.' => 'Let\'s build a site you love, together.',
+		'With Pro Design Live, our expert team bring your vision to life. We help you to create the site you\'ve always dreamed of — tailored to your goals, ready to perform.' => 'With Pro Design Live, our expert team bring your vision to life. We help you to create the site you\'ve always dreamed of — tailored to your goals, ready to perform.',
+		'Start Now' => 'Start Now',
+		'HostGator' => 'HostGator',
+		'NFD helpcenter data' => 'NFD helpcenter data',
+		'Help' => 'Help',
+		'If you need help with your %1$s account, give us a call at %2$s or %3$s with one of our support agents — we\'re here for you!' => 'If you need help with your %1$s account, give us a call at %2$s or %3$s with one of our support agents — we\'re here for you!',
+		'If you need help with your %1$s account, %2$s with one of our support agents — we\'re here for you!' => 'If you need help with your %1$s account, %2$s with one of our support agents — we\'re here for you!',
+		'Call at %1$s or %2$s with one of our support agents — we will assist you as soon as possible.' => 'Call at %1$s or %2$s with one of our support agents — we will assist you as soon as possible.',
+		'Or %1$s with one of our support agents — we will assist you as soon as possible.' => 'Or %1$s with one of our support agents — we will assist you as soon as possible.',
+		'The request failed' => 'The request failed',
+		'No data found' => 'No data found',
+	],
+];

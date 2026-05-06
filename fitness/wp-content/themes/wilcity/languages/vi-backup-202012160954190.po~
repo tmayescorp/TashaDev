@@ -1,0 +1,3786 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WilCity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-16 09:34+0000\n"
+"PO-Revision-Date: 2020-12-16 09:53+0000\n"
+"Last-Translator: \n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.6"
+
+#: languages/config.translation.php:937 configs/config.translation.php:937
+msgid "$ 59.99 - $ 79.99"
+msgstr ""
+
+#: languages/config.translation.php:61 configs/config.translation.php:61
+msgid "%average% average based on %total%"
+msgstr ""
+
+#: languages/config.translation.php:62 configs/config.translation.php:62
+msgid "%average% average based on %total% for"
+msgstr ""
+
+#: languages/config.translation.php:21 configs/config.translation.php:21
+#, php-format
+msgid "%s & Above"
+msgstr ""
+
+#: languages/config.translation.php:20 configs/config.translation.php:20
+#, php-format
+msgid "%s & Under"
+msgstr ""
+
+#: index.php:76 search.php:54 post-types/post.php:50
+#, php-format
+msgid "%s Comments"
+msgstr ""
+
+#: languages/config.translation.php:456 configs/config.translation.php:456
+#, php-format
+msgid "%s hours ago"
+msgstr ""
+
+#: languages/config.translation.php:455 configs/config.translation.php:455
+#, php-format
+msgid "%s minutes ago"
+msgstr ""
+
+#: languages/config.translation.php:222 configs/config.translation.php:222
+#, php-format
+msgid "'%s is a required field"
+msgstr ""
+
+#: languages/config.translation.php:221 configs/config.translation.php:221
+#, php-format
+msgid "'%s is a required fields"
+msgstr ""
+
+#: admin/public/class.WilokeComment.php:14
+msgid "(Edit)"
+msgstr ""
+
+#: configs/config.metaboxes.php:478
+msgid "+ Add a Button"
+msgstr ""
+
+#: configs/config.metaboxes.php:349
+msgid "-----"
+msgstr ""
+
+#: languages/config.translation.php:398 configs/config.translation.php:398
+msgid "1 minute ago"
+msgstr ""
+
+#: configs/config.themeoptions.php:1698
+msgid "404"
+msgstr ""
+
+#: languages/config.translation.php:399 configs/config.translation.php:399
+msgid "A few minutes ago"
+msgstr ""
+
+#: languages/config.translation.php:454 configs/config.translation.php:454
+msgid "A few seconds ago"
+msgstr ""
+
+#: languages/config.translation.php:178 configs/config.translation.php:178
+msgid "A payment method is required"
+msgstr ""
+
+#: author-listing/navigation.php:23
+msgid "About"
+msgstr ""
+
+#: languages/config.translation.php:19 configs/config.translation.php:19
+#, php-format
+msgid "Above %s"
+msgstr ""
+
+#: languages/config.translation.php:722 configs/config.translation.php:722
+msgid "Active"
+msgstr ""
+
+#: configs/config.metaboxes.php:467
+msgid "Add a button to your Page"
+msgstr ""
+
+#: languages/config.translation.php:871 configs/config.translation.php:871
+msgid "Add a review"
+msgstr ""
+
+#: languages/config.translation.php:92 configs/config.translation.php:92
+msgid "Add hours"
+msgstr "Thêm Giờ "
+
+#: languages/config.translation.php:50 configs/config.translation.php:50
+msgid "Add More"
+msgstr ""
+
+#: languages/config.translation.php:830 configs/config.translation.php:830
+msgid "Add more images to this listing"
+msgstr ""
+
+#: configs/config.themeoptions.php:1852
+msgid "Add More Sidebar"
+msgstr ""
+
+#: languages/config.translation.php:827 configs/config.translation.php:827
+msgid "Add more videos to this listing"
+msgstr ""
+
+#: admin/inc/redux-extensions/wiloke-repeater/wiloke_repeater_field/field_wiloke_repeater_field.php:88
+#: admin/inc/redux-extensions/wiloke-pickupicon/wiloke_pickupicon_field/field_wiloke_pickupicon_field.php:86
+msgid "Add New"
+msgstr ""
+
+#: languages/config.translation.php:323 configs/config.translation.php:323
+msgid "Add new"
+msgstr ""
+
+#: languages/config.translation.php:881 configs/config.translation.php:881
+msgid "Add Photos And Videos"
+msgstr ""
+
+#: single-listing/events/event.php:79
+msgid "Add Review"
+msgstr ""
+
+#: languages/config.translation.php:179 configs/config.translation.php:179
+msgid "Add Shipping Form"
+msgstr ""
+
+#: languages/config.translation.php:701 configs/config.translation.php:701
+msgid "Add Social"
+msgstr ""
+
+#: languages/config.translation.php:190 configs/config.translation.php:190
+msgid "Add to cart"
+msgstr ""
+
+#: single-event/header.php:70
+msgid "Add to my calendar"
+msgstr ""
+
+#: languages/config.translation.php:822 configs/config.translation.php:822
+#: configs/config.metaboxes.php:161
+msgid "Add Video"
+msgstr ""
+
+#: languages/config.translation.php:25 configs/config.translation.php:25
+msgid "Add your coupon"
+msgstr ""
+
+#: languages/config.translation.php:207 configs/config.translation.php:207
+#, php-format
+msgid "Added %s to your wishlist"
+msgstr ""
+
+#: languages/config.translation.php:484 configs/config.translation.php:484
+msgid "Address"
+msgstr ""
+
+#: languages/config.translation.php:485 configs/config.translation.php:485
+msgid "Address 1"
+msgstr ""
+
+#: languages/config.translation.php:486 configs/config.translation.php:486
+msgid "Address 2"
+msgstr ""
+
+#: configs/config.single-sidebar.php:5
+msgid "Address Info"
+msgstr ""
+
+#: languages/config.translation.php:328 configs/config.translation.php:328
+msgid "Ads"
+msgstr ""
+
+#: configs/config.themeoptions.php:1792
+msgid "Advanced Settings"
+msgstr ""
+
+#: languages/config.translation.php:461 configs/config.translation.php:461
+msgid "All"
+msgstr ""
+
+#: languages/config.translation.php:712 configs/config.translation.php:712
+msgid "All Categories"
+msgstr ""
+
+#: languages/config.translation.php:212 configs/config.translation.php:212
+msgid "All comments have been loaded"
+msgstr ""
+
+#: languages/config.translation.php:660 configs/config.translation.php:660
+msgid "All favorites have been displayed"
+msgstr ""
+
+#: languages/config.translation.php:711 configs/config.translation.php:711
+msgid "All Listings"
+msgstr ""
+
+#: languages/config.translation.php:713 configs/config.translation.php:713
+msgid "All Locations"
+msgstr ""
+
+#: languages/config.translation.php:458 configs/config.translation.php:458
+msgid "All Notification is loaded"
+msgstr ""
+
+#: languages/config.translation.php:682 configs/config.translation.php:682
+msgid "All Regions"
+msgstr ""
+
+#: languages/config.translation.php:714 configs/config.translation.php:714
+msgid "All Tags"
+msgstr ""
+
+#: languages/config.translation.php:672 configs/config.translation.php:672
+msgid "Allow accessing your location while you are using the app?"
+msgstr ""
+
+#: languages/config.translation.php:746 configs/config.translation.php:746
+msgid "Already have an account?"
+msgstr ""
+
+#: languages/config.translation.php:53 configs/config.translation.php:53
+msgid "Always open"
+msgstr ""
+
+#: languages/config.translation.php:739 configs/config.translation.php:739
+msgid "Amount"
+msgstr ""
+
+#: languages/config.translation.php:208 configs/config.translation.php:208
+msgid "An error occurred while adding products to the wishlist."
+msgstr ""
+
+#: languages/config.translation.php:129 configs/config.translation.php:129
+msgid "Announcement"
+msgstr ""
+
+#: languages/config.translation.php:117 configs/config.translation.php:117
+msgid "Apply"
+msgstr ""
+
+#: wiloke-submission/checkout.php:165
+msgid "Apply Coupon"
+msgstr ""
+
+#: languages/config.translation.php:265 configs/config.translation.php:265
+msgid "Approved"
+msgstr ""
+
+#: languages/config.translation.php:255 configs/config.translation.php:255
+msgid "Approved Requests"
+msgstr ""
+
+#: languages/config.translation.php:388 configs/config.translation.php:388
+msgid "Apr"
+msgstr ""
+
+#: languages/config.translation.php:374 configs/config.translation.php:374
+msgid "April"
+msgstr ""
+
+#: languages/config.translation.php:849 configs/config.translation.php:849
+msgid "Are you sure that you want to hide this listing?"
+msgstr ""
+
+#: languages/config.translation.php:147 configs/config.translation.php:147
+msgid "Are you sure to delete this account?"
+msgstr ""
+
+#: languages/config.translation.php:947 configs/config.translation.php:947
+msgid "Are you sure want to delete this comment?"
+msgstr ""
+
+#: languages/config.translation.php:104 configs/config.translation.php:104
+msgid "Are you sure you want to cancel your subscription?"
+msgstr ""
+
+#: languages/config.translation.php:867 configs/config.translation.php:867
+msgid "Are you want to delete this comment?"
+msgstr ""
+
+#: languages/config.translation.php:320 configs/config.translation.php:320
+msgid "Are you want to delete this setting?"
+msgstr ""
+
+#: languages/config.translation.php:45 configs/config.translation.php:45
+msgid "ASC"
+msgstr ""
+
+#: languages/config.translation.php:392 configs/config.translation.php:392
+msgid "Aug"
+msgstr ""
+
+#: languages/config.translation.php:378 configs/config.translation.php:378
+msgid "August"
+msgstr ""
+
+#: languages/config.translation.php:131 configs/config.translation.php:131
+#: configs/config.single-sidebar.php:10
+msgid "Author"
+msgstr ""
+
+#: languages/config.translation.php:451 configs/config.translation.php:451
+msgid "Author ID is required"
+msgstr ""
+
+#: languages/config.translation.php:479 configs/config.translation.php:479
+msgid "Avatar"
+msgstr ""
+
+#: languages/config.translation.php:778 languages/config.translation.php:874
+#: configs/config.translation.php:778 configs/config.translation.php:874
+msgid "Average Rating"
+msgstr ""
+
+#: single-listing/home-sections/average-rating.php:7
+#: single-listing/home-sections/review-statistic.php:9
+msgid "Average Reviews"
+msgstr ""
+
+#: languages/config.translation.php:188 configs/config.translation.php:188
+msgid "Back"
+msgstr ""
+
+#: languages/config.translation.php:463 configs/config.translation.php:463
+msgid "Back To"
+msgstr ""
+
+#: languages/config.translation.php:743 languages/config.translation.php:875
+#: configs/config.translation.php:743 configs/config.translation.php:875
+msgid "Basic Info"
+msgstr ""
+
+#: configs/config.metaboxes.php:316
+msgid "Belongs To"
+msgstr ""
+
+#: languages/config.translation.php:730 configs/config.translation.php:730
+msgid "Billing History"
+msgstr ""
+
+#: languages/config.translation.php:726 configs/config.translation.php:726
+msgid "Billing Type"
+msgstr ""
+
+#: functions.php:484
+msgid "Blog Sidebar"
+msgstr ""
+
+#: languages/config.translation.php:229 configs/config.translation.php:229
+msgid "Bookings"
+msgstr ""
+
+#: languages/config.translation.php:819 configs/config.translation.php:819
+msgid "Boost Event"
+msgstr ""
+
+#: languages/config.translation.php:812 configs/config.translation.php:812
+msgid "Boost now"
+msgstr ""
+
+#: languages/config.translation.php:818 configs/config.translation.php:818
+msgid "Boost Post"
+msgstr ""
+
+#: languages/config.translation.php:814 configs/config.translation.php:814
+msgid "Boost this post to a specify positions on the website"
+msgstr ""
+
+#: single-listing/home-sections/promotion.php:21
+msgid "Boost your listing"
+msgstr ""
+
+#: single-listing/home-sections/promotion.php:23
+msgid "Boost Your Listing today"
+msgstr ""
+
+#: languages/config.translation.php:16 configs/config.translation.php:16
+msgid "Business Closures"
+msgstr ""
+
+#: configs/config.themeoptions.php:1424 configs/config.single-sidebar.php:3
+msgid "Business Hours"
+msgstr ""
+
+#: configs/config.metaboxes.php:489
+msgid "Button Icon"
+msgstr ""
+
+#: configs/config.metaboxes.php:483
+msgid "Button Link"
+msgstr ""
+
+#: configs/config.metaboxes.php:477
+msgid "Button Name"
+msgstr ""
+
+#: languages/config.translation.php:344 languages/config.translation.php:345
+#: configs/config.translation.php:344 configs/config.translation.php:345
+msgid "Call Us"
+msgstr ""
+
+#: languages/config.translation.php:866 configs/config.translation.php:866
+msgid "Cancel"
+msgstr ""
+
+#: languages/config.translation.php:55 configs/config.translation.php:55
+msgid "Cancel current subscription and then upgrade to new plan"
+msgstr ""
+
+#: languages/config.translation.php:173 configs/config.translation.php:173
+msgid "Cancel Order"
+msgstr ""
+
+#: languages/config.translation.php:103 configs/config.translation.php:103
+msgid "Cancel Plan"
+msgstr ""
+
+#: comment-template.php:12
+msgid "Cancel Review"
+msgstr ""
+
+#: languages/config.translation.php:268 configs/config.translation.php:268
+msgid "Cancelled"
+msgstr ""
+
+#: languages/config.translation.php:256 configs/config.translation.php:256
+msgid "Cancelled Requests"
+msgstr ""
+
+#: languages/config.translation.php:741 configs/config.translation.php:741
+#: configs/config.single-sidebar.php:7
+msgid "Categories"
+msgstr ""
+
+#: languages/config.translation.php:494 configs/config.translation.php:494
+msgid "Change Password"
+msgstr ""
+
+#: languages/config.translation.php:721 configs/config.translation.php:721
+msgid "Change Plan"
+msgstr ""
+
+#: languages/config.translation.php:442 configs/config.translation.php:442
+msgid "Chat friend id is required"
+msgstr ""
+
+#: configs/config.metaboxes.php:291
+msgid "Cheap"
+msgstr ""
+
+#: languages/config.translation.php:191 configs/config.translation.php:191
+msgid "Check It Out"
+msgstr ""
+
+#: languages/config.translation.php:14 configs/config.listing.php:42
+#: configs/config.translation.php:14
+msgid "Checkin"
+msgstr ""
+
+#: single-listing/home-sections/test-multiple-single-products.php:9
+msgid "Checkout"
+msgstr ""
+
+#: languages/config.translation.php:487 configs/config.translation.php:487
+msgid "City"
+msgstr ""
+
+#: configs/config.metaboxes.php:447 configs/config.single-sidebar.php:11
+msgid "Claim Listing"
+msgstr ""
+
+#: languages/config.translation.php:940 configs/config.translation.php:940
+msgid "Claim This Listing"
+msgstr ""
+
+#: post-types/listing.php:49
+msgid "Claimed"
+msgstr ""
+
+#: admin/class.wiloke.php:345
+msgid "Class doesn't exist!"
+msgstr ""
+
+#: languages/config.translation.php:116 configs/config.translation.php:116
+msgid "Clear"
+msgstr ""
+
+#: languages/config.translation.php:93 configs/config.translation.php:93
+msgid "Closed"
+msgstr ""
+
+#: languages/config.translation.php:330 configs/config.translation.php:330
+msgid "Closed at"
+msgstr ""
+
+#: languages/config.translation.php:64 configs/config.translation.php:64
+msgid "Closes"
+msgstr "Đóng cửa "
+
+#: configs/config.install_plugins.php:22
+msgid "Cmb2"
+msgstr ""
+
+#: languages/config.translation.php:201 configs/config.translation.php:201
+msgid "Come back to shop"
+msgstr ""
+
+#: comment-template.php:15 single-post/comment-form.php:18
+#: languages/config.translation.php:842 configs/config.translation.php:842
+#: reviews/item1.php:80 reviews/item.php:80
+#: single-listing/partials/review-item.php:67
+msgid "Comment"
+msgstr ""
+
+#: languages/config.translation.php:843 configs/config.translation.php:843
+msgid "Comments"
+msgstr ""
+
+#: languages/config.translation.php:264 configs/config.translation.php:264
+msgid "Completed"
+msgstr ""
+
+#: languages/config.translation.php:497 configs/config.translation.php:497
+msgid "Confirm Password"
+msgstr ""
+
+#: languages/config.translation.php:443 configs/config.translation.php:443
+msgid "Congrats! The author messages has been deleted successfully."
+msgstr ""
+
+#: languages/config.translation.php:445 configs/config.translation.php:445
+msgid "Congrats! The message has been deleted successfully."
+msgstr ""
+
+#: languages/config.translation.php:432 configs/config.translation.php:432
+msgid "Congrats! The notification has been deleted successfully."
+msgstr ""
+
+#: languages/config.translation.php:29 configs/config.translation.php:29
+msgid "Congrats! Two-factor authenticator has been enabled"
+msgstr ""
+
+#: languages/config.translation.php:416 configs/config.translation.php:416
+msgid "Congrats! Your account has been created successfully."
+msgstr ""
+
+#: languages/config.translation.php:459 configs/config.translation.php:459
+msgid "Congrats! Your password has been updated successfully."
+msgstr ""
+
+#: languages/config.translation.php:585 configs/config.translation.php:585
+msgid "Congrats! Your profile have been updated"
+msgstr ""
+
+#: languages/config.translation.php:276 configs/config.translation.php:276
+msgid "Congratulation! This product has been deleted successfully"
+msgstr ""
+
+#: languages/config.translation.php:337 configs/config.translation.php:337
+msgid "Congratulations! Your discussion has been posted successfully"
+msgstr ""
+
+#: languages/config.translation.php:335 configs/config.translation.php:335
+msgid "Congratulations! Your discussion has been updated successfully"
+msgstr ""
+
+#: languages/config.translation.php:247 configs/config.translation.php:247
+msgid ""
+"Congratulations! Your withdraw has been submitted successfully. We will "
+"contact you shortly."
+msgstr ""
+
+#: languages/config.translation.php:17 configs/config.translation.php:17
+msgid "Connect Instafeed Hub"
+msgstr ""
+
+#: configs/config.metaboxes.php:217
+msgid "Contact Information"
+msgstr ""
+
+#: single-listing/events/event.php:85
+msgid "Contact Now"
+msgstr ""
+
+#: languages/config.translation.php:141 configs/config.translation.php:141
+msgid "Content"
+msgstr ""
+
+#: languages/config.translation.php:466 configs/config.translation.php:466
+msgid "Continue"
+msgstr ""
+
+#: languages/config.translation.php:305 configs/config.translation.php:305
+msgid "Copied"
+msgstr ""
+
+#: languages/config.translation.php:407 configs/config.translation.php:407
+msgid "Copy"
+msgstr ""
+
+#: languages/config.translation.php:946 configs/config.translation.php:946
+msgid "Copy Link"
+msgstr ""
+
+#: languages/config.translation.php:490 configs/config.translation.php:490
+msgid "Country"
+msgstr ""
+
+#: wiloke-submission/checkout.php:155
+msgid "Coupon"
+msgstr ""
+
+#: languages/config.translation.php:307 configs/config.translation.php:307
+msgid "Coupon Ends in"
+msgstr ""
+
+#: languages/config.translation.php:480 configs/config.translation.php:480
+#: configs/config.metaboxes.php:131
+msgid "Cover Image"
+msgstr ""
+
+#: single-listing/events/event.php:74
+msgid "Create Event"
+msgstr ""
+
+#: configs/config.themeoptions.php:1823
+msgid "Css Rules"
+msgstr ""
+
+#: languages/config.translation.php:725 configs/config.translation.php:725
+msgid "Currency"
+msgstr ""
+
+#: languages/config.translation.php:369 configs/config.translation.php:369
+msgid "Current Account"
+msgstr ""
+
+#: languages/config.translation.php:234 configs/config.translation.php:234
+msgid "Current Balance: "
+msgstr ""
+
+#: languages/config.translation.php:495 configs/config.translation.php:495
+msgid "Current Password"
+msgstr ""
+
+#: languages/config.translation.php:728 configs/config.translation.php:728
+msgid "Current Plan"
+msgstr ""
+
+#: configs/config.themeoptions.php:1804
+msgid "Custom"
+msgstr ""
+
+#: configs/config.themeoptions.php:1846
+msgid "Custom Color"
+msgstr ""
+
+#: configs/config.themeoptions.php:1862
+msgid "Custom CSS Code"
+msgstr ""
+
+#: configs/config.themeoptions.php:1869
+msgid "Custom Javascript Code"
+msgstr ""
+
+#: languages/config.translation.php:889 configs/config.translation.php:889
+msgid "Daily"
+msgstr ""
+
+#: languages/config.translation.php:97 configs/config.translation.php:97
+#: author-listing/navigation.php:57
+msgid "Dashboard"
+msgstr ""
+
+#: languages/config.translation.php:167 configs/config.translation.php:167
+msgid "Date"
+msgstr ""
+
+#: languages/config.translation.php:313 configs/config.translation.php:313
+msgid "day"
+msgstr ""
+
+#: languages/config.translation.php:161 configs/config.translation.php:161
+msgid "Day Off"
+msgstr ""
+
+#: languages/config.translation.php:314 configs/config.translation.php:314
+msgid "days"
+msgstr ""
+
+#: languages/config.translation.php:396 configs/config.translation.php:396
+msgid "Dec"
+msgstr ""
+
+#: languages/config.translation.php:382 configs/config.translation.php:382
+msgid "December"
+msgstr ""
+
+#: configs/config.themeoptions.php:1803
+msgid "Default"
+msgstr ""
+
+#: configs/config.themeoptions.php:1437
+msgid "Default Closed Hour"
+msgstr ""
+
+#: configs/config.themeoptions.php:681
+msgid "Default Cover Image"
+msgstr ""
+
+#: configs/config.themeoptions.php:1027
+msgid "Default Map Center"
+msgstr ""
+
+#: configs/config.themeoptions.php:1430
+msgid "Default Opening Hour"
+msgstr ""
+
+#: configs/config.themeoptions.php:1451
+msgid "Default Second Closed Hour"
+msgstr ""
+
+#: configs/config.themeoptions.php:1444
+msgid "Default Second Opening Hour"
+msgstr ""
+
+#: configs/config.themeoptions.php:687
+msgid "Default User Avatar"
+msgstr ""
+
+#: languages/config.translation.php:862 configs/config.translation.php:862
+#: reviews/toolbar.php:40 single-listing/partials/discussion-toolbar.php:16
+msgid "Delete"
+msgstr ""
+
+#: languages/config.translation.php:144 configs/config.translation.php:144
+msgid "Delete Author Messages"
+msgstr ""
+
+#: languages/config.translation.php:807 configs/config.translation.php:807
+msgid "Delete Message"
+msgstr ""
+
+#: languages/config.translation.php:405 configs/config.translation.php:405
+msgid "Delete My Account"
+msgstr ""
+
+#: languages/config.translation.php:872 configs/config.translation.php:872
+msgid "Delete Review"
+msgstr ""
+
+#: languages/config.translation.php:44 configs/config.translation.php:44
+msgid "DESC"
+msgstr ""
+
+#: languages/config.translation.php:737 configs/config.translation.php:737
+#: configs/config.themeoptions.php:1718
+msgid "Description"
+msgstr ""
+
+#: languages/config.translation.php:898 configs/config.translation.php:898
+msgid "Details"
+msgstr ""
+
+#: languages/config.translation.php:124 configs/config.translation.php:124
+msgid "Detecting your location"
+msgstr ""
+
+#: languages/config.translation.php:810 configs/config.translation.php:810
+msgid "Direct Bank Transfer"
+msgstr ""
+
+#: configs/config.metaboxes.php:336
+msgid "Directly Change Listing Status"
+msgstr ""
+
+#: configs/config.themeoptions.php:1289
+msgid "Directory Type"
+msgstr ""
+
+#: languages/config.translation.php:731 wiloke-submission/checkout.php:80
+#: wiloke-submission/thankyou.php:43 configs/config.translation.php:731
+msgid "Discount"
+msgstr ""
+
+#: languages/config.translation.php:690 configs/config.translation.php:690
+#: reviews/discussion-form.php:10 reviews/comment-form.php:7
+#: reviews/comment-form.php:10
+msgid "Discussion"
+msgstr ""
+
+#: languages/config.translation.php:691 configs/config.translation.php:691
+msgid "Discussions"
+msgstr ""
+
+#: languages/config.translation.php:478 configs/config.translation.php:478
+msgid "Display Name"
+msgstr ""
+
+#: functions.php:571
+msgid "Displaying widget items on the Footer 1 area"
+msgstr ""
+
+#: functions.php:583
+msgid "Displaying widget items on the Footer 2 area"
+msgstr ""
+
+#: functions.php:595
+msgid "Displaying widget items on the Footer 3 area"
+msgstr ""
+
+#: functions.php:607
+msgid "Displaying widget items on the Footer 4 area"
+msgstr ""
+
+#: functions.php:544
+msgid ""
+"Displaying widget items on the Listing Tag page, Listing Location page and "
+"Listing Category page"
+msgstr ""
+
+#: functions.php:485
+msgid "Displaying widget items on the Sidebar area"
+msgstr ""
+
+#: functions.php:532
+msgid "Displaying widget items on the Single Event area"
+msgstr ""
+
+#: functions.php:509
+msgid "Displaying widget items on the Single Page area"
+msgstr ""
+
+#: functions.php:497
+msgid "Displaying widget items on the Single Post area"
+msgstr ""
+
+#: languages/config.translation.php:462 configs/config.translation.php:462
+msgid "Do you want delete it from your favorites"
+msgstr ""
+
+#: languages/config.translation.php:145 configs/config.translation.php:145
+msgid "Do you want to delete all messages from this author?"
+msgstr ""
+
+#: languages/config.translation.php:143 languages/config.translation.php:409
+#: configs/config.translation.php:143 configs/config.translation.php:409
+msgid "Do you want to delete this message?"
+msgstr ""
+
+#: languages/config.translation.php:436 configs/config.translation.php:436
+msgid "Do you want to delete this notification?"
+msgstr ""
+
+#: languages/config.translation.php:873 configs/config.translation.php:873
+msgid "Do you want to delete this review?"
+msgstr ""
+
+#: languages/config.translation.php:464 configs/config.translation.php:464
+msgid "Do you want to logout?"
+msgstr ""
+
+#: languages/config.translation.php:853 configs/config.translation.php:853
+msgid "Do you want to re-publish this listing?"
+msgstr ""
+
+#: languages/config.translation.php:755 configs/config.translation.php:755
+msgid "Do you want to show the section content on the Home tab?"
+msgstr ""
+
+#: languages/config.translation.php:194 configs/config.translation.php:194
+msgid "Dokan Request"
+msgstr ""
+
+#: languages/config.translation.php:751 configs/config.translation.php:751
+msgid "Don't have an account?"
+msgstr ""
+
+#: languages/config.translation.php:787 configs/config.translation.php:787
+msgid "Down"
+msgstr ""
+
+#: languages/config.translation.php:670 configs/config.translation.php:670
+msgid "Download"
+msgstr ""
+
+#: languages/config.translation.php:274 configs/config.translation.php:274
+msgid "Earning"
+msgstr ""
+
+#: languages/config.translation.php:861 configs/config.translation.php:861
+#: single-listing/events/event.php:64
+#: single-listing/partials/discussion-toolbar.php:10
+msgid "Edit"
+msgstr ""
+
+#: languages/config.translation.php:470 configs/config.translation.php:470
+msgid "Edit Profile"
+msgstr ""
+
+#: reviews/toolbar.php:35
+msgid "Edit Review"
+msgstr ""
+
+#: languages/config.translation.php:693 configs/config.translation.php:693
+#: single-listing/partials/review-toolbar.php:13
+msgid "Edit review"
+msgstr ""
+
+#: configs/config.metaboxes.php:354
+msgid "Editing"
+msgstr ""
+
+#: single-post/comment-form.php:15 languages/config.translation.php:481
+#: configs/config.translation.php:481 configs/config.metaboxes.php:226
+msgid "Email"
+msgstr ""
+
+#: languages/config.translation.php:355 configs/config.translation.php:355
+msgid "Email Coupon"
+msgstr ""
+
+#: languages/config.translation.php:502 configs/config.translation.php:502
+msgid "Email is required"
+msgstr ""
+
+#: languages/config.translation.php:346 configs/config.translation.php:346
+msgid "Email Us"
+msgstr ""
+
+#: languages/config.translation.php:300 configs/config.translation.php:300
+msgid "Empty Cart"
+msgstr ""
+
+#: configs/config.metaboxes.php:379
+msgid "Empty means forever. Date Format: Month/Day/Year"
+msgstr ""
+
+#: configs/config.themeoptions.php:1037
+msgid "Enable Map Bound Feature"
+msgstr ""
+
+#: languages/config.translation.php:837 configs/config.translation.php:837
+msgid "End"
+msgstr ""
+
+#: languages/config.translation.php:171 configs/config.translation.php:171
+msgid "End Date"
+msgstr ""
+
+#: languages/config.translation.php:835 configs/config.translation.php:835
+msgid "Enter a query"
+msgstr ""
+
+#: languages/config.translation.php:33 configs/config.translation.php:33
+msgid "Enter code"
+msgstr ""
+
+#: languages/config.translation.php:34 configs/config.translation.php:34
+msgid ""
+"Enter in 6 digit code from your Google Authenticator or 3rd party app below"
+msgstr ""
+
+#: configs/config.themeoptions.php:1028
+msgid ""
+"Enter in the default latitude and longitude. For example: -33.866,151.196"
+msgstr ""
+
+#: languages/config.translation.php:4 configs/config.translation.php:5
+msgid "Enter your OTP code"
+msgstr ""
+
+#: languages/config.translation.php:422 configs/config.translation.php:422
+msgid "ERROR: An account with this email already exists on the website."
+msgstr ""
+
+#: languages/config.translation.php:424 configs/config.translation.php:424
+msgid "ERROR: Invalid Email"
+msgstr ""
+
+#: languages/config.translation.php:425 configs/config.translation.php:425
+msgid "ERROR: Please complete all required fields."
+msgstr ""
+
+#: languages/config.translation.php:586 configs/config.translation.php:586
+msgid "ERROR: Something went wrong, We could not update your profile."
+msgstr ""
+
+#: languages/config.translation.php:420 configs/config.translation.php:420
+msgid ""
+"ERROR: Sorry, The username is not available. Please with another username."
+msgstr ""
+
+#: languages/config.translation.php:428 configs/config.translation.php:428
+msgid ""
+"ERROR: Sorry, To create an account on our site, you have to agree to our "
+"privacy policy."
+msgstr ""
+
+#: languages/config.translation.php:426 configs/config.translation.php:426
+msgid ""
+"ERROR: Sorry, To create an account on our site, you have to agree to our "
+"terms conditionals."
+msgstr ""
+
+#: languages/config.translation.php:588 configs/config.translation.php:588
+msgid "ERROR: The password confirmation must be matched the new password."
+msgstr ""
+
+#: languages/config.translation.php:418 configs/config.translation.php:418
+msgid "ERROR: We could not create your account. Please try later."
+msgstr ""
+
+#: languages/config.translation.php:309 configs/config.translation.php:309
+msgid ""
+"Error: We could not find your email in this Facebook account. Please make "
+"sure that this Facebook account is verified and You provide your email "
+"address to it."
+msgstr ""
+
+#: languages/config.translation.php:854 configs/config.translation.php:854
+msgid "ERROR: Wrong the confirmation code."
+msgstr ""
+
+#: languages/config.translation.php:764 configs/config.translation.php:764
+msgid "Event Name"
+msgstr ""
+
+#: languages/config.translation.php:880 configs/config.translation.php:880
+msgid "Event Video"
+msgstr ""
+
+#: configs/config.themeoptions.php:1334
+msgid "Excerpt Length"
+msgstr ""
+
+#: configs/config.metaboxes.php:293
+msgid "Expensive"
+msgstr ""
+
+#: configs/config.metaboxes.php:367
+msgid "Expiration"
+msgstr ""
+
+#: languages/config.translation.php:101 languages/config.translation.php:616
+#: languages/config.translation.php:639 configs/config.translation.php:101
+#: configs/config.translation.php:616 configs/config.translation.php:639
+#: configs/config.metaboxes.php:352
+msgid "Expired"
+msgstr ""
+
+#: languages/config.translation.php:306 configs/config.translation.php:306
+msgid "Expiry Date"
+msgstr ""
+
+#: languages/config.translation.php:704 configs/config.translation.php:704
+msgid "Expiry On"
+msgstr ""
+
+#: languages/config.translation.php:414 configs/config.translation.php:414
+msgid ""
+"Facebook Init is not loaded. Check that you are not running any blocking "
+"software or that you have tracking protection turned off if you use Firefox"
+msgstr ""
+
+#: languages/config.translation.php:468 configs/config.listing.php:54
+#: configs/config.translation.php:468
+msgid "Favorite"
+msgstr ""
+
+#: languages/config.translation.php:150 configs/config.translation.php:150
+msgid "Favorite Statistic"
+msgstr ""
+
+#: languages/config.translation.php:666 languages/config.translation.php:782
+#: configs/config.translation.php:666 configs/config.translation.php:782
+msgid "Favorites"
+msgstr ""
+
+#: configs/config.themeoptions.php:1355 configs/config.taxonomy.php:7
+#: configs/config.taxonomy.php:25 configs/config.taxonomy.php:43
+#: configs/config.taxonomy.php:78 configs/config.taxonomy.php:122
+msgid "Featured Image"
+msgstr ""
+
+#: languages/config.translation.php:386 configs/config.translation.php:386
+msgid "Feb"
+msgstr ""
+
+#: languages/config.translation.php:372 configs/config.translation.php:372
+msgid "February"
+msgstr ""
+
+#: languages/config.translation.php:453 configs/config.translation.php:453
+msgid "Fetched all messages"
+msgstr ""
+
+#: languages/config.translation.php:102 configs/config.translation.php:102
+msgid "Filter"
+msgstr ""
+
+#: languages/config.translation.php:799 configs/config.translation.php:799
+msgid "Filter By Tags"
+msgstr ""
+
+#: languages/config.translation.php:476 configs/config.translation.php:476
+msgid "First Name"
+msgstr ""
+
+#: languages/config.translation.php:288 configs/config.translation.php:288
+#, php-format
+msgid ""
+"Firstly, thank for order! — we've received your order #%s, and it is now "
+"being processed:"
+msgstr ""
+
+#: author-listing/author-info.php:50 author-listing/author-info.php:57
+msgid "Follow"
+msgstr ""
+
+#: languages/config.translation.php:744 configs/config.translation.php:744
+msgid "Follow & Contact"
+msgstr ""
+
+#: languages/config.translation.php:52 configs/config.translation.php:52
+msgid "Followers"
+msgstr ""
+
+#: author-listing/author-info.php:47 author-listing/author-info.php:59
+msgid "Following"
+msgstr ""
+
+#: languages/config.translation.php:51 configs/config.translation.php:51
+msgid "Followings"
+msgstr ""
+
+#: functions.php:570
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:582
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:594
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:606
+msgid "Footer 4"
+msgstr ""
+
+#: languages/config.translation.php:89 configs/config.translation.php:89
+msgid "Fr"
+msgstr ""
+
+#: languages/config.translation.php:897 configs/config.translation.php:897
+msgid "Frequency"
+msgstr ""
+
+#: languages/config.translation.php:80 languages/config.translation.php:926
+#: configs/config.translation.php:80 configs/config.translation.php:926
+msgid "Fri"
+msgstr ""
+
+#: languages/config.translation.php:71 configs/config.translation.php:71
+msgid "Friday"
+msgstr ""
+
+#: configs/config.themeoptions.php:351
+msgid "Front-end Dashboard"
+msgstr ""
+
+#: languages/config.translation.php:794 configs/config.translation.php:794
+#: configs/config.metaboxes.php:182
+msgid "Gallery"
+msgstr ""
+
+#: languages/config.translation.php:735 configs/config.translation.php:735
+msgid "Gateway"
+msgstr ""
+
+#: configs/config.themeoptions.php:205 configs/config.metaboxes.php:12
+#: configs/config.metaboxes.php:105
+msgid "General Settings"
+msgstr ""
+
+#: languages/config.translation.php:275 configs/config.translation.php:275
+msgid "General Statistic"
+msgstr ""
+
+#: languages/config.translation.php:122 configs/config.translation.php:122
+msgid ""
+"Geocoder is blocked on your browser! Click on <a href=\"https://support."
+"google.com/chrome/answer/142065?co=GENIE.Platform%3DDesktop&hl=en&oco=1\" "
+"target=\"_blank\" class=\"color-primary\">re-enable Geocoder</a> to use this "
+"feature"
+msgstr ""
+
+#: languages/config.translation.php:120 configs/config.translation.php:120
+msgid ""
+"Geocoder is blocked on your browser, please re-enable it to use this feature."
+msgstr ""
+
+#: languages/config.translation.php:671 languages/config.translation.php:715
+#: configs/config.translation.php:671 configs/config.translation.php:715
+msgid "Geolocation is not supported by this browser."
+msgstr ""
+
+#: languages/config.translation.php:332 configs/config.translation.php:332
+msgid "Get Direction"
+msgstr ""
+
+#: templates/reset-password.php:132
+msgid "Get New Password"
+msgstr ""
+
+#: languages/config.translation.php:723 configs/config.translation.php:723
+msgid "Get Now"
+msgstr ""
+
+#: languages/config.translation.php:3 configs/config.translation.php:4
+msgid "Gmail Login"
+msgstr ""
+
+#: configs/config.metaboxes.php:490
+msgid ""
+"Go to <a href=\"https://documentation.wilcity.com/knowledgebase/line-icon/\" "
+"target=\"_blank\">LineIcon</a> to find your icon"
+msgstr ""
+
+#: languages/config.translation.php:198 configs/config.translation.php:198
+msgid "Go to payment gateway"
+msgstr ""
+
+#: languages/config.translation.php:126 configs/config.translation.php:126
+msgid "Go to Upgrade"
+msgstr ""
+
+#: configs/config.metaboxes.php:200
+msgid "Google Address"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own language.
+#: admin/public/class.WilokeFrontPage.php:240
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: configs/config.themeoptions.php:1801 configs/config.themeoptions.php:1812
+msgid "Google Fonts"
+msgstr ""
+
+#: configs/config.themeoptions.php:962
+msgid "Google Map API (HTTP Restriction)"
+msgstr ""
+
+#: configs/config.themeoptions.php:970
+msgid "Google Map Web Service API (IP Restriction)"
+msgstr ""
+
+#: languages/config.translation.php:15 configs/config.translation.php:15
+msgid "Have you been there?"
+msgstr ""
+
+#: configs/config.taxonomy.php:15 configs/config.taxonomy.php:33
+#: configs/config.taxonomy.php:51 configs/config.taxonomy.php:86
+#: configs/config.taxonomy.php:112 configs/config.taxonomy.php:130
+msgid "Header Overlay"
+msgstr ""
+
+#: configs/config.themeoptions.php:1712
+msgid "Heading"
+msgstr ""
+
+#: languages/config.translation.php:860 configs/config.translation.php:860
+msgid "Hide"
+msgstr ""
+
+#: languages/config.translation.php:133 configs/config.translation.php:133
+msgid "Highest Rating"
+msgstr ""
+
+#: languages/config.translation.php:707 configs/config.listing.php:15
+#: configs/config.translation.php:707
+msgid "Home"
+msgstr ""
+
+#: languages/config.translation.php:692 configs/config.translation.php:692
+#: single-event/header.php:41
+msgid "Hosted By"
+msgstr ""
+
+#: languages/config.translation.php:402 configs/config.translation.php:402
+msgid "hour ago"
+msgstr ""
+
+#: languages/config.translation.php:401 configs/config.translation.php:401
+msgid "hours ago"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wilcity.com"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://wiloke.com"
+msgstr ""
+
+#: languages/config.translation.php:321 configs/config.translation.php:321
+msgid "Icon"
+msgstr ""
+
+#: languages/config.translation.php:165 configs/config.translation.php:165
+msgid "ID"
+msgstr ""
+
+#: configs/config.themeoptions.php:1356
+msgid "If the featured image is emptied, this image will be used"
+msgstr ""
+
+#: configs/config.themeoptions.php:1335
+msgid "If the tagline is empty, the excerpt length will be used."
+msgstr ""
+
+#: configs/config.themeoptions.php:1364
+msgid ""
+"If the video does not come from Youtube / Vimeo, the default thumbnail will "
+"used."
+msgstr ""
+
+#: languages/config.translation.php:824 configs/config.translation.php:824
+msgid "Image"
+msgstr ""
+
+#: configs/config.themeoptions.php:1707
+msgid "Image Background"
+msgstr ""
+
+#: languages/config.translation.php:825 configs/config.translation.php:825
+msgid "Images"
+msgstr ""
+
+#: languages/config.translation.php:99 languages/config.translation.php:602
+#: languages/config.translation.php:646 configs/config.translation.php:99
+#: configs/config.translation.php:602 configs/config.translation.php:646
+msgid "In Review"
+msgstr ""
+
+#: languages/config.translation.php:700 configs/config.translation.php:700
+msgid "In Reviews"
+msgstr ""
+
+#: configs/config.listing.php:79
+msgid "Inbox"
+msgstr ""
+
+#: single-event/header.php:64
+msgid "Interested"
+msgstr ""
+
+#: author-listing/about.php:29
+msgid "Intro"
+msgstr ""
+
+#: languages/config.translation.php:483 configs/config.translation.php:483
+msgid "Intro yourself"
+msgstr ""
+
+#: languages/config.translation.php:505 configs/config.translation.php:505
+msgid "Invalid email address"
+msgstr ""
+
+#: languages/config.translation.php:31 configs/config.translation.php:31
+msgid "Invalid password"
+msgstr ""
+
+#: languages/config.translation.php:513 configs/config.translation.php:513
+msgid "Invalid phone number"
+msgstr ""
+
+#: languages/config.translation.php:521 configs/config.translation.php:521
+msgid "Invalid URL"
+msgstr ""
+
+#: languages/config.translation.php:669 configs/config.translation.php:669
+msgid "Invalid User Name Or Password"
+msgstr ""
+
+#: languages/config.translation.php:223 configs/config.translation.php:223
+#, php-format
+msgid "Invalid value posted for %s"
+msgstr ""
+
+#: languages/config.translation.php:736 configs/config.translation.php:736
+msgid "Invoice Pay For"
+msgstr ""
+
+#: languages/config.translation.php:324 configs/config.translation.php:324
+msgid "Is open new window?"
+msgstr ""
+
+#: configs/config.metaboxes.php:624
+msgid "Is Sidebar"
+msgstr ""
+
+#: languages/config.translation.php:152 configs/config.translation.php:152
+msgid ""
+"It seems like Geolocation, which is required for this page, is not enabled "
+"in your browser."
+msgstr ""
+
+#: languages/config.translation.php:319 configs/config.translation.php:319
+msgid "Item title"
+msgstr ""
+
+#: languages/config.translation.php:168 configs/config.translation.php:168
+msgid "Item(s)"
+msgstr ""
+
+#: configs/config.metaboxes.php:605
+msgid "Items / Row (Screen < 480px)"
+msgstr ""
+
+#: configs/config.metaboxes.php:592
+msgid "Items / Row (Screen < 992px)"
+msgstr ""
+
+#: configs/config.metaboxes.php:566
+msgid "Items / Row (Screen >= 1200px)"
+msgstr ""
+
+#: configs/config.metaboxes.php:579
+msgid "Items / Row (Screen >= 992px)"
+msgstr ""
+
+#: languages/config.translation.php:385 configs/config.translation.php:385
+msgid "Jan"
+msgstr ""
+
+#: languages/config.translation.php:371 configs/config.translation.php:371
+msgid "January"
+msgstr ""
+
+#: languages/config.translation.php:391 configs/config.translation.php:391
+msgid "Jul"
+msgstr ""
+
+#: languages/config.translation.php:377 configs/config.translation.php:377
+msgid "July"
+msgstr ""
+
+#: languages/config.translation.php:390 configs/config.translation.php:390
+msgid "Jun"
+msgstr ""
+
+#: languages/config.translation.php:376 configs/config.translation.php:376
+msgid "June"
+msgstr ""
+
+#: languages/config.translation.php:717 configs/config.translation.php:717
+msgid ""
+"Just a friendly popup to ensure that you want to change your subscription "
+"level?"
+msgstr ""
+
+#: configs/config.install_plugins.php:194
+msgid "King Composer"
+msgstr ""
+
+#: languages/config.translation.php:477 configs/config.translation.php:477
+msgid "Last Name"
+msgstr ""
+
+#: languages/config.translation.php:791 configs/config.translation.php:791
+msgid "Latest Notifications"
+msgstr ""
+
+#: languages/config.translation.php:341 configs/config.translation.php:341
+msgid "Latitude"
+msgstr ""
+
+#: comment-template.php:11
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: languages/config.translation.php:130 configs/config.translation.php:130
+msgid "Leave a review"
+msgstr ""
+
+#: languages/config.translation.php:184 configs/config.translation.php:184
+msgid "Leave empty means you want to upgrade all Listings to new plan"
+msgstr ""
+
+#: configs/config.themeoptions.php:496 configs/config.themeoptions.php:508
+msgid "Leave empty to refresh the self page"
+msgstr ""
+
+#: comment-template.php:10 single-post/comment-form.php:29
+msgid "Leave your comment"
+msgstr ""
+
+#: comment-template.php:10
+msgid "Leave your Review"
+msgstr ""
+
+#: languages/config.translation.php:899 configs/config.translation.php:899
+msgid "Let people know what type of event you're hosting and what to expect"
+msgstr ""
+
+#: languages/config.translation.php:845 configs/config.translation.php:845
+msgid "Like"
+msgstr ""
+
+#: languages/config.translation.php:847 configs/config.translation.php:847
+msgid "Liked"
+msgstr ""
+
+#: languages/config.translation.php:846 configs/config.translation.php:846
+msgid "Likes"
+msgstr ""
+
+#: languages/config.translation.php:322 configs/config.translation.php:322
+msgid "Link To"
+msgstr ""
+
+#: languages/config.translation.php:709 configs/config.translation.php:709
+msgid "Listing"
+msgstr ""
+
+#: configs/config.metaboxes.php:378
+msgid "Listing Expiry"
+msgstr ""
+
+#: single-listing/navigation.php:58
+#: single-listing/home-sections/using-custom-settings-warning.php:15
+msgid "Listing Settings"
+msgstr ""
+
+#: configs/config.metaboxes.php:457
+msgid "Listing Status"
+msgstr ""
+
+#: functions.php:543
+msgid "Listing Taxonomy Sidebar"
+msgstr ""
+
+#: languages/config.translation.php:139 configs/config.translation.php:139
+msgid "Listing Title"
+msgstr ""
+
+#: languages/config.translation.php:724 configs/config.translation.php:724
+msgid "Listing Type"
+msgstr ""
+
+#. Description of the theme
+msgid "Listing WordPress Theme"
+msgstr ""
+
+#: languages/config.translation.php:710 configs/config.translation.php:710
+msgid "Listings"
+msgstr ""
+
+#: languages/config.translation.php:186 configs/config.translation.php:186
+msgid "Listings Belong To This Payment"
+msgstr ""
+
+#: languages/config.translation.php:263 configs/config.translation.php:263
+msgid "Live"
+msgstr ""
+
+#: languages/config.translation.php:163 configs/config.translation.php:163
+msgid "Loading"
+msgstr ""
+
+#: languages/config.translation.php:882 configs/config.translation.php:882
+#: configs/config.metaboxes.php:208
+msgid "Location"
+msgstr ""
+
+#: comment-template.php:26 single-post/comment-form.php:36
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: languages/config.translation.php:753 configs/config.translation.php:753
+msgid "Login"
+msgstr ""
+
+#: configs/config.themeoptions.php:507
+msgid "Login Redirect To"
+msgstr ""
+
+#: configs/config.themeoptions.php:495
+msgid "Login Redirect Type"
+msgstr ""
+
+#: languages/config.translation.php:26 configs/config.translation.php:26
+msgid "Login With Facebook"
+msgstr ""
+
+#: configs/config.themeoptions.php:221 configs/config.metaboxes.php:124
+msgid "Logo"
+msgstr ""
+
+#: languages/config.translation.php:467 configs/config.translation.php:467
+msgid "Logout"
+msgstr ""
+
+#: languages/config.translation.php:342 configs/config.translation.php:342
+msgid "Longitude"
+msgstr ""
+
+#: languages/config.translation.php:750 configs/config.translation.php:750
+msgid "Lost your password?"
+msgstr ""
+
+#: languages/config.translation.php:134 configs/config.translation.php:134
+msgid "Lowest Rating"
+msgstr ""
+
+#: configs/config.single-sidebar.php:9 templates/search-v2.php:120
+msgid "Map"
+msgstr ""
+
+#: configs/config.taxonomy.php:101
+msgid "Map Marker"
+msgstr ""
+
+#: configs/config.themeoptions.php:1392
+msgid "Map page"
+msgstr ""
+
+#: languages/config.translation.php:387 configs/config.translation.php:387
+msgid "Mar"
+msgstr ""
+
+#: languages/config.translation.php:373 configs/config.translation.php:373
+msgid "March"
+msgstr ""
+
+#: languages/config.translation.php:114 configs/config.translation.php:114
+msgid "Max"
+msgstr ""
+
+#: configs/config.metaboxes.php:310
+msgid "Maximum Price"
+msgstr ""
+
+#: languages/config.translation.php:375 languages/config.translation.php:389
+#: configs/config.translation.php:375 configs/config.translation.php:389
+msgid "May"
+msgstr ""
+
+#: configs/config.metaboxes.php:33
+msgid "Menu background"
+msgstr ""
+
+#: languages/config.translation.php:802 languages/config.translation.php:806
+#: configs/config.translation.php:802 configs/config.translation.php:806
+msgid "Message"
+msgstr ""
+
+#: languages/config.translation.php:441 configs/config.translation.php:441
+msgid "Message Content is required"
+msgstr ""
+
+#: languages/config.translation.php:452 configs/config.translation.php:452
+msgid "Message ID is required"
+msgstr ""
+
+#: languages/config.translation.php:665 configs/config.translation.php:665
+msgid "Messages"
+msgstr ""
+
+#: languages/config.translation.php:237 configs/config.translation.php:237
+msgid "Method"
+msgstr ""
+
+#: languages/config.translation.php:54 configs/config.translation.php:54
+msgid "Midnight"
+msgstr ""
+
+#: languages/config.translation.php:113 configs/config.translation.php:113
+msgid "Min"
+msgstr ""
+
+#: configs/config.metaboxes.php:305
+msgid "Minimum Price"
+msgstr ""
+
+#: languages/config.translation.php:236 configs/config.translation.php:236
+msgid "Minimum Withdraw amount: "
+msgstr ""
+
+#: languages/config.translation.php:400 configs/config.translation.php:400
+msgid "minutes ago"
+msgstr ""
+
+#: languages/config.translation.php:10 configs/config.translation.php:10
+msgid ""
+"Missing Token. To setup the token, please click on InstafeedHub from the "
+"admin sidebar"
+msgstr ""
+
+#: languages/config.translation.php:85 configs/config.translation.php:85
+msgid "Mo"
+msgstr ""
+
+#: configs/config.metaboxes.php:292
+msgid "Moderate"
+msgstr ""
+
+#: languages/config.translation.php:76 languages/config.translation.php:910
+#: configs/config.translation.php:76 configs/config.translation.php:910
+msgid "Mon"
+msgstr ""
+
+#: languages/config.translation.php:67 configs/config.translation.php:67
+msgid "Monday"
+msgstr "Thứ 2"
+
+#: languages/config.translation.php:740 configs/config.translation.php:740
+msgid "More"
+msgstr ""
+
+#: languages/config.translation.php:200 configs/config.translation.php:200
+msgid "My cart"
+msgstr ""
+
+#: languages/config.translation.php:935 configs/config.translation.php:935
+msgid "My Titles"
+msgstr ""
+
+#: single-post/comment-form.php:14 languages/config.translation.php:821
+#: configs/config.translation.php:821
+msgid "Name"
+msgstr ""
+
+#: languages/config.translation.php:683 configs/config.translation.php:683
+msgid "Nearby"
+msgstr ""
+
+#: languages/config.translation.php:684 configs/config.translation.php:684
+msgid "Network Error"
+msgstr ""
+
+#: languages/config.translation.php:803 configs/config.translation.php:803
+msgid "New Message"
+msgstr ""
+
+#: languages/config.translation.php:496 configs/config.translation.php:496
+#: templates/reset-password.php:96
+msgid "New Password"
+msgstr ""
+
+#: languages/config.translation.php:132 configs/config.translation.php:132
+msgid "Newest Rating"
+msgstr ""
+
+#: languages/config.translation.php:727 configs/config.translation.php:727
+msgid "Next Billing Date"
+msgstr ""
+
+#: languages/config.translation.php:230 configs/config.translation.php:230
+msgid "No bookings available yet."
+msgstr ""
+
+#: index.php:76 search.php:54 languages/config.translation.php:841
+#: configs/config.translation.php:841 post-types/post.php:50
+msgid "No Comment"
+msgstr ""
+
+#: languages/config.translation.php:438 configs/config.translation.php:438
+msgid "No Data Found"
+msgstr ""
+
+#: languages/config.translation.php:689 configs/config.translation.php:689
+msgid "No discussion found"
+msgstr ""
+
+#: languages/config.translation.php:158 configs/config.translation.php:158
+msgid "No hours available"
+msgstr ""
+
+#: languages/config.translation.php:789 configs/config.translation.php:789
+msgid "No older notifications."
+msgstr ""
+
+#: languages/config.translation.php:688 configs/config.translation.php:688
+msgid "No Posts Found"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:88
+msgid "No products in the cart."
+msgstr ""
+
+#: languages/config.translation.php:206 configs/config.translation.php:206
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#: languages/config.translation.php:215 configs/config.translation.php:215
+msgid "No variation found"
+msgstr ""
+
+#: languages/config.translation.php:240 configs/config.translation.php:240
+msgid ""
+"No withdraw method is available. Please update your payment method to "
+"withdraw funds."
+msgstr ""
+
+#: languages/config.translation.php:698 configs/config.translation.php:698
+msgid "Not Found"
+msgstr ""
+
+#: configs/config.metaboxes.php:290
+msgid "Not to say"
+msgstr ""
+
+#: languages/config.translation.php:790 configs/config.translation.php:790
+msgid "Notifications"
+msgstr ""
+
+#: languages/config.translation.php:395 configs/config.translation.php:395
+msgid "Nov"
+msgstr ""
+
+#: languages/config.translation.php:381 configs/config.translation.php:381
+msgid "November"
+msgstr ""
+
+#: languages/config.translation.php:885 configs/config.translation.php:885
+msgid "Occurs once"
+msgstr ""
+
+#: languages/config.translation.php:394 configs/config.translation.php:394
+msgid "Oct"
+msgstr ""
+
+#: languages/config.translation.php:380 configs/config.translation.php:380
+msgid "October"
+msgstr ""
+
+#: languages/config.translation.php:793 configs/config.translation.php:793
+msgid "of"
+msgstr ""
+
+#: languages/config.translation.php:262 configs/config.translation.php:262
+msgid "Offline"
+msgstr ""
+
+#: languages/config.translation.php:863 configs/config.translation.php:863
+msgid "Ok"
+msgstr ""
+
+#: languages/config.translation.php:142 configs/config.translation.php:142
+msgid "Oke"
+msgstr ""
+
+#: languages/config.translation.php:270 configs/config.translation.php:270
+msgid "On hold"
+msgstr ""
+
+#: index.php:76 search.php:54 post-types/post.php:50
+msgid "One Comment"
+msgstr ""
+
+#: languages/config.translation.php:632 configs/config.translation.php:632
+msgid "OnGoing"
+msgstr ""
+
+#: languages/config.translation.php:766 configs/config.translation.php:766
+msgid "Ongoing"
+msgstr ""
+
+#: languages/config.translation.php:408 configs/config.translation.php:408
+msgid "Online"
+msgstr ""
+
+#: wiloke-submission/addlisting.php:36
+#, php-format
+msgid "Oops! %s type is not supported."
+msgstr ""
+
+#: languages/config.translation.php:449 configs/config.translation.php:449
+msgid "Oops! Something went wrong, We could not delete the author messages."
+msgstr ""
+
+#: languages/config.translation.php:447 configs/config.translation.php:447
+msgid "Oops! Something went wrong, We could not delete this message."
+msgstr ""
+
+#: languages/config.translation.php:95 configs/config.translation.php:95
+msgid "Oops! There is no menu yet"
+msgstr ""
+
+#: languages/config.translation.php:94 configs/config.translation.php:94
+msgid "Oops! There is no video yet"
+msgstr ""
+
+#: languages/config.translation.php:434 configs/config.translation.php:434
+msgid ""
+"Oops! We could not delete this notification. Please recheck your "
+"Notification ID."
+msgstr ""
+
+#: languages/config.translation.php:365 configs/config.translation.php:365
+msgid "Oops! We could not insert the review"
+msgstr ""
+
+#: languages/config.translation.php:439 configs/config.translation.php:439
+msgid ""
+"OOps! We could not send this message, please try clicking on Send again."
+msgstr ""
+
+#: languages/config.translation.php:162 configs/config.translation.php:162
+msgid "Open"
+msgstr "Mở Cửa"
+
+#: languages/config.translation.php:695 languages/config.translation.php:696
+#: configs/config.translation.php:695 configs/config.translation.php:696
+msgid "Open 24/7"
+msgstr ""
+
+#: languages/config.translation.php:157 configs/config.translation.php:157
+msgid "Open for Selected Hours"
+msgstr ""
+
+#: languages/config.translation.php:156 configs/config.translation.php:156
+msgid "Open Now"
+msgstr ""
+
+#: languages/config.translation.php:329 configs/config.translation.php:329
+msgid "Opening at"
+msgstr ""
+
+#: languages/config.translation.php:63 configs/config.translation.php:63
+msgid "Opens"
+msgstr ""
+
+#: languages/config.translation.php:115 configs/config.translation.php:115
+msgid "Or"
+msgstr ""
+
+#: languages/config.translation.php:413 configs/config.translation.php:413
+msgid "Or Connect With"
+msgstr ""
+
+#: languages/config.translation.php:271 configs/config.translation.php:271
+msgid "Order Statistic"
+msgstr ""
+
+#: languages/config.translation.php:279 configs/config.translation.php:279
+msgid "Orders"
+msgstr ""
+
+#: languages/config.translation.php:5 configs/config.translation.php:6
+msgid "OTP Login"
+msgstr ""
+
+#: languages/config.translation.php:48 languages/config.translation.php:49
+#: configs/config.translation.php:48 configs/config.translation.php:49
+msgid "Out of stock"
+msgstr ""
+
+#: languages/config.translation.php:272 configs/config.translation.php:272
+msgid "Page views"
+msgstr ""
+
+#: page.php:43 post-types/post.php:55
+msgid "Pages:"
+msgstr ""
+
+#: languages/config.translation.php:22 languages/config.translation.php:749
+#: configs/config.translation.php:22 configs/config.translation.php:749
+msgid "Password"
+msgstr ""
+
+#: languages/config.translation.php:544 configs/config.translation.php:544
+msgid "Password does not match the confirm password"
+msgstr ""
+
+#: languages/config.translation.php:308 configs/config.translation.php:308
+msgid "Pay and Publish"
+msgstr ""
+
+#: languages/config.translation.php:182 configs/config.translation.php:182
+msgid "Pay Now"
+msgstr ""
+
+#: languages/config.translation.php:196 configs/config.translation.php:196
+msgid "Payment"
+msgstr ""
+
+#: languages/config.translation.php:282 configs/config.translation.php:282
+#, php-format
+msgid "Payment for order #%1$s from %2$s has failed. The order was as follows:"
+msgstr ""
+
+#: languages/config.translation.php:187 configs/config.translation.php:187
+msgid "Payment ID"
+msgstr ""
+
+#: languages/config.translation.php:266 configs/config.translation.php:266
+msgid "Pending"
+msgstr ""
+
+#: languages/config.translation.php:257 configs/config.translation.php:257
+msgid "Pending Requests"
+msgstr ""
+
+#: languages/config.translation.php:261 configs/config.translation.php:261
+msgid "Pending Review"
+msgstr ""
+
+#: languages/config.translation.php:43 configs/config.translation.php:43
+#: single-event/header.php:54
+msgid "people interested"
+msgstr ""
+
+#: languages/config.translation.php:406 configs/config.translation.php:406
+msgid "Permanently Delete Account"
+msgstr ""
+
+#: single-event/header.php:55
+msgid "person interested"
+msgstr ""
+
+#: languages/config.translation.php:491 configs/config.translation.php:491
+#: configs/config.metaboxes.php:231
+msgid "Phone"
+msgstr ""
+
+#: languages/config.translation.php:510 configs/config.translation.php:510
+msgid "Phone number is required"
+msgstr ""
+
+#: languages/config.translation.php:839 configs/config.translation.php:839
+msgid "Photo"
+msgstr ""
+
+#: languages/config.translation.php:41 languages/config.translation.php:840
+#: configs/config.translation.php:41 configs/config.translation.php:840
+msgid "Photos"
+msgstr ""
+
+#: admin/run.php:4
+msgid ""
+"PHP 7.0 or higher is required by the theme. Please access to your cPanel "
+"(the site manager of your hosting provider) to upgrade your PHP."
+msgstr ""
+
+#: languages/config.translation.php:761 configs/config.translation.php:761
+#: reviews/toolbar.php:19 single-listing/partials/review-toolbar.php:10
+msgid "Pin to Top of Review"
+msgstr ""
+
+#: admin/public/class.WilokeComment.php:14
+msgid "Pingback:"
+msgstr ""
+
+#: configs/config.taxonomy.php:68
+msgid "Place ID"
+msgstr ""
+
+#: searchform.php:7
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: languages/config.translation.php:732 configs/config.translation.php:732
+msgid "Plan"
+msgstr ""
+
+#: languages/config.translation.php:733 wiloke-submission/checkout.php:76
+#: wiloke-submission/thankyou.php:35 configs/config.translation.php:733
+msgid "Plan Name"
+msgstr ""
+
+#: languages/config.translation.php:734 configs/config.translation.php:734
+msgid "Plan Type"
+msgstr ""
+
+#: languages/config.translation.php:584 configs/config.translation.php:584
+msgid "Pleas verify reCaptcha first."
+msgstr ""
+
+#: languages/config.translation.php:225 configs/config.translation.php:225
+msgid "Please add your attribute as a term"
+msgstr ""
+
+#: languages/config.translation.php:193 configs/config.translation.php:193
+msgid "Please choose all options"
+msgstr ""
+
+#: languages/config.translation.php:224 configs/config.translation.php:224
+msgid "Please choose product options"
+msgstr ""
+
+#: languages/config.translation.php:498 configs/config.translation.php:498
+msgid "Please complete all required fields"
+msgstr ""
+
+#: languages/config.translation.php:535 languages/config.translation.php:549
+#: configs/config.translation.php:535 configs/config.translation.php:549
+msgid "Please enter a password"
+msgstr ""
+
+#: languages/config.translation.php:566 configs/config.translation.php:566
+msgid "Please enter your display name"
+msgstr ""
+
+#: languages/config.translation.php:557 configs/config.translation.php:557
+msgid "Please enter your last name"
+msgstr ""
+
+#: languages/config.translation.php:592 configs/config.translation.php:592
+msgid "Please give us your reason"
+msgstr ""
+
+#: author-listing/author-info.php:30
+msgid "Please go to Dashboard -> Profile -> Write something about yourself."
+msgstr ""
+
+#: single-listing/tabs/instafeedhub.php:11
+msgid ""
+"Please log into instafeedhub.com, then Edit this Instagram and click Save "
+"button again"
+msgstr ""
+
+#: templates/reset-password.php:120
+msgid "Please request a new link below."
+msgstr ""
+
+#: languages/config.translation.php:183 configs/config.translation.php:183
+msgid "Please select a new plan"
+msgstr ""
+
+#: languages/config.translation.php:334 configs/config.translation.php:334
+msgid "Please select a payment gateway"
+msgstr ""
+
+#: wiloke-submission/thankyou.php:23
+msgid ""
+"Please send your cheque to the following bank account to complete this "
+"payment:"
+msgstr ""
+
+#: single-listing/tabs/instafeedhub.php:9
+msgid "Please setup Instafeed Hub for this block"
+msgstr ""
+
+#: languages/config.translation.php:356 configs/config.translation.php:356
+msgid "Please us this coupon code:"
+msgstr ""
+
+#: languages/config.translation.php:680 configs/config.translation.php:680
+msgid "Please write something before submitting"
+msgstr ""
+
+#: configs/config.general.php:42
+msgid "Portfolio Permalinks"
+msgstr ""
+
+#: languages/config.translation.php:482 configs/config.translation.php:482
+msgid "Position"
+msgstr ""
+
+#: comment-template.php:13
+msgid "Post Comment"
+msgstr ""
+
+#: reviews/comment-form.php:8
+msgid "Post Discussion"
+msgstr ""
+
+#: comments.php:3
+msgid "Post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: languages/config.translation.php:412 configs/config.translation.php:412
+msgid "Post Type"
+msgstr ""
+
+#: languages/config.translation.php:489 configs/config.translation.php:489
+msgid "Postcode"
+msgstr ""
+
+#: configs/config.themeoptions.php:1328 configs/config.metaboxes.php:618
+msgid "Posts Per Page"
+msgstr ""
+
+#: languages/config.translation.php:945 configs/config.translation.php:945
+msgid "Press Ctrl+C to copy this link"
+msgstr ""
+
+#: languages/config.translation.php:166 configs/config.translation.php:166
+msgid "Price"
+msgstr ""
+
+#: languages/config.translation.php:936 configs/config.translation.php:936
+msgid "Price is net per person, excluding drinks chef seasonal menu"
+msgstr ""
+
+#: configs/config.metaboxes.php:277 configs/config.metaboxes.php:287
+#: configs/config.single-sidebar.php:4
+msgid "Price Range"
+msgstr ""
+
+#: configs/config.metaboxes.php:300
+msgid "Price Range Description"
+msgstr ""
+
+#: languages/config.translation.php:189 configs/config.translation.php:189
+msgid "Pricing"
+msgstr ""
+
+#: configs/config.themeoptions.php:464
+msgid "Privacy Policy Description"
+msgstr ""
+
+#: languages/config.translation.php:197 wiloke-submission/checkout.php:171
+#: configs/config.translation.php:197
+msgid "Proceed to checkout"
+msgstr ""
+
+#: languages/config.translation.php:267 configs/config.translation.php:267
+msgid "Processing"
+msgstr ""
+
+#: languages/config.translation.php:176 configs/config.translation.php:176
+msgid "Product ID"
+msgstr ""
+
+#: languages/config.translation.php:281 configs/config.translation.php:281
+msgid "Products"
+msgstr ""
+
+#: languages/config.translation.php:202 configs/config.translation.php:202
+msgid "Products Wishlist"
+msgstr ""
+
+#: languages/config.translation.php:664 configs/config.translation.php:664
+#: author-listing/about.php:10
+msgid "Profile"
+msgstr ""
+
+#: languages/config.translation.php:767 configs/config.translation.php:767
+msgid "Promote"
+msgstr ""
+
+#: single-listing/home-sections/promotion.php:22
+msgid "Promote Listing"
+msgstr ""
+
+#: languages/config.translation.php:315 configs/config.translation.php:315
+msgid "Promotion Duration: "
+msgstr ""
+
+#: languages/config.translation.php:716 configs/config.translation.php:716
+msgid "Promotions"
+msgstr ""
+
+#: languages/config.translation.php:864 configs/config.translation.php:864
+#: configs/config.metaboxes.php:350
+msgid "Publish"
+msgstr ""
+
+#: languages/config.translation.php:98 languages/config.translation.php:595
+#: configs/config.translation.php:98 configs/config.translation.php:595
+msgid "Published"
+msgstr ""
+
+#: languages/config.translation.php:137 configs/config.translation.php:137
+msgid "Quality"
+msgstr ""
+
+#: languages/config.translation.php:151 configs/config.translation.php:151
+msgid "Rating Statistic"
+msgstr ""
+
+#: languages/config.translation.php:772 languages/config.translation.php:784
+#: configs/config.translation.php:772 configs/config.translation.php:784
+msgid "Ratings"
+msgstr ""
+
+#: languages/config.translation.php:172 configs/config.translation.php:172
+msgid "Re-Payment"
+msgstr ""
+
+#: single-listing/home-sections/promotion.php:25
+msgid "Reach more people visit your listing"
+msgstr ""
+
+#: index.php:85 search.php:63
+msgid "Read More"
+msgstr ""
+
+#: languages/config.translation.php:590 configs/config.translation.php:590
+msgid "Receive message through email"
+msgstr ""
+
+#: languages/config.translation.php:805 configs/config.translation.php:805
+msgid "Recipient information"
+msgstr ""
+
+#: configs/config.themeoptions.php:548
+msgid "Redirect to this page after creating an account"
+msgstr ""
+
+#: configs/config.install_plugins.php:9
+msgid "Redux Framework"
+msgstr ""
+
+#: admin/inc/class.WilokeThemeOptions.php:135
+msgid "Redux Framework plugin is required."
+msgstr ""
+
+#: languages/config.translation.php:269 configs/config.translation.php:269
+msgid "Refunded"
+msgstr ""
+
+#: languages/config.translation.php:754 configs/config.translation.php:754
+msgid "Register"
+msgstr ""
+
+#: configs/config.themeoptions.php:377
+msgid "Register And Login"
+msgstr ""
+
+#: configs/config.metaboxes.php:355
+msgid "Rejected"
+msgstr ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: languages/config.translation.php:729 configs/config.translation.php:729
+msgid "Remaining Items"
+msgstr ""
+
+#: languages/config.translation.php:752 configs/config.translation.php:752
+msgid "Remember me?"
+msgstr ""
+
+#: languages/config.translation.php:859 configs/config.translation.php:859
+#: admin/inc/class.WilokeMessage.php:60
+msgid "Remove"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:49
+msgid "Remove this item"
+msgstr ""
+
+#: configs/config.metaboxes.php:162
+msgid "Remove Video"
+msgstr ""
+
+#: languages/config.translation.php:203 configs/config.translation.php:203
+#, php-format
+msgid "Removed %s from your wishlist"
+msgstr ""
+
+#: languages/config.translation.php:331 configs/config.translation.php:331
+msgid "Renew"
+msgstr ""
+
+#: languages/config.translation.php:136 configs/config.translation.php:136
+#: admin/public/class.WilokeComment.php:54
+msgid "Reply"
+msgstr ""
+
+#: languages/config.translation.php:469 configs/config.listing.php:67
+#: configs/config.listing.php:124 configs/config.translation.php:469
+#: single-listing/events/event.php:69
+msgid "Report"
+msgstr ""
+
+#: languages/config.translation.php:760 configs/config.translation.php:760
+msgid "Report abuse"
+msgstr ""
+
+#: languages/config.translation.php:868 configs/config.translation.php:868
+#: reviews/toolbar.php:27 single-listing/partials/review-toolbar.php:12
+msgid "Report review"
+msgstr ""
+
+#: languages/config.translation.php:231 configs/config.translation.php:231
+msgid "Request"
+msgstr ""
+
+#: languages/config.translation.php:9 configs/config.translation.php:9
+msgid "Resend OTP"
+msgstr ""
+
+#: languages/config.translation.php:952 configs/config.translation.php:952
+#: templates/search-v2.php:94 templates/map.php:42
+#: templates/search-without-map.php:30
+msgid "Reset"
+msgstr ""
+
+#: languages/config.translation.php:745 configs/config.translation.php:745
+#: templates/reset-password.php:102
+msgid "Reset Password"
+msgstr ""
+
+#: languages/config.translation.php:796 configs/config.translation.php:796
+msgid "Result"
+msgstr ""
+
+#: languages/config.translation.php:797 languages/config.translation.php:798
+#: configs/config.translation.php:797 configs/config.translation.php:798
+msgid "Results"
+msgstr ""
+
+#: configs/config.themeoptions.php:227
+msgid "Retina Logo"
+msgstr ""
+
+#: languages/config.translation.php:869 configs/config.translation.php:869
+msgid "Review For"
+msgstr ""
+
+#: languages/config.translation.php:366 configs/config.translation.php:366
+msgid "Review ID is required"
+msgstr ""
+
+#: languages/config.translation.php:138 configs/config.translation.php:138
+msgid "Review on"
+msgstr ""
+
+#: languages/config.translation.php:360 configs/config.translation.php:360
+msgid "Review Title"
+msgstr ""
+
+#: languages/config.translation.php:135 configs/config.translation.php:135
+msgid "Reviews"
+msgstr ""
+
+#: languages/config.translation.php:870 configs/config.translation.php:870
+msgid "Reviews For"
+msgstr ""
+
+#: languages/config.translation.php:90 configs/config.translation.php:90
+msgid "Sa"
+msgstr ""
+
+#: languages/config.translation.php:23 configs/config.translation.php:23
+msgid "Sale[s]"
+msgstr ""
+
+#: languages/config.translation.php:81 languages/config.translation.php:930
+#: configs/config.translation.php:81 configs/config.translation.php:930
+msgid "Sat"
+msgstr ""
+
+#: languages/config.translation.php:72 configs/config.translation.php:72
+msgid "Saturday"
+msgstr ""
+
+#: languages/config.translation.php:742 configs/config.translation.php:742
+msgid "Save Changes"
+msgstr ""
+
+#: languages/config.translation.php:795 configs/config.translation.php:795
+msgid "Save to my favorites"
+msgstr ""
+
+#: searchform.php:8 languages/config.translation.php:808
+#: configs/config.translation.php:808 templates/search-v2.php:80
+#: templates/map.php:50 templates/map.php:61 templates/map.php:83
+#: templates/event-template.php:21 templates/event-template.php:32
+#: templates/event-template.php:54 templates/search-without-map.php:35
+#: templates/search-without-map.php:46 templates/search-without-map.php:68
+msgid "Search"
+msgstr ""
+
+#: languages/config.translation.php:708 configs/config.translation.php:708
+msgid "Search as I move the map"
+msgstr ""
+
+#: languages/config.translation.php:411 configs/config.translation.php:411
+msgid "Search Author"
+msgstr ""
+
+#: languages/config.translation.php:804 configs/config.translation.php:804
+msgid "Search by username"
+msgstr ""
+
+#: templates/search-v2.php:68
+msgid "Search for address, title, location ..."
+msgstr ""
+
+#: searchform.php:5
+msgid "Search for:"
+msgstr ""
+
+#: languages/config.translation.php:702 configs/config.translation.php:702
+msgid "Search Now"
+msgstr ""
+
+#: configs/config.themeoptions.php:1154
+msgid "Search page"
+msgstr ""
+
+#: languages/config.translation.php:687 configs/config.translation.php:687
+msgid "Search Results"
+msgstr ""
+
+#: search.php:31
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: languages/config.translation.php:792 configs/config.translation.php:792
+#: single-listing/home-sections/footer-seeall.php:14
+msgid "See All"
+msgstr ""
+
+#: languages/config.translation.php:681 configs/config.translation.php:681
+msgid "See more discussions"
+msgstr ""
+
+#: languages/config.translation.php:763 configs/config.translation.php:763
+msgid "See More Reviews"
+msgstr ""
+
+#: languages/config.translation.php:813 configs/config.translation.php:813
+msgid "Select Ads Positions"
+msgstr ""
+
+#: languages/config.translation.php:47 configs/config.translation.php:47
+msgid "Select Date"
+msgstr ""
+
+#: languages/config.translation.php:820 configs/config.translation.php:820
+msgid "Select Plans"
+msgstr ""
+
+#: languages/config.translation.php:46 configs/config.translation.php:46
+msgid "Select Time"
+msgstr ""
+
+#: languages/config.translation.php:192 configs/config.translation.php:192
+msgid "Select Variations"
+msgstr ""
+
+#: configs/config.themeoptions.php:492
+msgid "Self page"
+msgstr ""
+
+#: languages/config.translation.php:801 configs/config.translation.php:801
+msgid "Send"
+msgstr ""
+
+#: languages/config.translation.php:6 configs/config.translation.php:3
+#: configs/config.translation.php:7
+msgid "Send OTP"
+msgstr ""
+
+#: languages/config.translation.php:343 configs/config.translation.php:343
+msgid "Sending"
+msgstr ""
+
+#: languages/config.translation.php:352 configs/config.translation.php:352
+msgid "Sent Your Location"
+msgstr ""
+
+#: languages/config.translation.php:393 configs/config.translation.php:393
+msgid "Sept"
+msgstr ""
+
+#: languages/config.translation.php:379 configs/config.translation.php:379
+msgid "September"
+msgstr ""
+
+#: languages/config.translation.php:107 configs/config.translation.php:107
+msgid "Set Date"
+msgstr ""
+
+#: languages/config.translation.php:361 configs/config.translation.php:361
+msgid "Setting"
+msgstr ""
+
+#: languages/config.translation.php:362 configs/config.translation.php:362
+msgid "Settings"
+msgstr ""
+
+#: languages/config.translation.php:844 configs/config.translation.php:844
+#: configs/config.btn.php:5 reviews/item1.php:85 reviews/item.php:85
+#: single-listing/partials/review-item.php:72
+msgid "Share"
+msgstr ""
+
+#: languages/config.translation.php:353 configs/config.translation.php:353
+msgid "Share on Facebook"
+msgstr ""
+
+#: languages/config.translation.php:354 configs/config.translation.php:354
+msgid "Share on Twitter"
+msgstr ""
+
+#: languages/config.translation.php:149 configs/config.translation.php:149
+msgid "Share Statistic"
+msgstr ""
+
+#: languages/config.translation.php:706 languages/config.translation.php:783
+#: configs/config.translation.php:706 configs/config.translation.php:783
+msgid "Shares"
+msgstr ""
+
+#: languages/config.translation.php:195 configs/config.translation.php:195
+msgid "Shipment"
+msgstr ""
+
+#: languages/config.translation.php:177 configs/config.translation.php:177
+msgid "Shipping to a Different Address?"
+msgstr ""
+
+#: languages/config.translation.php:42 configs/config.translation.php:42
+msgid "Shop Order"
+msgstr ""
+
+#: languages/config.translation.php:24 configs/config.translation.php:24
+msgid "Shop Url"
+msgstr ""
+
+#: languages/config.translation.php:351 configs/config.translation.php:351
+#: reviews/item1.php:60 reviews/item.php:60
+msgid "Show less"
+msgstr ""
+
+#: languages/config.translation.php:834 configs/config.translation.php:834
+msgid "Show map"
+msgstr ""
+
+#: languages/config.translation.php:350 configs/config.translation.php:350
+#: reviews/item1.php:59 reviews/item.php:59
+msgid "Show more"
+msgstr ""
+
+#: functions.php:531
+msgid "Single Event Sidebar"
+msgstr ""
+
+#: functions.php:508
+msgid "Single Page Sidebar"
+msgstr ""
+
+#: functions.php:496
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: admin/inc/class.WilokeSocialNetworks.php:255
+msgid "Social icon will not display if you leave empty"
+msgstr ""
+
+#: languages/config.translation.php:493 configs/config.translation.php:493
+#: configs/config.themeoptions.php:1668 configs/config.metaboxes.php:244
+#: configs/config.metaboxes.php:252
+msgid "Social Networks"
+msgstr ""
+
+#: languages/config.translation.php:246 configs/config.translation.php:246
+msgid "Something went wrong"
+msgstr ""
+
+#: languages/config.translation.php:292 configs/config.translation.php:292
+msgid "Something went wrong, We could not cancel this order."
+msgstr ""
+
+#: admin/class.wiloke.php:345
+msgid "Sorry"
+msgstr ""
+
+#: search.php:81
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: languages/config.translation.php:325 configs/config.translation.php:325
+msgid "Sorry, No results found"
+msgstr ""
+
+#: languages/config.translation.php:430 configs/config.translation.php:430
+msgid "Sorry, We are disabled this service temporary."
+msgstr ""
+
+#: languages/config.translation.php:301 configs/config.translation.php:301
+msgid ""
+"Sorry, We could not create chat room! Please contact admin to report this "
+"issue"
+msgstr ""
+
+#: languages/config.translation.php:164 configs/config.translation.php:164
+msgid "Sorry, We found no available option"
+msgstr ""
+
+#: languages/config.translation.php:403 configs/config.translation.php:403
+msgid "Sorry, your browser does not support Web Storage..."
+msgstr ""
+
+#: languages/config.translation.php:140 configs/config.translation.php:140
+msgid "Spam"
+msgstr ""
+
+#: configs/config.themeoptions.php:491
+msgid "Specify page"
+msgstr ""
+
+#: languages/config.translation.php:106 configs/config.translation.php:106
+msgid "Start"
+msgstr ""
+
+#: languages/config.translation.php:170 configs/config.translation.php:170
+msgid "Start Date"
+msgstr ""
+
+#: languages/config.translation.php:410 configs/config.translation.php:410
+msgid "Starting a conversation with an author now."
+msgstr ""
+
+#: languages/config.translation.php:836 configs/config.translation.php:836
+msgid "Starts"
+msgstr ""
+
+#: languages/config.translation.php:488 configs/config.translation.php:488
+msgid "State"
+msgstr ""
+
+#: languages/config.translation.php:280 configs/config.translation.php:280
+#: configs/config.single-sidebar.php:6
+msgid "Statistic"
+msgstr ""
+
+#: languages/config.translation.php:169 configs/config.translation.php:169
+msgid "Status"
+msgstr ""
+
+#: languages/config.translation.php:84 configs/config.translation.php:84
+msgid "Su"
+msgstr ""
+
+#: languages/config.translation.php:174 wiloke-submission/checkout.php:103
+#: wiloke-submission/thankyou.php:39 configs/config.translation.php:174
+msgid "Sub Total"
+msgstr ""
+
+#: languages/config.translation.php:865
+#: wiloke-submission/become-an-author.php:78 configs/config.translation.php:865
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:77
+msgid "Subtotal"
+msgstr ""
+
+#: languages/config.translation.php:75 languages/config.translation.php:906
+#: configs/config.translation.php:75 configs/config.translation.php:906
+msgid "Sun"
+msgstr ""
+
+#: languages/config.translation.php:66 configs/config.translation.php:66
+msgid "Sunday"
+msgstr ""
+
+#: configs/config.metaboxes.php:117
+msgid "Tagline"
+msgstr ""
+
+#: configs/config.single-sidebar.php:8
+msgid "Tags"
+msgstr ""
+
+#: post-types/post.php:60
+msgid "Tags: "
+msgstr ""
+
+#: languages/config.translation.php:472 languages/config.translation.php:473
+#: configs/config.translation.php:472 configs/config.translation.php:473
+msgid "Take a Photo"
+msgstr ""
+
+#: wiloke-submission/become-an-author.php:55
+#: wiloke-submission/become-an-author.php:98
+msgid "Take me to the Add Listing page"
+msgstr ""
+
+#: languages/config.translation.php:685 configs/config.translation.php:685
+msgid "Tap To Retry"
+msgstr ""
+
+#: wiloke-submission/thankyou.php:47
+msgid "Tax"
+msgstr ""
+
+#: configs/config.metaboxes.php:553
+msgid "Template Settings"
+msgstr ""
+
+#: languages/config.translation.php:653 languages/config.translation.php:703
+#: configs/config.translation.php:653 configs/config.translation.php:703
+#: configs/config.metaboxes.php:353
+msgid "Temporary Close"
+msgstr ""
+
+#: configs/config.themeoptions.php:483
+msgid "Terms and conditionals description"
+msgstr ""
+
+#: languages/config.translation.php:88 configs/config.translation.php:88
+msgid "Th"
+msgstr ""
+
+#: author-listing/about.php:18
+#, php-format
+msgid ""
+"Thank for joining %s. Please go to Dashboard -> Profile -> Description and "
+"write something about yourself."
+msgstr ""
+
+#: languages/config.translation.php:290 configs/config.translation.php:290
+#, php-format
+msgid "Thank for order! We have finished processing your order %s"
+msgstr ""
+
+#: languages/config.translation.php:339 configs/config.translation.php:339
+msgid ""
+"Thank for submitting! Your discussion has been received and is being "
+"reviewed by our team staff"
+msgstr ""
+
+#: languages/config.translation.php:358 configs/config.translation.php:358
+msgid ""
+"Thank for submitting! Your review has been received and is being reviewed by "
+"our team staff"
+msgstr ""
+
+#: wiloke-submission/thankyou.php:22
+msgid "Thank for your order!"
+msgstr ""
+
+#: languages/config.translation.php:591 configs/config.translation.php:591
+msgid "Thank for your reporting!"
+msgstr ""
+
+#: wiloke-submission/become-an-author.php:93
+msgid ""
+"Thanks for being an contributor. You can now upload your listing to the "
+"website."
+msgstr ""
+
+#: languages/config.translation.php:286 configs/config.translation.php:286
+msgid ""
+"Thanks for your order. It’s on-hold until we confirm that payment has been "
+"received."
+msgstr ""
+
+#: languages/config.translation.php:154 configs/config.translation.php:154
+msgid "The address, latitude and longitude are required"
+msgstr ""
+
+#: languages/config.translation.php:253 configs/config.translation.php:253
+msgid "The Amount is required"
+msgstr ""
+
+#: languages/config.translation.php:948 configs/config.translation.php:948
+msgid "The confirm password must be matched the new password"
+msgstr ""
+
+#: languages/config.translation.php:363 configs/config.translation.php:363
+msgid "The discussion content is required"
+msgstr ""
+
+#: admin/class.wiloke.php:368
+#, php-format
+msgid ""
+"The file with name %s doesn't exist. Please open a topic via support.wiloke."
+"com to report this problem."
+msgstr ""
+
+#: languages/config.translation.php:437 configs/config.translation.php:437
+msgid "The ID is required"
+msgstr ""
+
+#: languages/config.translation.php:254 configs/config.translation.php:254
+msgid "The Method is required"
+msgstr ""
+
+#: languages/config.translation.php:294 configs/config.translation.php:294
+msgid "The order has been cancelled"
+msgstr ""
+
+#: languages/config.translation.php:295 configs/config.translation.php:295
+msgid "The order has been updated successfully"
+msgstr ""
+
+#: languages/config.translation.php:284 configs/config.translation.php:284
+#, php-format
+msgid ""
+"The payment has not been completed. Please check the order number to re-"
+"proceed payment again: %d"
+msgstr ""
+
+#: languages/config.translation.php:249 configs/config.translation.php:249
+#, php-format
+msgid "The payment method %s is not not supported'"
+msgstr ""
+
+#: wiloke-submission/checkout.php:185
+msgid "The plan ID is required"
+msgstr ""
+
+#: languages/config.translation.php:213 configs/config.translation.php:213
+msgid "The rating feature is disabling"
+msgstr ""
+
+#: languages/config.translation.php:259 configs/config.translation.php:259
+msgid "The request has been cancelled successfully"
+msgstr ""
+
+#: languages/config.translation.php:38 configs/config.translation.php:38
+msgid ""
+"The step you are trying to visit requires that you re-enter your password."
+msgstr ""
+
+#: configs/config.themeoptions.php:1814
+msgid ""
+"The theme allows replace current Google Fonts with another Google Fonts. Go "
+"to https://fonts.google.com/specimen to get a the Font that you want. For "
+"example: https://fonts.googleapis.com/css?family=Prompt"
+msgstr ""
+
+#: languages/config.translation.php:662 configs/config.translation.php:662
+msgid ""
+"The token has been expired, please log into the app to generate a new token"
+msgstr ""
+
+#: languages/config.translation.php:219 configs/config.translation.php:219
+msgid "The variation ID is required"
+msgstr ""
+
+#: languages/config.translation.php:220 configs/config.translation.php:220
+msgid "The variation is invalid"
+msgstr ""
+
+#: configs/config.themeoptions.php:1832
+msgid "Theme Color"
+msgstr ""
+
+#: configs/config.themeoptions.php:95 configs/config.themeoptions.php:110
+#: configs/config.themeoptions.php:111
+msgid "Theme Options"
+msgstr ""
+
+#: wiloke-submission/event-plans.php:15
+msgid ""
+"There are no event plans. Please go to Wiloke Submission -> Event Plans -> "
+"Complete this setting"
+msgstr ""
+
+#: languages/config.translation.php:661 configs/config.translation.php:661
+msgid "There are no favorites"
+msgstr ""
+
+#: languages/config.translation.php:941 configs/config.translation.php:941
+msgid ""
+"There are no fields. Please go to Wiloke Listing Tools -> Claim Listing to "
+"add some fields"
+msgstr ""
+
+#: languages/config.translation.php:457 configs/config.translation.php:457
+msgid "There are no messages"
+msgstr ""
+
+#: author-listing/author-info.php:33
+msgid "There is no information about this customer"
+msgstr ""
+
+#: languages/config.translation.php:296 configs/config.translation.php:296
+msgid "There is no order yet"
+msgstr ""
+
+#: languages/config.translation.php:214 configs/config.translation.php:214
+msgid "There is no rating yet"
+msgstr ""
+
+#: languages/config.translation.php:233 configs/config.translation.php:233
+msgid "There is no request'"
+msgstr ""
+
+#: languages/config.translation.php:226 configs/config.translation.php:226
+msgid "This cart item has been added successfully"
+msgstr ""
+
+#: languages/config.translation.php:227 configs/config.translation.php:227
+msgid "This cart item has been removed successfully"
+msgstr ""
+
+#: configs/config.themeoptions.php:1824
+msgid ""
+"This code shoule be under Google Font link. For example: font-family: "
+"'Prompt', sans-serif;"
+msgstr ""
+
+#: languages/config.translation.php:333 configs/config.translation.php:333
+msgid "This content is no longer available"
+msgstr ""
+
+#: configs/config.taxonomy.php:69
+msgid ""
+"This feature available in ListGo 1.0.8 and higher. You can find the place "
+"here <a href=\"https://developers.google."
+"com/maps/documentation/javascript/examples/places-placeid-finder\" "
+"target=\"_blank\">PlaceID finder</a>"
+msgstr ""
+
+#: languages/config.translation.php:368 configs/config.translation.php:368
+msgid "This feature is not available yet"
+msgstr ""
+
+#: languages/config.translation.php:876 configs/config.translation.php:876
+msgid ""
+"This info will also appear in Listing and any ads created for this event"
+msgstr ""
+
+#: languages/config.translation.php:204 configs/config.translation.php:204
+msgid "This is not a product or this is un-publish product"
+msgstr ""
+
+#: languages/config.translation.php:299 configs/config.translation.php:299
+msgid "This order does not exists"
+msgstr ""
+
+#: languages/config.translation.php:855 configs/config.translation.php:855
+msgid ""
+"This post will be deleted permanently, Press x to confirm that you still "
+"want to delete this listing"
+msgstr ""
+
+#: languages/config.translation.php:216 configs/config.translation.php:216
+msgid "This product does not exist"
+msgstr ""
+
+#: languages/config.translation.php:210 configs/config.translation.php:210
+msgid "This product has been added to wishlist already"
+msgstr ""
+
+#: configs/config.themeoptions.php:1038 configs/config.themeoptions.php:1049
+msgid "This setting is useful for local business."
+msgstr ""
+
+#: languages/config.translation.php:79 configs/config.translation.php:79
+msgid "Thu"
+msgstr ""
+
+#: languages/config.translation.php:922 configs/config.translation.php:922
+msgid "Thurs"
+msgstr ""
+
+#: languages/config.translation.php:70 configs/config.translation.php:70
+msgid "Thursday"
+msgstr ""
+
+#: languages/config.translation.php:838 configs/config.translation.php:838
+msgid "Time"
+msgstr ""
+
+#: languages/config.translation.php:159 configs/config.translation.php:159
+#: configs/config.themeoptions.php:1379
+msgid "Time Format"
+msgstr ""
+
+#: configs/config.metaboxes.php:138
+msgid "Timezone"
+msgstr ""
+
+#: languages/config.translation.php:768 configs/config.translation.php:768
+msgid "Title"
+msgstr ""
+
+#: languages/config.translation.php:800 configs/config.translation.php:800
+msgid "To"
+msgstr ""
+
+#: before-footer.php:23
+msgid "To top"
+msgstr ""
+
+#: configs/config.themeoptions.php:458
+msgid "Toggle agree To the Privacy Policy"
+msgstr ""
+
+#: configs/config.themeoptions.php:1414
+msgid "Toggle Favorite Feature"
+msgstr ""
+
+#: configs/config.themeoptions.php:693
+msgid "Toggle Follow Feature"
+msgstr ""
+
+#: configs/config.themeoptions.php:386
+msgid "Toggle Register"
+msgstr ""
+
+#: configs/config.themeoptions.php:476
+msgid "Toggle Terms and conditionals"
+msgstr ""
+
+#: languages/config.translation.php:175 languages/config.translation.php:811
+#: wiloke-submission/checkout.php:107 wiloke-submission/thankyou.php:51
+#: configs/config.translation.php:175 configs/config.translation.php:811
+#: single-listing/home-sections/test-multiple-single-products.php:7
+msgid "Total"
+msgstr ""
+
+#: languages/config.translation.php:771 languages/config.translation.php:776
+#: configs/config.translation.php:771 configs/config.translation.php:776
+msgid "Total Favorites"
+msgstr ""
+
+#: languages/config.translation.php:273 configs/config.translation.php:273
+msgid "Total Sales"
+msgstr ""
+
+#: languages/config.translation.php:770 languages/config.translation.php:777
+#: configs/config.translation.php:770 configs/config.translation.php:777
+msgid "Total Shares"
+msgstr ""
+
+#: languages/config.translation.php:348 languages/config.translation.php:775
+#: configs/config.translation.php:348 configs/config.translation.php:775
+msgid "Total Views"
+msgstr ""
+
+#: single-listing/view-gallery-btn.php:14
+#, php-format
+msgid "Tour this %s"
+msgstr ""
+
+#: wiloke-submission/checkout.php:89
+msgid "Trial Period (Days)"
+msgstr ""
+
+#: languages/config.translation.php:86 configs/config.translation.php:86
+msgid "Tu"
+msgstr ""
+
+#: languages/config.translation.php:77 languages/config.translation.php:914
+#: configs/config.translation.php:77 configs/config.translation.php:914
+msgid "Tue"
+msgstr ""
+
+#: languages/config.translation.php:68 configs/config.translation.php:68
+msgid "Tuesday"
+msgstr ""
+
+#: languages/config.translation.php:37 configs/config.translation.php:37
+msgid "Turn off"
+msgstr ""
+
+#: languages/config.translation.php:36 configs/config.translation.php:36
+msgid "Turn on"
+msgstr ""
+
+#: languages/config.translation.php:28 configs/config.translation.php:28
+msgid "Two-factor authentication"
+msgstr ""
+
+#: languages/config.translation.php:769 configs/config.translation.php:769
+msgid "Type"
+msgstr ""
+
+#: languages/config.translation.php:848 configs/config.translation.php:848
+msgid "Type a message..."
+msgstr ""
+
+#: languages/config.translation.php:13 configs/config.translation.php:13
+msgid "Type to search ..."
+msgstr ""
+
+#: configs/config.metaboxes.php:294
+msgid "Ultra High"
+msgstr ""
+
+#: languages/config.translation.php:18 configs/config.translation.php:18
+#, php-format
+msgid "Under %s"
+msgstr ""
+
+#: languages/config.translation.php:118 configs/config.translation.php:118
+msgid ""
+"Unfortunately, Geocoder does not work on the browser platform, please switch "
+"to another browser like Chrome/Firefox to use this feature"
+msgstr ""
+
+#: languages/config.translation.php:217 configs/config.translation.php:217
+#, php-format
+msgid "Unfortunately, The %s is not supported on Mobile App yet"
+msgstr ""
+
+#: languages/config.translation.php:349 configs/config.translation.php:349
+msgid "Unlimited"
+msgstr ""
+
+#: languages/config.translation.php:609 configs/config.translation.php:609
+#: configs/config.metaboxes.php:351
+msgid "Unpaid"
+msgstr ""
+
+#: languages/config.translation.php:100 configs/config.translation.php:100
+msgid "unPaid"
+msgstr ""
+
+#: reviews/toolbar.php:19 single-listing/partials/review-toolbar.php:10
+msgid "Unpin this review"
+msgstr ""
+
+#: languages/config.translation.php:762 configs/config.translation.php:762
+msgid "Unpin to Top of Review"
+msgstr ""
+
+#: languages/config.translation.php:786 configs/config.translation.php:786
+msgid "Up"
+msgstr ""
+
+#: languages/config.translation.php:625 languages/config.translation.php:765
+#: configs/config.translation.php:625 configs/config.translation.php:765
+msgid "Upcoming"
+msgstr ""
+
+#: languages/config.translation.php:180 configs/config.translation.php:180
+msgid "Update"
+msgstr ""
+
+#: languages/config.translation.php:694 configs/config.translation.php:694
+msgid "Update review"
+msgstr ""
+
+#: languages/config.translation.php:108 configs/config.translation.php:108
+msgid "Upload"
+msgstr ""
+
+#: languages/config.translation.php:828 configs/config.translation.php:828
+msgid "Upload Image"
+msgstr ""
+
+#: languages/config.translation.php:829 configs/config.translation.php:829
+#: configs/config.metaboxes.php:190
+msgid "Upload Images"
+msgstr ""
+
+#: languages/config.translation.php:474 configs/config.translation.php:474
+msgid "Upload photo"
+msgstr ""
+
+#: languages/config.translation.php:475 configs/config.translation.php:475
+msgid "Upload photo from Library"
+msgstr ""
+
+#: languages/config.translation.php:826 configs/config.translation.php:826
+msgid "Upload Videos"
+msgstr ""
+
+#: languages/config.translation.php:518 configs/config.translation.php:518
+msgid "URL is required"
+msgstr ""
+
+#. Name of the template
+msgid "User Plan Info"
+msgstr ""
+
+#: languages/config.translation.php:471 configs/config.translation.php:471
+msgid "User profile does not exist."
+msgstr ""
+
+#: languages/config.translation.php:747 configs/config.translation.php:747
+msgid "Username"
+msgstr ""
+
+#: languages/config.translation.php:526 configs/config.translation.php:526
+msgid "Username is required"
+msgstr ""
+
+#: languages/config.translation.php:7 languages/config.translation.php:8
+#: languages/config.translation.php:748 configs/config.translation.php:8
+#: configs/config.translation.php:748 templates/reset-password.php:128
+msgid "Username or Email Address"
+msgstr ""
+
+#: configs/config.themeoptions.php:672
+msgid "Users"
+msgstr ""
+
+#: languages/config.translation.php:32 configs/config.translation.php:32
+msgid "Verification failed. Please try it again"
+msgstr ""
+
+#: languages/config.translation.php:326 languages/config.translation.php:327
+#: configs/config.translation.php:326 configs/config.translation.php:327
+msgid "Verified"
+msgstr ""
+
+#: languages/config.translation.php:199 configs/config.translation.php:199
+msgid "Verify"
+msgstr ""
+
+#: configs/config.metaboxes.php:148
+msgid "Video"
+msgstr ""
+
+#: languages/config.translation.php:823 configs/config.translation.php:823
+msgid "Video Link"
+msgstr ""
+
+#: configs/config.themeoptions.php:1363
+msgid "Video Thumbnail"
+msgstr ""
+
+#: configs/config.metaboxes.php:159
+msgid "Video URL"
+msgstr ""
+
+#: languages/config.translation.php:347 configs/config.translation.php:347
+msgid "View"
+msgstr ""
+
+#: languages/config.translation.php:181 configs/config.translation.php:181
+msgid "View All"
+msgstr ""
+
+#: single-listing/home-sections/test-multiple-single-products.php:8
+msgid "View Cart"
+msgstr ""
+
+#: languages/config.translation.php:738 configs/config.translation.php:738
+msgid "View Details"
+msgstr ""
+
+#: languages/config.translation.php:759 configs/config.translation.php:759
+msgid "View more comments"
+msgstr ""
+
+#: configs/config.btn.php:13
+msgid "View Photos"
+msgstr ""
+
+#: languages/config.translation.php:699 configs/config.translation.php:699
+msgid "View Profile"
+msgstr ""
+
+#: languages/config.translation.php:148 configs/config.translation.php:148
+msgid "View Statistic"
+msgstr ""
+
+#: languages/config.translation.php:705 languages/config.translation.php:781
+#: configs/config.translation.php:705 configs/config.translation.php:781
+msgid "Views"
+msgstr ""
+
+#: configs/config.install_plugins.php:207
+msgid "Visual Composer"
+msgstr ""
+
+#: languages/config.translation.php:128 configs/config.translation.php:128
+msgid "Warning"
+msgstr ""
+
+#: wiloke-submission/checkout.php:35
+msgid ""
+"Warning: In order to use Wiloke Submission, You have to setup <strong>"
+"WebHook</strong> for each Payment Gateway. You can find Setting\n"
+"up WebHook tutorial by going to the <a style=\"color: red\" href=\"https:"
+"//documentation.wilcity.com/\" target=\"_blank\">documentation</a> -> Search "
+"for WebHook. This message will not show up after switching to Live mode"
+msgstr ""
+
+#: languages/config.translation.php:87 configs/config.translation.php:87
+msgid "We"
+msgstr ""
+
+#: languages/config.translation.php:686 configs/config.translation.php:686
+msgid "We are working on this feature"
+msgstr ""
+
+#: languages/config.translation.php:809 configs/config.translation.php:809
+msgid "We could not add product to cart"
+msgstr ""
+
+#: languages/config.translation.php:228 configs/config.translation.php:228
+msgid "We could not add this product to cart"
+msgstr ""
+
+#: languages/config.translation.php:160 configs/config.translation.php:160
+msgid "We could not create order"
+msgstr ""
+
+#: languages/config.translation.php:125 configs/config.translation.php:125
+msgid "We detected your location"
+msgstr ""
+
+#: templates/search-v2.php:90
+msgid "We found"
+msgstr ""
+
+#: templates/map.php:37 templates/search-without-map.php:25
+msgid "We found "
+msgstr ""
+
+#: languages/config.translation.php:127 configs/config.translation.php:127
+msgid "We found no term yet"
+msgstr ""
+
+#: languages/config.translation.php:833 configs/config.translation.php:833
+msgid "We need your"
+msgstr ""
+
+#: languages/config.translation.php:492 configs/config.translation.php:492
+#: configs/config.metaboxes.php:236
+msgid "Website"
+msgstr ""
+
+#: languages/config.translation.php:78 languages/config.translation.php:918
+#: configs/config.translation.php:78 configs/config.translation.php:918
+msgid "Wed"
+msgstr ""
+
+#: languages/config.translation.php:69 configs/config.translation.php:69
+msgid "Wednesday"
+msgstr ""
+
+#: languages/config.translation.php:893 configs/config.translation.php:893
+msgid "Weekly"
+msgstr ""
+
+#: languages/config.translation.php:697 configs/config.translation.php:697
+msgid "What are you looking for?"
+msgstr ""
+
+#. Name of the theme
+msgid "WilCity"
+msgstr ""
+
+#. Name of the template
+msgid "Wilcity AddListing"
+msgstr ""
+
+#. Name of the template
+msgid "Wilcity Become an author"
+msgstr ""
+
+#. Name of the template
+msgid "Wilcity Cancel"
+msgstr ""
+
+#. Name of the template
+msgid "Wilcity Checkout"
+msgstr ""
+
+#. Name of the template
+msgid "Wilcity Confirm Account"
+msgstr ""
+
+#. Name of the template
+msgid "Wilcity Custom Login Page"
+msgstr ""
+
+#. Name of the template
+msgid "Wilcity Dashboard"
+msgstr ""
+
+#. Name of the template
+msgid "Wilcity Event Plans"
+msgstr ""
+
+#. Name of the template
+msgid "Wilcity Events Template"
+msgstr ""
+
+#: single-listing/tabs/instafeedhub.php:17
+msgid "Wilcity InstafeedHub plugin is required"
+msgstr ""
+
+#: configs/config.frontend.php:162 configs/config.frontend.php:172
+msgid "WilCity Menu"
+msgstr ""
+
+#. Name of the template
+msgid "Wilcity Mobile App Homepage"
+msgstr ""
+
+#. Name of the template
+msgid "Wilcity Package Page"
+msgstr ""
+
+#. Name of the template
+msgid "Wilcity Page Builder"
+msgstr ""
+
+#. Name of the template
+msgid "Wilcity Reset Password"
+msgstr ""
+
+#. Name of the template
+msgid "Wilcity Search V2"
+msgstr ""
+
+#. Name of the template
+msgid "Wilcity Search With Map"
+msgstr ""
+
+#. Name of the template
+msgid "Wilcity Search Without Map (Search V1)"
+msgstr ""
+
+#. Name of the template
+msgid "Wilcity Taxonomy Template"
+msgstr ""
+
+#. Name of the template
+msgid "Wilcity Thank You"
+msgstr ""
+
+#. Author of the theme
+msgid "wiloke"
+msgstr ""
+
+#: configs/config.general.php:25
+msgid "Wiloke Options"
+msgstr ""
+
+#: languages/config.translation.php:278 configs/config.translation.php:278
+msgid "Withdraw"
+msgstr ""
+
+#: languages/config.translation.php:250 configs/config.translation.php:250
+#, php-format
+msgid "Withdraw amount must be greater than %d"
+msgstr ""
+
+#: languages/config.translation.php:235 configs/config.translation.php:235
+msgid "Withdraw Threshold: "
+msgstr ""
+
+#: languages/config.translation.php:258 configs/config.translation.php:258
+msgid "Withdrawn Request"
+msgstr ""
+
+#: languages/config.translation.php:27 configs/config.translation.php:27
+msgid "WooCommerce"
+msgstr ""
+
+#: configs/config.listing.php:112
+msgid "Write a review"
+msgstr ""
+
+#: languages/config.translation.php:318 configs/config.translation.php:318
+msgid "Wrote reviews for"
+msgstr ""
+
+#: languages/config.translation.php:244 configs/config.translation.php:244
+msgid ""
+"You already have pending withdraw request(s). Please submit your request "
+"after approval or cancellation of your previous request."
+msgstr ""
+
+#: languages/config.translation.php:364 configs/config.translation.php:364
+msgid "You already left a review before."
+msgstr ""
+
+#: templates/reset-password.php:76
+msgid "You are already logged in the site."
+msgstr ""
+
+#: languages/config.translation.php:431 configs/config.translation.php:431
+msgid "You are logged in already."
+msgstr ""
+
+#: languages/config.translation.php:109 configs/config.translation.php:109
+msgid ""
+"You are using Custom Navigation mode, so your Navigation will not be the "
+"same as the default setting"
+msgstr ""
+
+#: languages/config.translation.php:111 configs/config.translation.php:111
+msgid ""
+"You are using Custom Sidebar mode, so your Sidebar will not be the same as "
+"the default setting"
+msgstr ""
+
+#: languages/config.translation.php:317 configs/config.translation.php:317
+#, php-format
+msgid "You can add a maximum of %s items"
+msgstr ""
+
+#: languages/config.translation.php:316 configs/config.translation.php:316
+#, php-format
+msgid "You can add a maximum of %s menus"
+msgstr ""
+
+#: languages/config.translation.php:831 configs/config.translation.php:831
+#, php-format
+msgid "You can add a maximum of %s videos"
+msgstr ""
+
+#: configs/config.themeoptions.php:1853
+msgid ""
+"You can add more sidebar by entering in your sidebar id here. For example: "
+"my_custom_sidebar_1,my_custom_sidebar_2"
+msgstr ""
+
+#: configs/config.taxonomy.php:102
+msgid ""
+"You can download Wiloke Map Icons here <a href=\"https://www.dropbox."
+"com/s/l67lf2t135j1ns0/map-icons.zip?dl=0\" target=\"_blank\">Download Map "
+"Icons</a>"
+msgstr ""
+
+#: configs/config.themeoptions.php:1380
+msgid "You can override this setting in each listing"
+msgstr ""
+
+#: languages/config.translation.php:832 configs/config.translation.php:832
+#, php-format
+msgid "You can upload a maximum of %s images"
+msgstr ""
+
+#: languages/config.translation.php:667 configs/config.translation.php:667
+msgid "You do not have any article yet."
+msgstr ""
+
+#: languages/config.translation.php:12 configs/config.translation.php:12
+msgid "You do not have any review yet"
+msgstr ""
+
+#: languages/config.translation.php:297 configs/config.translation.php:297
+msgid "You do not have permission to access this order"
+msgstr ""
+
+#: languages/config.translation.php:668
+#: wiloke-submission/become-an-author.php:35 configs/config.translation.php:668
+msgid "You do not have permission to access this page"
+msgstr ""
+
+#: wiloke-submission/addlisting.php:49
+msgid "You do not have permission to access this page."
+msgstr ""
+
+#: languages/config.translation.php:251 configs/config.translation.php:251
+msgid "You don't have enough balance for this request"
+msgstr ""
+
+#: languages/config.translation.php:242 configs/config.translation.php:242
+msgid "You don't have sufficient balance for a withdraw request!"
+msgstr ""
+
+#: languages/config.translation.php:238 configs/config.translation.php:238
+#, php-format
+msgid ""
+"You have already withdrawn %s. This amount will be deducted from your "
+"balance."
+msgstr ""
+
+#: languages/config.translation.php:260 configs/config.translation.php:260
+msgid "You have no permission to do this action"
+msgstr ""
+
+#: comment-template.php:38
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: languages/config.translation.php:580 configs/config.translation.php:580
+msgid "You must agree to our policy privacy."
+msgstr ""
+
+#: languages/config.translation.php:575 configs/config.translation.php:575
+msgid "You must agree to our terms conditionals."
+msgstr ""
+
+#: comment-template.php:20
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: languages/config.translation.php:465 configs/config.translation.php:465
+msgid "You need to login to your account first"
+msgstr ""
+
+#: languages/config.translation.php:57 configs/config.translation.php:57
+msgid "Your account must be verified before you can use this feature"
+msgstr ""
+
+#: languages/config.translation.php:232 configs/config.translation.php:232
+msgid "Your activity"
+msgstr ""
+
+#: languages/config.translation.php:676 configs/config.translation.php:676
+msgid "Your current location will be used for nearby search results."
+msgstr ""
+
+#: languages/config.translation.php:570 configs/config.translation.php:570
+msgid "Your display name must be at least 3 characters"
+msgstr ""
+
+#: comment-template.php:33
+msgid "Your email address will not be published."
+msgstr ""
+
+#: languages/config.translation.php:552 configs/config.translation.php:552
+#, php-format
+msgid "Your first name must be at least %s characters"
+msgstr ""
+
+#: languages/config.translation.php:561 configs/config.translation.php:561
+msgid "Your last name must be at least 3 characters"
+msgstr ""
+
+#: wiloke-submission/checkout.php:66
+msgid "Your Package Details"
+msgstr ""
+
+#: languages/config.translation.php:539 configs/config.translation.php:539
+msgid "Your password must be at least 5 characters"
+msgstr ""
+
+#: templates/reset-password.php:115
+msgid ""
+"Your password reset link appears to be invalid or expired. Please request a "
+"new link below."
+msgstr ""
+
+#: wiloke-submission/thankyou.php:30
+msgid "Your Payment Info"
+msgstr ""
+
+#: languages/config.translation.php:367 configs/config.translation.php:367
+msgid "Your Review"
+msgstr ""
+
+#: languages/config.translation.php:357 configs/config.translation.php:357
+msgid "Your review has been submitted successfully"
+msgstr ""
+
+#: languages/config.translation.php:530 configs/config.translation.php:530
+msgid "Your username must be at least 3 characters"
+msgstr ""

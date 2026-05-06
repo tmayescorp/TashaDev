@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "WilcityWidgets\\": "src/"
+    }
+  },
+  "require": {
+    "drewm/mailchimp-api": "^2.5"
+  }
+}

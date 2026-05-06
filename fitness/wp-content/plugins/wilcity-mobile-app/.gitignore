@@ -1,0 +1,15 @@
+app/Controllers/.DS_Store
+/vendor/wilokecom/phpcli
+/node_modules/
+/.DS_Store
+/HEAD
+/package-lock.json
+/wilcity-mobile-app.zip
+/kingcomposer-sc/.DS_Store
+app/.DS_Store
+/app/.DS_Store
+wilcity-mobile-app
+app/Controllers/.DS_Store
+.idea
+/app/Controllers/BlogDesignPattern.php
+/app/Controllers/DesignData

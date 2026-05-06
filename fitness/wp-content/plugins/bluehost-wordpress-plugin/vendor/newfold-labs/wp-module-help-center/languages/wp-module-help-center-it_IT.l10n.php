@@ -1,0 +1,28 @@
+<?php
+return [
+	'domain' => 'wp-module-help-center',
+	'plural-forms' => 'nplurals=2; plural=(n != 1);',
+	'language' => 'it_IT',
+	'project-id-version' => 'newfold-labswp-module-staging',
+	'pot-creation-date' => '2025-02-13T09:55:55+00:00',
+	'po-revision-date' => '2026-04-29T15:29:36+00:00',
+	'x-generator' => 'WP-CLI 2.11.0',
+	'messages' => [
+		'We could not find the brand' => 'Non siamo riusciti a trovare il marchio',
+		'You must be authenticated to make this call' => 'Devi essere autenticato per effettuare questa chiamata',
+		'Bluehost' => 'Bluehost',
+		'Your dream site is just a click away.' => 'Il sito dei tuoi sogni è a portata di clic.',
+		'Let\'s build a site you love, together.' => 'Costruiamo insieme un sito che ami.',
+		'With Pro Design Live, our expert team bring your vision to life. We help you to create the site you\'ve always dreamed of — tailored to your goals, ready to perform.' => 'Con Pro Design Live, il nostro team di esperti dà vita alla tua visione. Ti aiutiamo a creare il sito che hai sempre sognato — su misura per i tuoi obiettivi, pronto a essere realizzato.',
+		'Start Now' => 'Parti ora',
+		'HostGator' => 'HostGator',
+		'NFD helpcenter data' => 'Dati del centro assistenza NFD',
+		'Help' => 'Aiuto',
+		'If you need help with your %1$s account, give us a call at %2$s or %3$s with one of our support agents — we\'re here for you!' => 'Se hai bisogno di aiuto con il tuo account %1$s, chiamaci a %2$s o %3$s con uno dei nostri operatori di supporto — siamo qui per te!',
+		'If you need help with your %1$s account, %2$s with one of our support agents — we\'re here for you!' => 'Se hai bisogno di aiuto con il tuo account %1$s, %2$s con uno dei nostri operatori di supporto — siamo qui per te!',
+		'Call at %1$s or %2$s with one of our support agents — we will assist you as soon as possible.' => 'Chiama al numero %1$s o %2$s con uno dei nostri operatori di supporto — ti assisteremo il prima possibile.',
+		'Or %1$s with one of our support agents — we will assist you as soon as possible.' => 'Oppure contatta uno dei nostri operatori di supporto — ti assisteremo il prima possibile.',
+		'The request failed' => 'La richiesta non è riuscita',
+		'No data found' => 'Nessun dato trovato',
+	],
+];

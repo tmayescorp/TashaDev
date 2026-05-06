@@ -1,0 +1,2 @@
+<?php
+return ['domain'=>'wp-module-facebook','plural-forms'=>'nplurals=2; plural=(n != 1);','language'=>'es_MX','project-id-version'=>'','pot-creation-date'=>'2025-02-13T09:55:55+00:00','po-revision-date'=>'2025-05-07 12:48+0100','x-generator'=>'WP-CLI 2.11.0','messages'=>['Facebook'=>'Facebook','Details not found.'=>'Detalles no encontrados.','Connected'=>'Conectado','Connect Facebook'=>'Conectar con Facebook']];

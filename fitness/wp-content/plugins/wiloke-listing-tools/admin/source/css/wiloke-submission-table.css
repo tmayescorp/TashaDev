@@ -1,0 +1,21 @@
+#wiloke-invoice-table .invoice-small {
+  width: 100px;
+  padding: 10px;
+}
+
+#wiloke-invoice-table .invoice-medium {
+  width: 200px;
+  padding: 10px;
+}
+
+@media only screen and (max-width: 1400px) {
+  #wiloke-invoice-table .invoice-small {
+    width: 50px;
+    padding: 10px;
+  }
+
+  #wiloke-invoice-table .invoice-medium {
+    width: 150px;
+    padding: 10px;
+  }
+}

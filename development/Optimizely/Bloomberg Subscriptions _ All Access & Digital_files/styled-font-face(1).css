@@ -1,0 +1,71 @@
+
+@font-face {
+    font-family: 'BWHaasGroteskWeb';
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Web-7998fbcba8.eot');
+    src: local('?'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Web-5cf5733cd9.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Web-a1ea4fd367.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'BWHaasGroteskWeb';
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-75Bold-Web-de8c77cce2.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-75Bold-Web-506363704e.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'BWHaasGroteskWeb';
+    font-display: swap;
+    font-weight: 900;
+    font-style: normal;
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-95Black-Web-3629d1569b.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-95Black-Web-37847ad026.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'BWHaasGrotesk';
+    font-display: swap;
+    font-weight: 500;
+    font-style: normal;
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-65Fixed-1652b1067d.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-65Fixed-402ac1892e.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'BWHaasHead';
+    font-display: swap;
+    font-weight: 400;
+    font-style: italic;
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasHead-56Italic-b6ed5982f2.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasHead-56Italic-e924a76be8.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'BWHaasHead';
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasHead-75Bold-f38aa54387.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/BWHaasHead-75Bold-a8669e9538.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'AvenirNextPForBBG';
+    font-display: swap;
+    font-weight: 600;
+    font-style: normal;
+    
+    src: url('https://assets.bwbx.io/s3/fontservice/fonts/AvenirNextPForBBG-Demi-b9b4abf0ea.woff2') format('woff2'),
+         url('https://assets.bwbx.io/s3/fontservice/fonts/AvenirNextPForBBG-Demi-7459932d1d.woff') format('woff');
+}

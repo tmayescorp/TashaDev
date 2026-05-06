@@ -1,0 +1,161 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wilcity Mobile App\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-07 08:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#: app/SidebarOnApp/BusinessHours.php:62
+msgid "Day Off"
+msgstr ""
+
+#: app/Controllers/JsonSkeleton.php:920
+msgid "Favorite"
+msgstr ""
+
+#: app/Controllers/JsonSkeleton.php:919
+msgid "Favorites"
+msgstr ""
+
+#: app/Controllers/WooCommerceController.php:171
+#, php-format
+msgid "From %s"
+msgstr ""
+
+#: app/Controllers/WooCommerce/WooCommerceOrderController.php:459
+#, php-format
+msgid "Hi %s,"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wilcity.com"
+msgstr ""
+
+#: app/Controllers/WooCommerce/WooCommerceWishlistController.php:73
+msgid ""
+"In order to use this feature, please go to Plugins -> Add New -> Install "
+"YITH WishList plugin"
+msgstr ""
+
+#: app/Controllers/WooCommercePrepareCheckout.php:32
+msgid "Invalid country code"
+msgstr ""
+
+#: app/Controllers/WooCommerceController.php:747
+msgid "Missing WooCommerce Authentication Configuration"
+msgstr ""
+
+#: kingcomposer-sc/wilcity_app_listing_blocks.php:56
+msgid "More"
+msgstr ""
+
+#: app/Controllers/Event.php:124
+msgid "No Post Found"
+msgstr ""
+
+#: app/Controllers/Blog.php:272
+msgid "No Post Founds"
+msgstr ""
+
+#: app/Controllers/Listings.php:77 app/Controllers/NearByMe.php:44
+#: app/Controllers/NearByMe.php:68
+msgid "No Posts Found"
+msgstr ""
+
+#: app/Controllers/JsonSkeleton.php:916 app/Controllers/JsonSkeleton.php:917
+msgid "people interested"
+msgstr ""
+
+#: app/Controllers/WooCommerce/WooCommerceBookingController.php:69
+msgid "Persons"
+msgstr ""
+
+#: app/Controllers/WooCommerceController.php:673
+msgid "Ship to different address?"
+msgstr ""
+
+#: app/Controllers/WooCommerce/WooCommerceOrderController.php:281
+msgid "Shop Order"
+msgstr ""
+
+#: app/Controllers/WooCommerce/DokanWithdrawnController.php:338
+msgid "Sorry, no transactions were found!"
+msgstr ""
+
+#: app/Controllers/WooCommerce/WooCommerceWishlistController.php:47
+msgid "The product id is an integer"
+msgstr ""
+
+#: app/Middleware/VerifyFirebaseChat.php:16
+msgid "The receiver ID is required."
+msgstr ""
+
+#: app/Controllers/WooCommercePrepareCheckout.php:48
+msgid "The shipping country is required"
+msgstr ""
+
+#: app/Controllers/WooCommerce/WooCommerceWishlistController.php:57
+msgid "The wishlist id must be an integer"
+msgstr ""
+
+#: app/Controllers/WooCommerce/WooCommerceWishlistController.php:52
+msgid "The wishlist token is required"
+msgstr ""
+
+#: app/Controllers/ReviewController.php:440
+msgid "There are no discussions"
+msgstr ""
+
+#: app/Controllers/WooCommerce/WooCommerceRatingController.php:103
+msgid "There are no rating yet"
+msgstr ""
+
+#: app/Middleware/IsLoggedInFirebase.php:19
+msgid ""
+"There is something wrong! Please try logout and the re-login to the website "
+"again"
+msgstr ""
+
+#: app/Controllers/Blog.php:213
+msgid "This page no longer available"
+msgstr ""
+
+#: app/Controllers/WooCommerceController.php:475
+msgid "This product does not exist"
+msgstr ""
+
+#: app/Controllers/WooCommerce/WooCommerceCartController.php:256
+msgid "This product does not exists"
+msgstr ""
+
+#: app/Middleware/VerifyFirebaseChat.php:32
+msgid "We could not create your Firebase account"
+msgstr ""
+
+#. Author of the plugin
+msgid "Wilcity"
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "Wilcity Mobile App"
+msgstr ""
+
+#: app/Middleware/VerifyFirebaseChat.php:50
+msgid "You do not have permission to access this chat room"
+msgstr ""
+
+#: app/Middleware/VerifyFirebaseChat.php:21
+msgid "You need to build Chat reference object first."
+msgstr ""

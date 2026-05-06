@@ -1,0 +1,589 @@
+/*
+ * Theme Name: WilCity
+ * Theme URI: https://wilcity.com
+ * Author: wiloke
+ * Author URI: https://wiloke.com
+ * Description: Listing WordPress Theme
+ * Version: 1.4.45
+ * Text Domain: wilcity
+ * License: GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+ */
+
+@media (min-width: 1201px) {
+  .container-fullwidth .container {
+    max-width: 1760px !important;
+  }
+}
+
+.elementor-element[data-widget_type="wilcity-listings-tabs.default"] .elementor-widget-empty-icon,
+.elementor-element[data-widget_type="wilcity-new-grid.default"] .elementor-widget-empty-icon,
+.elementor-element[data-widget_type="wilcity-listings-slider.default"] .elementor-widget-empty-icon {
+  display: none;
+}
+
+.wil-header-btn-wrapper {
+  position: absolute;
+  bottom: 20px;
+  right: 10px;
+}
+
+.wil-verified::after {
+  content: "\f00c" !important;
+  font: normal normal normal 16px/1 "FontAwesome" !important;
+}
+
+
+/* LISTING CARD */
+.listing_module__2EnGq {
+  border: 1px solid #f5f5f7;
+}
+
+.listing_module__2EnGq:after {
+  display: none;
+}
+
+/* HEADER LIGHT BORDER BOTTOM */
+.header_module__Snpib[data-header-changetheme=light]:after, .header_module__Snpib[data-header-theme=light]:after {
+  background-color: #f3f3f6;
+}
+
+.wil-nav-bg-dark #wilcity-menu .sub-menu {
+  background-color: #fff;
+}
+
+/* NEW SEARCH */
+.wil-hero-search-style2 .hero_form__1ewus {
+  padding: 16px 20px 20px;
+  border-radius: 10px;
+  border: 1px solid #f3f3f6;
+  box-shadow: 0 5px 18px 0 rgba(37, 44, 65, 0.1);
+}
+
+.wil-hero-search-style2 .wil-tab__panel .wil-btn {
+  width: 100%;
+}
+
+.wil-hero-search-style2 .field_module__1H6kT {
+  margin-bottom: 0 !important;
+}
+
+.wil-hero-search-style2 .tab_nav__3YJph li a.active,
+.wil-hero-search-style2 .tab_nav__3YJph li a:focus.active,
+.wil-hero-search-style2 .tab_nav__3YJph li a:hover.active {
+  background: none;
+}
+
+.wil-hero-search-style2 .tab_nav__3YJph a {
+  position: relative;
+  color: #252c41;
+  font-size: 15px;
+  padding: 0 30px 12px 0;
+}
+
+.wil-hero-search-style2 .tab_nav__3YJph a:after {
+  content: '';
+  display: block;
+  margin-top: 4px;
+  height: 2px;
+}
+
+.wil-hero-search-style2 .tab_nav__3YJph li a.active:after,
+.wil-hero-search-style2 .tab_nav__3YJph li a:focus.active:after,
+.wil-hero-search-style2 .tab_nav__3YJph li a:hover.active:after {
+  background-color: #252c41;
+}
+
+.wil-hero-search-style2 .vue-treeselect div, .wil-hero-search-style2 .vue-treeselect span {
+  color: #70778b;
+  font-size: 14px;
+}
+
+.wil-hero-search-style2 .vue-treeselect__indent-level-0 .vue-treeselect__option {
+  padding: 10px;
+}
+
+.wil-hero-search-style2 .vue-treeselect__label {
+  padding-left: 0 !important;
+}
+
+.wil-hero-search-style2 .vue-treeselect i {
+  font-size: 18px;
+}
+
+.wil-hero-search-style2 .vue-treeselect .la-coffee {
+  transform: translate(-3px, 4px);
+}
+
+.wil-disable-sticky-menu.page-template-addlisting > #wilcity-root > .wil-content > .wil-section {
+  margin-top: 20px;
+}
+
+.wil-disable-sticky-menu.page-template-wiloke-submission > #wilcity-root > .wil-content > .wil-section {
+  margin-top: 0;
+}
+
+.page-template-addlisting > #wilcity-root > .wil-content > .wil-section,
+.page-template-wiloke-submission > #wilcity-root > .wil-content > .wil-section {
+  margin-top: 75px;
+}
+
+@media (min-width: 992px) {
+  .wil-hero-search-style2 .wil-hsf-wrapper {
+    display: flex;
+  }
+
+  .wil-hero-search-style2 .wil-hsf-fields-wrapper {
+    width: calc(100% - 180px);
+    padding-right: 30px;
+  }
+
+  .wil-hero-search-style2 .wil-btn-wrapper {
+    width: 180px;
+  }
+}
+
+@media (max-width: 991px) {
+  .wil-hero-search-style2 .field_module__1H6kT {
+    margin-bottom: 10px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .wil-hero-search-style2 .field_module__1H6kT {
+    margin-bottom: 10px !important;
+  }
+
+  .header_navWrapper__B2C9n .wil-addlisting-btn {
+    min-width: 20px;
+  }
+
+  .log-reg-template_right__3aFwI {
+    display: none;
+  }
+}
+
+.fa.fa-tiktok:before {
+  background: url(assets/img/icons/tiktok.png) no-repeat;
+  width: 40px;
+  height: 40px;
+  content: " ";
+  display: inline-block;
+  background-size: cover !important;
+}
+
+.social-icon_style-2__17BFy {
+  display: flex;
+  align-items: center;
+}
+
+.wil-sticky-menu #wilcity-header-section {
+  position: fixed;
+  top: 0 !important;
+}
+
+
+.logged-in.wil-sticky-menu #wilcity-header-section {
+  position: fixed;
+  top: 0 !important;
+}
+
+.wil-sticky-menu #wil-search-v2 > .searchbox_module__3ZYKm {
+  margin-top: 90px !important;
+}
+
+.wil-sticky-menu #wilcity-dashboard {
+  margin-top: 75px !important;
+}
+
+.wilcity-sidebar-item-business-info .social-icon_style-2__17BFy {
+  display: inline-block !important;
+  overflow: hidden;
+}
+
+@media (min-width: 992px) {
+  .listing_header__2pt4D > div {
+    padding-top: 66.6666667%;
+  }
+}
+
+.listing_header__2pt4D > div {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  padding-top: 75%;
+}
+
+.wil-compared-price .pricing_currency__2bkpj,
+.wil-compared-price .pricing_amount__34e-B del {
+  color: #868383 !important;
+  text-decoration: line-through;
+  font-size: 40px;
+}
+
+.wil-compared-price .pricing_amount__34e-B del {
+  font-size: 60px;
+}
+
+.wil-sticky-menu > .wil-content {
+  margin-top: 80px;
+}
+
+.wil-compared-price {
+  position: absolute;
+  top: 53px;
+  right: 25px;
+}
+
+body.logged-in.admin-bar header.js-header-fixed,
+.wil-disable-sticky-menu #wilcity-header-section {
+  position: relative !important;
+}
+
+/*.logged-in.user-permission-administrator.wil-disable-sticky-menu #wilcity-header-section {*/
+/*  top: 0 !important;*/
+/*}*/
+
+#wilcity-header-section.header_module__Snpib.js-header-sticky[data-header-theme="transparent"] {
+  position: absolute !important;
+}
+
+.logged-in.user-permission-administrator.wil-disable-sticky-menu #wilcity-header-section.js-header-sticky[data-header-theme="transparent"] {
+  top: 32px !important;
+}
+
+body.logged-in.admin-bar header.js-header-fixed, .wil-disable-sticky-menu #wilcity-header-section.js-header-fixed {
+  position: fixed !important;
+}
+
+body #wilcity-root.page-wrap .wil-disable-sticky-menu #wilcity-header-section.js-header-fixed {
+  position: fixed !important;
+}
+
+@media (min-width: 769px) {
+  body.admin-bar .js-header-fixed ~ .wil-content .listing-bar_module__2BCsi.js-listing-bar-sticky.js-listing-bar-fixed {
+    top: 27px;
+  }
+}
+
+@media (min-width: 1200px) {
+  body.admin-bar .js-header-fixed ~ .wil-content .js-listing-bar-fixed ~ .filter-bar {
+    top: 143px;
+  }
+
+  body.admin-bar .js-header-fixed~.wil-content .js-listing-bar-fixed~.filter-bar{
+    top: 80px;
+  }
+}
+
+/* Search Form on the bottom position */
+@media (min-width: 993px) {
+  .wil-search-form-center .wil-tab, .hero_fullWidth__1u0K7 .hero_formWrapper__1IuRO {
+    position: static;
+  }
+}
+
+/* Search Form on the middle position */
+@media (min-width: 993px) {
+  .wil-search-form-center .hero_textWrapper__aU40s {
+    padding-right: 0px;
+    text-align: center;
+    width: 100%;
+    float: none;
+  }
+}
+
+@media (min-width: 993px) {
+  .wil-search-form-center .hero_formWrapper__1IuRO, .hero_horizontal__1t27X .wil-tab {
+    width: 100%;
+    max-width: 870px;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+  }
+}
+
+@media (min-width: 993px) {
+  .wil-search-form-center .wil-tab__nav li {
+    width: auto;
+  }
+
+  .wil-search-form-center [class*="col-"] {
+    margin-bottom: 0;
+  }
+
+  .wil-search-form-center [class*="col-md-6"] {
+    width: 50% !important;
+  }
+
+  .wil-search-form-center [class*="col-sm-5"] {
+    width: 41.66666667% !important;
+  }
+
+  .wil-search-form-center [class*="col-sm-4"] {
+    width: 33.33333333% !important;
+  }
+
+  .wil-search-form-center [class*="col-sm-3"] {
+    width: 25% !important;
+  }
+}
+
+.wil-search-form-center .hero_text__3ENGw {
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 1600px) {
+  .wil-search-form-center .hero_highlight__1JwX3 {
+    padding-top: 15px;
+  }
+}
+
+/* Style the list */
+ul.wil-breadcrumb {
+  padding: 5px 20px;
+  list-style: none;
+}
+
+/* Display list items side by side */
+ul.wil-breadcrumb li {
+  display: inline;
+  font-size: 18px;
+}
+
+/* Add a slash symbol (/) before/behind each list item */
+ul.wil-breadcrumb li + li:before {
+  padding: 8px;
+  color: black;
+  content: "/\00a0";
+}
+
+/* Add a color to all links inside the list */
+ul.wil-breadcrumb li a {
+  color: #252c41;
+  text-decoration: none;
+}
+
+@media (max-width: 1700px) {
+  #wil-search-v2 > .wil-section .listing-bar_module__2BCsi > .container {
+    display: flex;
+    flex-direction: row;
+    height: 61px;
+  }
+
+  .listing-bar_resuilt__R8pwY,
+  .wil-tab-filters{
+    float: none;
+    height: 100%;
+  }
+}
+
+.logged-in.wil-sticky-menu #wil-search-v2 > .searchbox_module__3ZYKm {
+  margin-top: 60px;
+}
+
+@media (min-width: 1200px){
+  body.logged-in .js-header-fixed~.wil-content .js-listing-bar-fixed~.filter-bar {
+    top: 140px !important;
+  }
+
+  body.logged-in .js-header-fixed ~ .wil-content .listing-bar_module__2BCsi.js-listing-bar-sticky.js-listing-bar-fixed {
+    top: 80px !important;
+  }
+}
+
+body.logged-in .js-header-fixed~.wil-content .js-listing-bar-fixed~.filter-bar {
+  top: 133px !important;
+}
+
+body.logged-in .js-header-fixed ~ .wil-content .listing-bar_module__2BCsi.js-listing-bar-sticky.js-listing-bar-fixed {
+  top: 75px !important;
+}
+
+@media (min-width: 768px){
+  body.logged-in .js-header-fixed ~ .wil-content .listing-bar_module__2BCsi.js-listing-bar-sticky.js-listing-bar-fixed {
+    top: 49px !important;
+  }
+
+  body.logged-in .js-header-fixed~.wil-content .js-listing-bar-fixed~.filter-bar {
+    top: 109px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  #wilcity-root #wil-search-v2>.wil-section .listing-bar_module__2BCsi>.container {
+    flex-direction: column;
+    height: auto;
+  }
+}
+
+.is-fixed #wil-search-v2 > .searchbox_module__3ZYKm {
+  top: 0 !important;
+  margin-top: 0px !important;
+  width: 100% !important;
+  position: fixed !important;
+}
+
+.isIphoneX .popup_mobile-full__1hyc4 .popup_body__1wtsy {
+  max-height: calc(100vh - 226px);
+}
+
+@media (min-width: 1701px) {
+  body .js-header-fixed~.wil-content .listing-bar_module__2BCsi.js-listing-bar-sticky.js-listing-bar-fixed {
+    top: 88px !important;
+  }
+}
+
+@media (max-width: 1700px) {
+  body .header_module__Snpib {
+    height: 70px !important;
+  }
+  body .wil-content .wil-section .listing-bar_module__2BCsi .container .list-utility_style2__3Gfxe {
+    margin: 10px 0;
+  }
+  #wilcity-root #wil-search-v2>.wil-section .listing-bar_module__2BCsi>.container {
+    flex-direction: column;
+    height: auto;
+  }
+  body .js-header-fixed~.wil-content .js-listing-bar-fixed~.filter-bar {
+    top: 170px !important;
+  }
+  body .wil-content .wil-section .listing-bar_module__2BCsi {
+    height: auto;
+  }
+}
+@media (max-width: 767px) {
+  body .listing-bar_resuilt__R8pwY {
+    margin-bottom: 15px;
+  }
+
+  body .wil-content .wil-section .listing-bar_module__2BCsi .container .listing-bar_resuilt__R8pwY .wil-btn {
+    display: inline-block;
+  }
+  body.logged-in .js-header-fixed ~ .wil-content .listing-bar_module__2BCsi.js-listing-bar-sticky.js-listing-bar-fixed {
+    top: 70px !important;
+  }
+  body.logged-in .js-header-fixed~.wil-content .js-listing-bar-fixed~.filter-bar {
+    top: 190px !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .logged-in #wilcity-header-section {
+    height: 88px !important;
+  }
+  body .js-header-fixed~.wil-content .listing-bar_module__2BCsi.js-listing-bar-sticky.js-listing-bar-fixed {
+    top: 60px;
+  }
+  body.logged-in .js-header-fixed ~ .wil-content .listing-bar_module__2BCsi.js-listing-bar-sticky.js-listing-bar-fixed {
+    top: 88px !important;
+  }
+  body.logged-in .js-header-fixed~.wil-content .js-listing-bar-fixed~.filter-bar {
+    top: 200px !important;
+  }
+}
+.logged-in #wilcity-header-section {
+  height: auto;
+}
+@media (max-width: 1450px) {
+  .logged-in .wil-addlisting-btn.wil-btn--md {
+    min-width: auto;
+  }
+  .page-loaded .header_search__3IFfo {
+    width: 130px;
+  }
+  .logged-in .wil-addlisting-btn.wil-btn--md span {
+    display: none;
+  }
+}
+@media (max-width: 1239px) {
+  .logged-in .header_search__3IFfo {
+    width: auto;
+  }
+}
+.isIphoneX .popup_mobile-full__1hyc4 .popup_body__1wtsy {
+  max-height: calc(100vh - 226px);
+}
+body.logged-in.admin-bar header.js-header-fixed {
+  top: 0 !important;
+}
+
+@media (min-width: 1701px) {
+  body .js-header-fixed~.wil-content .listing-bar_module__2BCsi.js-listing-bar-sticky.js-listing-bar-fixed {
+    top: 88px !important;
+  }
+  body.logged-in .js-header-fixed~.wil-content .js-listing-bar-fixed~.filter-bar {
+    top: 148px !important;
+  }
+}
+
+@media (max-width: 1700px) {
+  body .header_module__Snpib {
+    height: 70px !important;
+  }
+  body .wil-content .wil-section .listing-bar_module__2BCsi .container .list-utility_style2__3Gfxe {
+    margin: 10px 0;
+  }
+  #wilcity-root #wil-search-v2>.wil-section .listing-bar_module__2BCsi>.container {
+    flex-direction: column;
+    height: auto;
+  }
+  body .js-header-fixed~.wil-content .js-listing-bar-fixed~.filter-bar {
+    top: 170px !important;
+  }
+  body .wil-content .wil-section .listing-bar_module__2BCsi {
+    height: auto;
+  }
+}
+@media (max-width: 767px) {
+  body .listing-bar_resuilt__R8pwY {
+    margin-bottom: 15px;
+  }
+
+  body .wil-content .wil-section .listing-bar_module__2BCsi .container .listing-bar_resuilt__R8pwY .wil-btn {
+    display: inline-block;
+  }
+  body.logged-in .js-header-fixed ~ .wil-content .listing-bar_module__2BCsi.js-listing-bar-sticky.js-listing-bar-fixed {
+    top: 70px !important;
+  }
+  body.logged-in .js-header-fixed~.wil-content .js-listing-bar-fixed~.filter-bar {
+    top: 190px !important;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1700px) {
+  .logged-in #wilcity-header-section {
+    height: 88px !important;
+  }
+  body .js-header-fixed~.wil-content .listing-bar_module__2BCsi.js-listing-bar-sticky.js-listing-bar-fixed {
+    top: 60px;
+  }
+  body.logged-in .js-header-fixed ~ .wil-content .listing-bar_module__2BCsi.js-listing-bar-sticky.js-listing-bar-fixed {
+    top: 88px !important;
+  }
+  body.logged-in .js-header-fixed~.wil-content .js-listing-bar-fixed~.filter-bar {
+    top: 200px !important;
+  }
+}
+.logged-in #wilcity-header-section {
+  height: auto;
+}
+@media (max-width: 1450px) {
+  .logged-in .wil-addlisting-btn.wil-btn--md {
+    min-width: auto;
+  }
+  .page-loaded .header_search__3IFfo {
+    width: 130px;
+  }
+  .logged-in .wil-addlisting-btn.wil-btn--md span {
+    display: none;
+  }
+}
+@media (max-width: 1239px) {
+  .logged-in .header_search__3IFfo {
+    width: auto;
+  }
+}

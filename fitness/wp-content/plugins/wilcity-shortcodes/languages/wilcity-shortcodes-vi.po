@@ -1,0 +1,505 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WilCity Shortcodes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-05 04:26+0000\n"
+"PO-Revision-Date: 2021-02-05 04:27+0000\n"
+"Last-Translator: \n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6.1\n"
+"X-Domain: wilcity-shortcodes"
+
+#: app/SCHelpers.php:336
+#, php-format
+msgid "%d Comments"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-statistics.php:56
+#, php-format
+msgid "%d Favorite"
+msgid_plural "%d Favorites"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/wilcity_render_term_box.php:19
+#, php-format
+msgid "%d Listing"
+msgid_plural "%d Listings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/SCHelpers.php:923 app/SCHelpers.php:930
+#, php-format
+msgid "%d person interested"
+msgid_plural "%d people interested"
+msgstr[0] ""
+msgstr[1] ""
+
+#: default-sc/wilcity-sidebar-statistics.php:48
+#, php-format
+msgid "%d Rating"
+msgid_plural "%d Ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: default-sc/wilcity-sidebar-statistics.php:64
+#, php-format
+msgid "%d Share"
+msgid_plural "%d Shares"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/SCHelpers.php:1017
+#, php-format
+msgid "%d View"
+msgid_plural "%d Views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/wilcity_widget_list_style.php:30
+#, php-format
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/wilcity_render_modern_term_box.php:24
+#: core/wilcity_render_term_masonry_item.php:18
+#: core/wilcity_render_rectangle_term_box.php:20
+#, php-format
+msgid "%s Listing"
+msgid_plural "%s Listings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: default-sc/wilcity-sidebar-statistics.php:40
+#, php-format
+msgid "%s Views"
+msgstr ""
+
+#: default-sc/wilcity-pricing.php:130
+#, php-format
+msgid "%s: %s"
+msgstr ""
+
+#: core/wilcity_render_modern_term_box.php:21
+#: core/wilcity_render_term_masonry_item.php:15
+#: core/wilcity_render_term_box.php:16
+#: core/wilcity_render_rectangle_term_box.php:17
+msgid "0 Listing"
+msgstr ""
+
+#: app/SCHelpers.php:332
+msgid "1 Comment"
+msgstr ""
+
+#: app/SCHelpers.php:334
+msgid "2 Comments"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-business-hours.php:160
+msgid "24 hours"
+msgstr ""
+
+#: configs/orderby.php:5
+msgid "A-Z"
+msgstr ""
+
+#: default-sc/wilcity-my-bank-account.php:35
+msgid "Account Name"
+msgstr ""
+
+#: default-sc/wilcity-my-bank-account.php:36
+msgid "Account Number"
+msgstr ""
+
+#: app/SCHelpers.php:907
+msgid "Ads"
+msgstr ""
+
+#: default-sc/wilcity-my-bank-account.php:37
+msgid "Bank Name"
+msgstr ""
+
+#: default-sc/wilcity-my-bank-account.php:40
+msgid "BIC/Swift"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-business-hours.php:54
+msgid "Business Closures"
+msgstr ""
+
+#: app/SCHelpers.php:993
+msgid "Call us"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-claim.php:23
+msgid "Claim Listing"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-claim.php:25
+msgid "Claim listing is the best way to manage and protect your business."
+msgstr "Thu xem"
+
+#: default-sc/wilcity-sidebar-business-hours.php:87
+msgid "Closed"
+msgstr ""
+
+#: default-sc/wilcity-pricing.php:168
+msgid "Continue"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-coupon.php:141
+msgid "Copy Code"
+msgstr ""
+
+#: default-sc/wilcity-sharing-posts.php:138
+msgid "Copy link"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-coupon.php:71
+msgid "coupon"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-business-hours.php:139
+msgid "Day Off"
+msgstr ""
+
+#: configs/orderby.php:13
+msgid "Discount"
+msgstr ""
+
+#: core/wilcity_render_rectangle_term_box.php:42
+msgid "Discover"
+msgstr ""
+
+#: configs/sc/wilcity_kc_pricing.php:5
+msgid "Display single icon"
+msgstr ""
+
+#: default-sc/wilcity-custom-login.php:262
+msgid "Don’t have an account?"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-coupon.php:135
+msgid "Email Coupon"
+msgstr ""
+
+#: core/wilcity_render_event_item.php:54
+#, php-format
+msgid "Every %s"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-coupon.php:117
+#: default-sc/wilcity-get-coupon.php:47
+msgid "Expiry date: "
+msgstr ""
+
+#: default-sc/wilcity-sidebar-statistics.php:56
+msgid "Favorite"
+msgstr ""
+
+#: core/wilcity_render_author_slider.php:44
+#: default-sc/wilcity-author-profile.php:91
+#: default-sc/wilcity-author-profile.php:96
+msgid "Follow"
+msgstr ""
+
+#: default-sc/wilcity-author-profile.php:72
+msgid "Follower"
+msgstr ""
+
+#: default-sc/wilcity-author-profile.php:73
+#: default-sc/wilcity-author-profile.php:74
+msgid "Followers"
+msgstr ""
+
+#: core/wilcity_render_author_slider.php:44
+#: default-sc/wilcity-author-profile.php:79
+#: default-sc/wilcity-author-profile.php:92
+#: default-sc/wilcity-author-profile.php:95
+msgid "Following"
+msgstr ""
+
+#: config.php:287
+msgid "Friday"
+msgstr ""
+
+#: app/SCHelpers.php:1069
+msgid "Gallery"
+msgstr ""
+
+#: default-sc/wilcity-custom-login.php:139
+msgid "Get New Password"
+msgstr ""
+
+#: default-sc/wilcity-pricing.php:160 default-sc/wilcity-pricing.php:169
+msgid "Get Now"
+msgstr ""
+
+#: configs/sc/wilcity_kc_hero.php:4
+msgid "Hero"
+msgstr ""
+
+#: app/SCHelpers.php:1464
+msgid "Hosted By"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wiloke.com"
+msgstr ""
+
+#: default-sc/wilcity-my-bank-account.php:39
+msgid "IBAN"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-business-info.php:155
+msgid "Inbox"
+msgstr ""
+
+#: core/wilcity_post_slider_item.php:19 app/SCHelpers.php:1438
+msgid "Interested"
+msgstr ""
+
+#: default-sc/wilcity-group-properties.php:143
+msgid ""
+"Invalid group fields format, please re-check your settings and correct it"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-claim.php:24
+msgid "Is this your business?"
+msgstr ""
+
+#: configs/sc/wilcity_kc_pricing.php:12
+msgid "Items / Row"
+msgstr ""
+
+#: core/wilcity_render_term_masonry_items.php:30
+#: core/wilcity_render_term_boxes.php:38
+#: core/wilcity_render_modern_term_boxes.php:27
+#: core/wilcity_render_rectangle_term_boxes.php:27
+msgid "Listing"
+msgstr ""
+
+#: core/wilcity_render_term_masonry_items.php:29
+#: core/wilcity_render_term_boxes.php:37
+#: core/wilcity_render_modern_term_boxes.php:26
+#: core/wilcity_render_rectangle_term_boxes.php:26
+msgid "Listings"
+msgstr ""
+
+#: default-sc/wilcity-custom-login.php:196
+#: default-sc/wilcity-custom-login.php:274
+msgid "Login"
+msgstr ""
+
+#: default-sc/wilcity-custom-login.php:268
+msgid "Login with username and password?"
+msgstr ""
+
+#: default-sc/wilcity-custom-login.php:192
+msgid "Lost password"
+msgstr ""
+
+#: app/SCHelpers.php:1005
+msgid "Mail us"
+msgstr ""
+
+#: configs/sc/wilcity_kc_modern_term_boxes.php:4
+msgid "Modern Term Boxes"
+msgstr ""
+
+#: config.php:283
+msgid "Monday"
+msgstr ""
+
+#: configs/orderby.php:8
+msgid "Near By Me"
+msgstr ""
+
+#: configs/orderby.php:17
+msgid "Newest"
+msgstr ""
+
+#: core/wilcity_widget_list_style.php:28 app/SCHelpers.php:330
+msgid "No Comment"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-business-hours.php:49
+msgid "Open 24/7"
+msgstr ""
+
+#: configs/orderby.php:9
+msgid "Open now"
+msgstr ""
+
+#: default-sc/wilcity-gallery.php:34
+msgid "Photo"
+msgstr ""
+
+#: default-sc/wilcity-gallery.php:34
+msgid "Photos"
+msgstr ""
+
+#: core/wilcity_render_contact_us.php:75
+msgid "Please select the contact form."
+msgstr ""
+
+#: default-sc/wilcity-sidebar-coupon.php:73
+msgid "Please use this coupon code"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-coupon.php:132
+#, php-format
+msgid "Please use this coupon code %s"
+msgstr ""
+
+#: configs/orderby.php:7
+msgid "Popular Rated"
+msgstr ""
+
+#: configs/orderby.php:16
+msgid "Popular Shared"
+msgstr ""
+
+#: configs/orderby.php:6
+msgid "Popular Viewed"
+msgstr ""
+
+#: default-sc/wilcity-sharing-posts.php:135
+msgid "Press Ctrl+C to copy this link"
+msgstr ""
+
+#: configs/sc/wilcity_kc_pricing.php:4
+msgid "Pricing Table"
+msgstr ""
+
+#: configs/orderby.php:15
+msgid "Random"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-statistics.php:48
+msgid "Rating"
+msgstr ""
+
+#: configs/orderby.php:4
+msgid "Recent"
+msgstr ""
+
+#: configs/orderby.php:10 configs/orderby.php:11 configs/orderby.php:14
+msgid "Recommended"
+msgstr ""
+
+#: default-sc/wilcity-custom-login.php:247
+#: default-sc/wilcity-custom-login.php:263
+#: default-sc/wilcity-custom-login.php:276
+msgid "Register"
+msgstr ""
+
+#: default-sc/wilcity-pricing.php:142
+msgid "Remaining Items: "
+msgstr ""
+
+#: default-sc/wilcity-custom-login.php:187
+msgid "Remember Me"
+msgstr ""
+
+#: config.php:288
+msgid "Saturday"
+msgstr ""
+
+#: app/SCHelpers.php:976 app/SCHelpers.php:1044
+msgid "Save to my favorites"
+msgstr ""
+
+#: configs/sc/wilcity_kc_search_form.php:7
+msgid "Search Form"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-statistics.php:64
+msgid "Share"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-coupon.php:125
+msgid "Share on Facebook"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-coupon.php:129
+msgid "Share on Twitter"
+msgstr ""
+
+#: default-sc/wilcity-my-bank-account.php:38
+msgid "Short Code"
+msgstr ""
+
+#: core/wilcity_render_team_intro_slider.php:28
+#, php-format
+msgid "Sorry, We found no members who have %s role."
+msgstr ""
+
+#: config.php:289
+msgid "Sunday"
+msgstr ""
+
+#: configs/sc/wilcity_kc_term_boxes.php:4
+msgid "Term Boxes"
+msgstr ""
+
+#: config.php:286
+msgid "Thursday"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-business-hours.php:86
+#: default-sc/wilcity-sidebar-business-hours.php:101
+msgid "Today"
+msgstr ""
+
+#: config.php:284
+msgid "Tuesday"
+msgstr ""
+
+#: default-sc/wilcity-pricing.php:144
+msgid "Unlimited"
+msgstr ""
+
+#: default-sc/wilcity-custom-login.php:124
+msgid "Username or Email Address"
+msgstr ""
+
+#: default-sc/wilcity-custom-login.php:42
+msgid "Validate OTP"
+msgstr ""
+
+#: app/SCHelpers.php:847 configs/orderby.php:12
+msgid "Verified"
+msgstr ""
+
+#: core/wilcity_render_listings_tabs.php:316
+#: core/wilcity_render_new_grid.php:78
+msgid "View more"
+msgstr ""
+
+#: config.php:285
+msgid "Wednesday"
+msgstr ""
+
+#. Name of the plugin
+msgid "WilCity Shortcodes"
+msgstr ""
+
+#. Author of the plugin
+msgid "wiloke"
+msgstr ""
+
+#: default-sc/wilcity-pricing.php:183
+msgid ""
+"You do not have any Add Listing Plan. From the admin sidebar, click on "
+"Listing Plans to create one"
+msgstr ""

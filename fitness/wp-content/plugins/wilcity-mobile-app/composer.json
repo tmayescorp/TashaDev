@@ -1,0 +1,22 @@
+{
+  "autoload": {
+    "psr-4": {
+      "WILCITY_APP\\": "app/"
+    }
+  },
+  "autoload-dev": {
+    "WILCITY_APP_TEST\\": "src/"
+  },
+  "require": {
+    "rbdwllr/reallysimplejwt": "^1.0",
+    "kreait/firebase-php": "^5.23.0",
+    "guzzlehttp/guzzle": "^6.5.5",
+    "alymosul/exponent-server-sdk-php": "^1.2.0",
+    "automattic/woocommerce": "^3.0",
+    "symfony/http-foundation": "^4.3",
+    "twilio/sdk": "^5.36"
+  },
+  "require-dev": {
+    "wilokecom/phpcli": "^1.10"
+  }
+}

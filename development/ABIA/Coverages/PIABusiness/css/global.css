@@ -1,0 +1,711 @@
+@import url('https://fonts.googleapis.com/css?family=Muli');
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
+.board {
+  background: url(../images/dryerase-board.png);
+  background-repeat: no-repeat;
+  padding: 62px 28px;
+  background-position: 14px 24px;
+  background-size: 98%;
+}
+.board-rw {
+  background: url(../images/ransom/ranswareboard.png);
+  background-size: 99%;
+  background-repeat: no-repeat;
+  padding: 70px 32px;
+  background-position: 4px 24px;
+  padding-bottom: 2em;
+}
+.em-dash {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif !important;
+
+}
+#RWBBR, #SSE, #BI{
+      max-width: 300px;
+    padding: 0 2em;
+}
+.computer label{
+  font-size: 17px !important;
+  padding-right: 30px;
+  padding-top: 20px;
+}
+img.33blk {
+  clear: both;
+  display: block;
+}
+#display-images {
+  height: 430px;
+}
+.img-zoom {
+  width: 80px;
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  -ms-transition: all .2s ease-in-out;
+}
+.r-bold {
+  margin: 10px 0 0;
+  font-weight: bold;
+}
+.source {
+  font-weight: bold;
+  padding-top: 10px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif !important;
+ line-height: 14px;
+  text-align: left;
+}
+.source a {
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 14px;
+   text-align: left;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif !important;
+
+}
+.show-text {
+    font-family: 'Architects Daughter', cursive;
+
+}
+.text-left {
+  text-align: left;
+}
+small {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif !important;
+  font-size: 10px;
+}
+.modal-content {
+  border-radius: 0;
+ width: 100%;
+    max-width: 850px;
+    margin: 0 auto;
+}
+button.fft-close {
+  padding: 10px 10px;
+}
+
+p.r-disclaimer {
+      text-align: left;
+    clear: both;
+    font-size: 10px;
+    padding: 14px;
+    padding-top: 0;
+    top: -29px;
+    display: block;
+    position: relative;
+}
+.more-pad {
+      top: 0px !important;
+    width: 90%;
+}
+p.b-disclaimer {
+   text-align: left;
+    clear: both;
+    font-size: 10px;
+    padding: 14px;
+    padding-top: 0;
+    top: -29px;
+    display: block;
+    position: relative;
+}
+.disclaimer {
+  text-align: left;
+  clear: both;
+  font-size: 10px;
+    padding: 14px;
+}
+.modal-header {
+  background-color: #979797;
+  background-image: -webkit-linear-gradient(#797979 -100%, #ccc -100%);
+  background-image: -o-linear-gradient(#797979 -100%, #ccc -100%);
+  background-image: linear-gradient(#ccc -100%, #ccc -100%);
+  border: 1px solid #979797;
+  min-height: 115px;
+  text-align: left;
+}
+.caps {
+  text-transform: uppercase;
+}
+.caps.bolder {
+  font-family: 'Architects Daughter', cursive;
+  text-transform: uppercase;
+  font-size: 18px !important;
+}
+.bolder {
+  font-size: 18px !important;
+}
+
+/* Fonts */
+
+@font-face {
+  font-family: 'Architects Daughter', cursive;
+  src: url('https://fonts.googleapis.com/css?family=Architects+Daughter');
+}
+@font-face {
+  font-family: 'Muli', sans-serif;
+  src: url('https://fonts.googleapis.com/css?family=Muli');
+}
+@font-face {
+  font-family: Muli, Helvetica, Arial, sans-serif;
+  src: url('https://fonts.googleapis.com/css?family=Muli');
+}
+h1.modal-title, h1, h2 {
+  font-family: 'Architects Daughter', Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  color: #000;
+}
+.fft-list, .rfft-list {
+  text-align: left;
+  margin: 0 auto;
+  width: 341px;
+  font-family: 'Architects Daughter', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  padding-left: 6.5em;
+}
+ul.rfft-list li::before {
+        color: #ce0d26;
+    content: "\2022";
+    font-size: 3em;
+    padding-right: 0;
+    position: relative;
+    top: 16px;
+    margin-left: 0;
+    right: 20px;
+    text-indent: 0;
+    display: block;
+
+}
+
+ul.rfft-list li {
+  line-height: 17px;
+  padding-bottom: 10px;
+  font-size: 17px;
+}
+.rfft-list {
+  list-style-type: none;
+    width: 100%;
+    margin-left: -2em;
+}
+.fft-list span {
+  font-size: 18px;
+}
+.modal-header p {
+  font-family: 'Architects Daughter', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  color: #4A4A4A;
+}
+.inputzone {
+  width: 40%;
+  float: left;
+}
+.outputzone {
+  width: 60%;
+  float: left;
+}
+.stacks, .rstacks {
+  margin: -10px auto;
+  max-width: 273px;
+  display: block;
+  position: relative;
+  -webkit-transition: all 200ms ease-in;
+  -ms-transition: all 200ms ease-in;
+  -moz-transition: all 200ms ease-in;
+  transition: all 200ms ease-in;
+}
+.inputzone label {
+  font-family: 'Architects Daughter', Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.2em;
+}
+.outputzone p {
+  font-family: 'Architects Daughter', Helvetica, Arial, sans-serif;
+  font-size: 17px;
+}
+.breaker {
+  border: 3px solid #4A4A4A;
+  margin: 3px;
+}
+.modal-body, .form-control {
+  cursor: pointer;
+}
+.computer {
+  height: 430px;
+    width: 350px;
+    margin: 10px auto;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.iphone-bg {
+  /* iphone: */
+  height: 340px;
+  width: 240px;
+  margin: 20px auto;
+  background: url(../images/iphonebg.png);
+  background-repeat: no-repeat;
+  padding: 93px 27px 0 29px;
+  text-align: center;
+}
+.padding-spacer {
+  padding-top: 20px;
+}
+.FFT-Chart {
+  background: url(../images/chart-bg.png);
+  height: 200px;
+  background-repeat: no-repeat;
+  margin: -15px auto;
+  text-align: center;
+  width: 390px;
+}
+.FFT-Chart.fraud {
+   margin: 3px 15px;
+    text-align: center;
+  width: 370px;
+}
+.FFT-Chart.ransom {
+  margin: 3px 75px;
+  text-align: center;
+  width: 370px;
+}
+.showimage {
+ display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 330px;
+}   
+.FFT-Chart p {
+  font-family: 'Architects Daughter', Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  color: #000000;
+  line-height: 29px;
+  padding-top: 17px;
+}
+.FFT-Chart .fft-text, .FFT-Chart .rfft-text, .fraud-text{
+  font-family: 'Architects Daughter', Helvetica, Arial, sans-serif;
+  font-size: 29px;
+  color: #D0011B;
+  line-height: 5px;
+}
+#se-display-images {
+      padding-top: 28px;
+}
+#se-display-images .showimage {
+  max-height: 249px;
+}
+#se-display-images p {
+  font-size: 19px;
+}
+#RWBBR img:first-child, #SSE img:first-child, #BI img:first-child{
+  display: block;
+    margin: 0 auto;
+}
+#RWBBR img, #SSE img, #BI img{
+  padding: 2px;
+}
+#SSE img, #BI img {
+  max-width: 110px;
+}
+select#BBR, select#RWBBR, select#FraudBBR {
+  box-shadow: inset 0 1px 3px 0 rgba(0, 0, 0, 0.50);
+  border: 1px solid #979797;
+  /*-webkit-appearance: button;*/
+  -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+  -webkit-padding-end: 20px;
+  -webkit-padding-start: 2px;
+  -webkit-user-select: none;
+  -webkit-appearance: menulist;
+  background-image: url('../images/selectarrow.png'), -webkit-linear-gradient(#FAFAFA, #F4F4F4 40%, #E5E5E5);
+  background-position: 99% center;
+  background-repeat: no-repeat;
+  color: #000;
+  align-items: center;
+  overflow: hidden;
+  padding: 5px 10px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -moz-linear-gradient(#FAFAFA, #F4F4F4 40%, #E5E5E5);
+  -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+  -moz-padding-end: 20px;
+  -moz-padding-start: 2px;
+  -moz-user-select: none;
+}
+select#BBR, select#FraudBBR {
+  font-size: 13.5px !important;
+}
+select:-moz-focusring {
+  color: transparent;
+  text-shadow: 0 0 0 #000;
+}
+#FFTLoss, #rFFTLoss, #FraudLoss{
+  background: #FBEBE9;
+  color: #D0011B;
+  border: 1px solid #979797;
+  box-shadow: inset 0 1px 3px 0 rgba(0, 0, 0, 0.50);
+  border-radius: 5px;
+  text-align: right;
+  padding: 5px 13px 0px;
+}
+.modal .form-control {
+  font-family: Muli, Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  height: 35px;
+}
+
+@media only screen and (min-width: 1500px) {
+  .board-rw {
+  padding-bottom: 12em;
+}
+}
+
+@media only screen and (min-device-width: 301px) and (max-device-width: 736px) {
+  .board {
+    background-position: 9px 33px;
+    background-size: 99%;
+  }
+   .computer label {
+    padding-right: 60px;
+  }
+
+}
+/*ipad */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  { 
+
+
+}
+
+
+/* iphone */
+
+@media screen and (device-width: 300px) and (-webkit-device-pixel-ratio: 2) {
+  .computer label {
+    padding-right: 60px;
+  }
+  .inputzone, .outputzone {
+    width: 100%;
+    float: none;
+  }
+  .outputzone {
+    width: 50%;
+    margin-left: 40px;
+  }
+  .fft-list, .rfft-list {
+    width: 100%;
+    margin-left: 1em;
+  }
+  .stacks {
+    margin: -7px 43px;
+    max-width: 256px;
+  }
+  .hide-mobile-sm {
+    display: none;
+  }
+  .hide-on-ipad {
+    display: none;
+  }
+  .show-mobile-sm {
+    display: block;
+  }
+  .show-on-ipad {
+    display: block;
+  }
+  .show-mobile-sm p {
+    font-family: 'Architects Daughter', Helvetica, Arial, sans-serif;
+    font-size: 18px;
+  }
+  .inputzone, .outputzone {
+    float: none;
+    width: 100%;
+  }
+  .rfft-list {
+    margin-left: 0;
+    max-width: 370px;
+  }
+  .FFT-Chart {
+    width: 100%;
+    max-width: 340px !important;
+    margin-left: -10px;
+  }
+  .iphone-bg {
+    width: 250px;
+    margin: 0px auto;
+  }
+  .FFT-Chart {
+    max-width: 386px;
+  }
+  .FFT-Chart p {
+    font-size: 13px !important;
+    margin-left: 3.5em;
+  }
+  #RWBBR {
+    max-width: 300px;
+  }
+    .showimage {
+      max-width: 300px;
+    }
+}
+@media (min-width: 768px) {
+  .modal-dialog {
+    width: 820px;
+    margin: 30px auto;
+  }
+  .show-mobile {
+    display: none;
+  }
+  .show-desktop {
+    display: block;
+  }
+  .show-on-ipad {
+    display: block;
+  }
+  .show-mobile-sm {
+    display: none;
+  }
+}
+@media (max-width: 767px) {
+    .modal-content {
+    width: 100%;
+  }
+  .board {
+    background: url(../images/dryerasemobile.png);
+    background-repeat: no-repeat;
+    background-position: 11px 26px;
+    background-size: 98%;
+  }
+  .show-desktop {
+    display: none;
+  }
+  .hide-mobile-sm {
+    display: block;
+  }
+  .show-mobile-sm {
+    display: none;
+  }
+  .computer {
+    width: 400px;
+  }
+}
+@media (max-width: 667px) {
+  .modal-content {
+    width: 100%;
+  }
+    .rfft-list {
+      margin-left: 0 !important;
+    }
+  .computer label {
+    font-size: 17px !important;
+    padding-right: 60px;
+    padding-top: 20px;
+  }
+  #circlescta {
+    margin: 0 auto;
+    width: 100%;
+  }
+    .showimage {
+      max-width: 270px;
+    }
+  .fft-list {
+    margin: -1px -30px auto;
+    max-width: 390px;
+  }
+  .rfft-list {
+   max-width: 600px;
+    margin: 0 auto;
+    padding-left: 20px;
+  }
+  .board {
+    background: transparent;
+    padding: 40px 0;
+  }
+  .inputzone {
+    width: 40%;
+  }
+  .outputzone {
+    width: 60%;
+  }
+  .iphone-bg {
+    background-size: 90%;
+    padding: 83px 46px 0 25px;
+  }
+  .inputzone label {
+    font-family: 'Architects Daughter', Helvetica, Arial, sans-serif;
+    font-size: 12.5px;
+  }
+  .modal .form-control {
+    font-size: 17px;
+  }
+  .outputzone p {
+    font-size: 15.5px;
+    margin-left: 30px;
+  }
+  .outputzone {
+    padding: 5px 15px;
+  }
+  .show-mobile {
+    display: block;
+  }
+  .show-desktop {
+    display: none;
+  }
+  .hide-mobile-sm {
+    display: block;
+  }
+  .show-mobile-sm {
+    display: none;
+  }
+  .show-on-ipad {
+    display: block;
+  }
+  .hide-on-ipad {
+    display: none;
+  }
+  .fft-list {
+    margin: -1px -30px auto;
+    max-width: 380px;
+  }
+  .computer {
+    max-width: 378px;
+  }
+}
+  @media (max-width: 440px) {
+      .modal-content {
+    width: 100%;
+  }
+      #circlescta {
+    margin: 0 auto;
+    width: 100%;
+  }
+    .fft-list {
+      width: 100%;
+      margin-left: 1em;
+    }
+    .stacks {
+      margin: -7px 43px;
+      max-width: 256px;
+    }
+    .hide-mobile-sm {
+      display: none;
+    }
+    .show-mobile-sm {
+      display: block;
+    }
+    .show-mobile-sm p {
+      font-family: 'Architects Daughter', Helvetica, Arial, sans-serif;
+      font-size: 18px;
+    }
+    .inputzone, .outputzone {
+      float: none;
+      width: 100%;
+    }
+    .FFT-Chart {
+      width: 100%;
+      max-width: 340px !important;
+      margin-left: -10px;
+    }
+    .iphone-bg {
+      width: 250px;
+      margin: 0px auto;
+    }
+    .FFT-Chart {
+      max-width: 386px;
+    }
+    .FFT-Chart p {
+      font-size: 13px !important;
+      margin-left: 3.5em;
+    }
+     #RWBBR {
+    max-width: 300px;
+  }
+  }
+  @media (max-width:330px) {
+      .modal-content {
+    width: 100%;
+  }
+     .computer label {
+    padding-right: 60px;
+  }
+      #circlescta {
+    margin: 0 auto;
+    width: 100%;
+  }
+    .stacks {
+      margin: -1px 45px;
+      max-width: 250px;
+    }
+    .fft-list{
+      max-width: 280px;
+      margin-left: -3em;
+    }
+    .rfft-list {
+      max-width: 280px;
+      margin-left: 0 !important;
+    }
+    .caps {
+      line-height: 5px;
+    }
+    .FFT-Chart .fft-text {
+      line-height: 5px;
+    }
+     #RWBBR {
+    max-width: 300px;
+  }
+  .showimage {
+      max-width: 270px;
+    }
+  }
+  @-moz-document url-prefix() {
+    .padding-spacer {
+      padding-top: 5px;
+    }
+    .inputzone label {
+      font-size: 14px;
+    }
+    .FFT-Chart p {
+      font-size: 17px;
+    }
+  }
+  @media (max-width: 730px) {
+    .show-on-ipad {
+      display: block;
+    }
+    .hide-on-ipad {
+      display: none;
+    }
+  }
+
+  /* Landscape */
+  @media only screen and (min-device-width: 320px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+    .modal-content {
+      max-width: 100%;
+       width: 100%;
+    }
+      .rfft-list {
+      margin-left: 0 !important;
+    }
+    .computer label {
+    font-size: 17px !important;
+    padding-right: 30px;
+    padding-top: 20px;
+  }
+
+      #circlescta {
+    margin: 0 auto;
+    width: 100%;
+  }
+    .outputzone {
+          width: 56%;
+    margin-left: 0;
+    }
+    .hide-mobile-sm {
+    display: block;
+}
+    p.show-text {
+      padding-left: 30px;
+    } 
+     #RWBBR {
+    max-width: 300px;
+  }
+    .showimage {
+      max-width: 270px;
+    }
+  }

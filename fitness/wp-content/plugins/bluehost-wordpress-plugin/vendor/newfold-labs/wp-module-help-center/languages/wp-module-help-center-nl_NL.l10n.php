@@ -1,0 +1,28 @@
+<?php
+return [
+	'domain' => 'wp-module-help-center',
+	'plural-forms' => 'nplurals=2; plural=(n != 1);',
+	'language' => 'nl_NL',
+	'project-id-version' => 'newfold-labswp-module-staging',
+	'pot-creation-date' => '2025-02-13T09:55:55+00:00',
+	'po-revision-date' => '2026-04-29T15:29:36+00:00',
+	'x-generator' => 'WP-CLI 2.11.0',
+	'messages' => [
+		'We could not find the brand' => 'We konden het merk niet vinden',
+		'You must be authenticated to make this call' => 'U moet geverifieerd zijn om deze oproep te kunnen doen',
+		'Bluehost' => 'Bluehost',
+		'Your dream site is just a click away.' => 'Uw droomsite is slechts een klik verwijderd.',
+		'Let\'s build a site you love, together.' => 'Laten we samen een site bouwen waar u van houdt.',
+		'With Pro Design Live, our expert team bring your vision to life. We help you to create the site you\'ve always dreamed of — tailored to your goals, ready to perform.' => 'Met Pro Design Live brengt ons deskundige team jouw visie tot leven. Wij helpen je om de site te creëren waar je altijd van hebt gedroomd — afgestemd op jouw doelen, klaar om te presteren.',
+		'Start Now' => 'Begin nu',
+		'HostGator' => 'HostGator',
+		'NFD helpcenter data' => 'Gegevens van het NFD-helpcentrum',
+		'Help' => 'Hulp',
+		'If you need help with your %1$s account, give us a call at %2$s or %3$s with one of our support agents — we\'re here for you!' => 'Als je hulp nodig hebt met je %1$s-account, bel ons dan op $2$s of %3$s met een van onze supportmedewerkers — wij staan voor je klaar!',
+		'If you need help with your %1$s account, %2$s with one of our support agents — we\'re here for you!' => 'Als je hulp nodig hebt met je $1 s-account, 2 $2 euro bij een van onze supportmedewerkers — wij staan voor je klaar!',
+		'Call at %1$s or %2$s with one of our support agents — we will assist you as soon as possible.' => 'Bel op 1 dollar of 2 dollar met een van onze supportmedewerkers — wij helpen u zo snel mogelijk.',
+		'Or %1$s with one of our support agents — we will assist you as soon as possible.' => 'Of 1 % met een van onze supportmedewerkers — wij helpen u zo snel mogelijk.',
+		'The request failed' => 'Het verzoek is mislukt',
+		'No data found' => 'Geen gegevens gevonden',
+	],
+];

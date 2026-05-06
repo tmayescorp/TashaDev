@@ -1,0 +1,28 @@
+<?php
+return [
+	'domain' => 'wp-module-help-center',
+	'plural-forms' => 'nplurals=2; plural=(n != 1);',
+	'language' => 'es_MX',
+	'project-id-version' => '',
+	'pot-creation-date' => '2025-02-13T09:55:55+00:00',
+	'po-revision-date' => '2026-04-29T15:29:36+00:00',
+	'x-generator' => 'WP-CLI 2.11.0',
+	'messages' => [
+		'We could not find the brand' => 'No pudimos encontrar la marca',
+		'You must be authenticated to make this call' => 'Debes estar autenticado para realizar esta acción',
+		'Bluehost' => 'Presentador azul',
+		'Your dream site is just a click away.' => 'El sitio de sus sueños está a solo un clic de distancia.',
+		'Let\'s build a site you love, together.' => 'Construyamos juntos un sitio que te guste.',
+		'With Pro Design Live, our expert team bring your vision to life. We help you to create the site you\'ve always dreamed of — tailored to your goals, ready to perform.' => 'Con Pro Design Live, nuestro equipo de expertos hace realidad tu visión. Te ayudamos a crear el sitio con el que siempre has soñado: adaptado a tus objetivos, listo para funcionar.',
+		'Start Now' => 'Empezar ahora',
+		'HostGator' => 'HostGator',
+		'NFD helpcenter data' => 'Datos del centro de ayuda de NFD',
+		'Help' => 'Ayuda',
+		'If you need help with your %1$s account, give us a call at %2$s or %3$s with one of our support agents — we\'re here for you!' => 'Si necesitas ayuda con tu cuenta %1$s, llámanos a %2$s o %3$s con uno de nuestros agentes de soporte — ¡estamos aquí para ti!',
+		'If you need help with your %1$s account, %2$s with one of our support agents — we\'re here for you!' => 'Si necesitas ayuda con tu cuenta %1$, %2$s con uno de nuestros agentes de soporte — ¡estamos aquí para ti!',
+		'Call at %1$s or %2$s with one of our support agents — we will assist you as soon as possible.' => 'Llama a %1$s o %2$s con uno de nuestros agentes de soporte — te ayudaremos lo antes posible.',
+		'Or %1$s with one of our support agents — we will assist you as soon as possible.' => 'O contacta con uno de nuestros agentes de soporte — te ayudaremos lo antes posible.',
+		'The request failed' => 'La solicitud falló',
+		'No data found' => 'No se encontraron datos',
+	],
+];

@@ -1,0 +1,3920 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wiloke Listing Tools\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 14:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.1.1\n"
+"X-Domain: wiloke-listing-tools"
+
+#: app/Controllers/EmailController.php:1009
+#, php-format
+msgid " You receive a message from %s"
+msgstr ""
+
+#: app/Controllers/MergingSettingValues.php:704
+msgid "$ 59.99 - $ 79.99"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:209
+#, php-format
+msgid "%d days"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:223
+#, php-format
+msgid "%d Listing(s)"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:226
+#, php-format
+msgid "%d remaining item(s)"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:210
+#, php-format
+msgid "%d trial days"
+msgstr ""
+
+#: app/Controllers/ReviewController.php:283
+#, php-format
+msgid "%s (pending)"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1266
+#, php-format
+msgid ""
+"%s asked for claiming %s on your site %s.<a href=\"%s\">View Claim Detail</a>"
+msgstr ""
+
+#: app/Controllers/EmailController.php:910
+#, php-format
+msgid ""
+"%s canceled automatic payments to you. This means we'll no longer "
+"automatically draw money from their account to pay you. If you have any "
+"questions, you may ask the customer directly about this cancellation. "
+"Payment ID: %d, Gateway: %s"
+msgstr ""
+
+#: app/Controllers/EmailController.php:931
+#, php-format
+msgid ""
+"%s customer purchased %s plan, but there was a dispute in that payment "
+"session. To check the detail information, please go to Wiloke Submission -> "
+"Sales / Subscriptions -> Check for this payment ID: %d"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1158
+#, php-format
+msgid "%s has been published on your site %s"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1164
+#, php-format
+msgid ""
+"%s has been published on your site at %s. <a href=\"%s\">Click here</a> to "
+"check the listing"
+msgstr ""
+
+#: app/Controllers/EmailController.php:2100
+#, php-format
+msgid "%s has left a Review"
+msgstr ""
+
+#: app/Controllers/MessageController.php:508 app/Framework/Helpers/Time.php:438
+#, php-format
+msgid "%s hour ago"
+msgid_plural "%s hours ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/Controllers/Validation.php:328
+#, php-format
+msgid "%s is not supported by this plan"
+msgstr ""
+
+#: app/Middleware/ValidationBeforeSetUserPlan.php:16
+#, php-format
+msgid "%s is require"
+msgstr ""
+
+#: app/Controllers/Validation.php:368
+#, php-format
+msgid "%s is required"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1137
+#, php-format
+msgid ""
+"%s just submitted %s to your site at %s. <a href=\"%s\">Click here</a> to "
+"review this listing"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1131
+#, php-format
+msgid "%s just submitted a Listing to your site %s"
+msgstr ""
+
+#: app/Controllers/MessageController.php:501 app/Framework/Helpers/Time.php:433
+#, php-format
+msgid "%s minute ago"
+msgid_plural "%s minutes ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/Framework/Helpers/ProductSkeleton.php:172
+#: app/Framework/Helpers/PostSkeleton.php:433
+#, php-format
+msgid "%s view"
+msgid_plural "%s views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/Controllers/EmailController.php:1305
+#, php-format
+msgid ""
+"%s wants to claim %s on your site %s.<a href=\"%s\">View Claim Detail</a>"
+msgstr ""
+
+#: app/Controllers/PaymentController.php:103
+#, php-format
+msgid "%s Warning: The %s is required"
+msgstr ""
+
+#: config/push-notifications.php:39
+msgid "%senderName%: %message%"
+msgstr ""
+
+#: config/push-notifications.php:64
+msgid "%userName% is following you now"
+msgstr ""
+
+#: config/push-notifications.php:44
+msgid "%userName% just left a comment on %postTitle%: %commentExcerpt%"
+msgstr ""
+
+#: config/push-notifications.php:57
+msgid "%userName% just left a comment on %postTitle%: %reviewExcerpt%"
+msgstr ""
+
+#: config/push-notifications.php:27
+msgid "%userName% just published a new post %postTitle%. %postExcerpt%"
+msgstr ""
+
+#: config/push-notifications.php:8
+msgid ""
+"%userName% just submitted a new listing to your site. Listing Type: "
+"%postType%, Listing Name: %postTitle%, Listing ID: %postID%, Submitted Date: "
+"%postDate%"
+msgstr ""
+
+#: config/push-notifications.php:14
+msgid ""
+"%userName% just submitted a new product to your site. Product Name: "
+"%postTitle%, Product ID: %postID%, Submitted Date: %postDate%"
+msgstr ""
+
+#: app/Controllers/PrintAddListingSettings.php:1296
+#: app/MetaBoxes/Listing.php:888
+msgid "12-Hour Format"
+msgstr ""
+
+#: app/Controllers/PrintAddListingSettings.php:1300
+#: app/MetaBoxes/Listing.php:891
+msgid "24-Hour Format"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1940
+#, php-format
+msgid "<a href=\"%s\">Click here</a> to sign in and review it"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:669
+#, php-format
+msgid "<a href=\"%s\">Got to Listing Dashboard</a>"
+msgstr ""
+
+#: app/Controllers/PostController.php:166
+#, php-format
+msgid ""
+"<div class=\"wil-listing-expired-notice\">The listing has been expired on %s."
+" Click <a style=\"color: red; font-weight: bold\" href=\"%s\">here</a> to "
+"republish the listing</div>"
+msgstr ""
+
+#: app/Controllers/RegisterLoginController.php:862
+msgid "<strong>ERROR</strong>: Enter a username or email address."
+msgstr ""
+
+#: app/Controllers/RegisterLoginController.php:890
+msgid "<strong>ERROR</strong>: Invalid username or email."
+msgstr ""
+
+#: app/Controllers/RegisterLoginController.php:867
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#. Password reset email subject. 1: Site name
+#. Password reset email subject. %s: Site name
+#: app/Controllers/RegisterLoginController.php:540
+#: app/Controllers/RegisterLoginController.php:957
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: app/Middleware/IsSetupThankyouCancelUrl.php:24
+msgid "A cancel page is required: Wiloke Submission -> Thank you"
+msgstr ""
+
+#: app/Controllers/MessageController.php:499
+msgid "A few seconds ago"
+msgstr ""
+
+#: app/Middleware/IsSetupThankyouCancelUrl.php:15
+msgid "A thankyou page is required: Wiloke Submission -> Thank you"
+msgstr ""
+
+#: config/subscriptions.php:7
+msgid "Active"
+msgstr ""
+
+#: app/Controllers/EventController.php:701
+#: app/Controllers/EventController.php:708
+#: app/Controllers/ListingController.php:459
+#: app/Controllers/ListingController.php:484
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: config/listing-settings.php:961
+msgid "Add a Button"
+msgstr ""
+
+#: app/MetaBoxes/CustomFieldsForPostType.php:356
+msgid "Add Another Entry"
+msgstr ""
+
+#: config/discount.php:48
+msgid "Add Event Plan Only"
+msgstr ""
+
+#: config/listingplan.php:22
+msgid "Add Listing / Event"
+msgstr ""
+
+#: config/discount.php:47
+msgid "Add Listing Plan Only"
+msgstr ""
+
+#: config/posttypes.php:10 config/posttypes.php:85 config/posttypes.php:117
+msgid "Add New"
+msgstr ""
+
+#: config/posttypes.php:86
+msgid "Add New Claim"
+msgstr ""
+
+#: config/listing-settings.php:170
+msgid "Add new Item"
+msgstr ""
+
+#: config/posttypes.php:11
+msgid "Add New Listing"
+msgstr ""
+
+#: config/posttypes.php:351
+msgid "Add New Listing Category"
+msgstr ""
+
+#: config/posttypes.php:327
+msgid "Add New Listing Location"
+msgstr ""
+
+#: config/posttypes.php:375
+msgid "Add New Listing Tag"
+msgstr ""
+
+#: config/listing-settings.php:114
+msgid "Add New Menu"
+msgstr ""
+
+#: config/posttypes.php:118
+msgid "Add New Plan"
+msgstr ""
+
+#: app/Controllers/WooCommerceController.php:288
+#: app/Controllers/WooCommerceController.php:335
+#, php-format
+msgid "Added %s to cart"
+msgstr ""
+
+#: app/Controllers/UserController.php:254
+#: app/Controllers/ProfileController.php:284
+#: app/Framework/Helpers/VendorSkeleton.php:357
+msgid "Address"
+msgstr ""
+
+#: config/posttypes.php:83
+msgctxt "admin bar"
+msgid "Claim Listing"
+msgstr ""
+
+#: config/posttypes.php:115
+msgctxt "admin bar"
+msgid "Listing Plans"
+msgstr ""
+
+#: config/posttypes.php:8
+msgctxt "admin bar"
+msgid "Listings"
+msgstr ""
+
+#: config/posttypes.php:81 config/posttypes.php:82
+msgctxt "admin menu"
+msgid "Claim Listing"
+msgstr ""
+
+#: config/posttypes.php:7
+msgctxt "admin menu"
+msgid "Listing"
+msgstr ""
+
+#: config/posttypes.php:114
+msgctxt "admin menu"
+msgid "Listing Plan"
+msgstr ""
+
+#: config/posttypes.php:113
+msgctxt "admin menu"
+msgid "Listing Plans"
+msgstr ""
+
+#: config/posttypes.php:6
+msgctxt "admin menu"
+msgid "Listings"
+msgstr ""
+
+#: config/subscriptions.php:4 config/sales.php:4 config/payment.php:42
+#: config/invoices.php:4
+msgid "All"
+msgstr ""
+
+#: config/posttypes.php:90
+msgid "All Claims"
+msgstr ""
+
+#: config/posttypes.php:346
+msgid "All Listing Categories"
+msgstr ""
+
+#: config/posttypes.php:322
+msgid "All Listing Locations"
+msgstr ""
+
+#: config/posttypes.php:370
+msgid "All Listing Tags"
+msgstr ""
+
+#: config/posttypes.php:15
+msgid "All Listings"
+msgstr ""
+
+#: config/payment.php:49 config/posttypes.php:122
+msgid "All Plans"
+msgstr ""
+
+#: app/MetaBoxes/Listing.php:865
+msgid "Always Open"
+msgstr ""
+
+#: config/listing-settings.php:6 app/Controllers/DashboardController.php:151
+#: app/Framework/Helpers/General.php:834
+msgid "Any"
+msgstr ""
+
+#: app/Register/views/sales/form-filters.php:66
+#: app/Register/views/invoices/form-filters.php:64
+#: app/Register/views/subscriptions/form-filters.php:66
+msgid "Apply"
+msgstr ""
+
+#: config/listing-settings.php:174
+msgid "Are you sure you want to remove?"
+msgstr ""
+
+#: config/listing-settings.php:22
+#: app/Framework/Helpers/SearchFieldSkeleton.php:177
+msgid "ASC"
+msgstr ""
+
+#: app/Register/RegisterMenu/RegisterAddNewPayment.php:260
+msgid ""
+"Assign an order id to this payment. Note that you should use this feature if "
+"the gateway is woocommerce. Search by Order ID"
+msgstr ""
+
+#: config/claim-settings.php:81
+msgid "Attribute this listing to"
+msgstr ""
+
+#: config/single-sidebar.php:114 config/listing-settings.php:882
+msgid "Author"
+msgstr ""
+
+#: config/push-notifications.php:24
+msgid "Author Posted New Listing Notifications"
+msgstr ""
+
+#: config/push-notifications.php:5
+msgid "Author submitted a new listing Notifications"
+msgstr ""
+
+#: config/push-notifications.php:11
+msgid "Author submitted a new product Notifications"
+msgstr ""
+
+#: app/Controllers/UserController.php:192
+#: app/Controllers/UserController.php:196
+#: app/Controllers/ProfileController.php:238
+#: app/Controllers/ProfileController.php:240
+msgid "Avatar"
+msgstr ""
+
+#: config/reviews.php:28 config/reviews.php:35
+msgid "Average"
+msgstr ""
+
+#: app/Controllers/ReviewController.php:591
+msgid "Average Rating Statistic"
+msgstr ""
+
+#: app/Controllers/EmailController.php:555
+#: app/Controllers/EmailController.php:1407
+msgid "Bank Account Name"
+msgstr ""
+
+#: app/Controllers/EmailController.php:556
+#: app/Controllers/EmailController.php:1408
+msgid "Bank Account Number"
+msgstr ""
+
+#: app/Controllers/EmailController.php:557
+#: app/Controllers/EmailController.php:1409
+msgid "Bank Name"
+msgstr ""
+
+#: config/payment.php:45 app/Controllers/EmailController.php:1673
+#: app/Controllers/EmailController.php:1734
+#: app/Framework/Helpers/GetWilokeSubmission.php:147
+msgid "Bank Transfer"
+msgstr ""
+
+#: app/Controllers/ReviewController.php:236
+#: app/Controllers/ReviewController.php:294
+#: app/Controllers/ReviewController.php:305
+msgid "Be first to leave a review"
+msgstr ""
+
+#: config/listingcategory.php:29 config/listingtag.php:53
+msgid "Belongs To"
+msgstr ""
+
+#: config/listinglocation.php:88
+msgid "Belongs To Listing"
+msgstr ""
+
+#: config/listing-settings.php:32
+msgid "Best Rated"
+msgstr ""
+
+#: config/listing-settings.php:36
+msgid "Best Sales"
+msgstr ""
+
+#: config/listing-settings.php:33
+msgid "Best Viewed"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1664
+msgid "Billing Type"
+msgstr ""
+
+#: config/dashboard.php:37
+msgid "Billings"
+msgstr ""
+
+#: app/MetaBoxes/Listing.php:868
+msgid "Business closures"
+msgstr ""
+
+#: config/single-sidebar.php:41 config/listing-settings.php:819
+#: app/MetaBoxes/Listing.php:905
+msgid "Business Hours"
+msgstr ""
+
+#: config/single-sidebar.php:62 config/listing-settings.php:837
+#: config/listing-settings.php:947
+msgid "Business Info"
+msgstr ""
+
+#: config/listing-settings.php:968
+msgid "Button Name"
+msgstr ""
+
+#: app/Controllers/EventController.php:1334
+#: app/Controllers/EventController.php:1358
+msgid "Calendar"
+msgstr ""
+
+#: app/Framework/Helpers/VendorSkeleton.php:351
+msgid "Call us"
+msgstr ""
+
+#: config/subscriptions.php:6 config/sales.php:9
+msgid "Cancel"
+msgstr ""
+
+#: app/Register/RegisterSaleDetailSubMenu.php:275
+msgid "Cancel Subscription"
+msgstr ""
+
+#: app/Framework/Payment/PayPal/PayPalCancelRecurringPayment.php:37
+msgid "Cancel the agreement"
+msgstr ""
+
+#: config/single-sidebar.php:76 config/listing-settings.php:849
+msgid "Categories"
+msgstr ""
+
+#: config/listingplan.php:18
+msgid "Category"
+msgstr ""
+
+#: app/Register/RegisterSaleDetailSubMenu.php:235
+#: app/Register/RegisterSaleDetailSubMenu.php:251
+msgid "Change Sale / Subscription Status"
+msgstr ""
+
+#: config/addlisting.php:90 config/general.php:16
+msgid "Cheap"
+msgstr ""
+
+#: config/push-notifications.php:67
+msgid "Claim Approved Notifications"
+msgstr ""
+
+#: config/single-sidebar.php:121 config/listing-settings.php:888
+msgid "Claim Listing"
+msgstr ""
+
+#: config/claim-settings.php:5
+msgid "Claim Status"
+msgstr ""
+
+#: app/Controllers/ListingController.php:335
+msgid "Claimed"
+msgstr ""
+
+#: app/Controllers/ClaimController.php:64
+msgid "Claimed Listing"
+msgstr ""
+
+#: config/claim-settings.php:25
+msgid "Claimer"
+msgstr ""
+
+#: app/MetaBoxes/ClaimListing.php:130
+msgid "Claimer Info"
+msgstr ""
+
+#: config/posttypes.php:84
+msgid "Claims"
+msgstr ""
+
+#: app/Framework/Routing/Controller.php:272
+#: app/Framework/Routing/Controller.php:283
+#: app/Framework/Routing/Controller.php:290
+#, php-format
+msgid "Class %s does not exists"
+msgstr ""
+
+#: config/listing-settings.php:977
+msgid "Click and drag a sidebar item to rearrange the order"
+msgstr ""
+
+#: config/listing-settings.php:972
+msgid "Click and drag a tab name to rearrange the order of the navigation."
+msgstr ""
+
+#: app/Frontend/BusinessHours.php:244
+msgid "Closed"
+msgstr ""
+
+#: app/Frontend/BusinessHours.php:267
+msgid "Closures"
+msgstr ""
+
+#: app/Controllers/UserController.php:185
+msgid "Company Name"
+msgstr ""
+
+#: app/Controllers/FavoriteStatisticController.php:210
+#: app/Controllers/ReviewController.php:590
+#: app/Controllers/SharesStatisticController.php:93
+#: app/Controllers/ViewStatisticController.php:109
+msgid "Compare with the last week"
+msgstr ""
+
+#: app/Controllers/FavoriteStatisticController.php:182
+#: app/Controllers/SharesStatisticController.php:59
+msgid "Compared to the last week"
+msgstr ""
+
+#: app/Controllers/ViewStatisticController.php:69
+msgid "Compared with the last week"
+msgstr ""
+
+#: app/Controllers/UserController.php:320
+msgid "Confirm New Password"
+msgstr ""
+
+#: app/Controllers/EventController.php:1058
+msgid "Congrats! The event has been updated successfully"
+msgstr ""
+
+#: app/Controllers/PostController.php:793
+msgid "Congrats! The listing has been deleted successfully"
+msgstr ""
+
+#: app/Controllers/PostController.php:827
+msgid "Congrats! The listing has been hidden successfully"
+msgstr ""
+
+#: app/Controllers/PostController.php:810
+msgid "Congrats! The listing has been re-published successfully"
+msgstr ""
+
+#: app/Controllers/ReviewController.php:737
+msgid "Congrats, your comment has been posted successfully"
+msgstr ""
+
+#: app/Controllers/ReviewController.php:1637
+msgid "Congrats, Your review has been published"
+msgstr ""
+
+#: app/Controllers/ReviewController.php:1635
+msgid "Congrats, Your review has been updated"
+msgstr ""
+
+#: app/Controllers/FacebookLoginController.php:399
+msgid "Congratulation! Your account has been created successfully"
+msgstr ""
+
+#: config/push-notifications.php:70
+msgid "Congratulations! %postTitle% claim has been approved"
+msgstr ""
+
+#: config/push-notifications.php:76
+msgid "Congratulations! %postTitle% is ready for selling"
+msgstr ""
+
+#: app/Controllers/RegisterLoginController.php:851
+msgid ""
+"Congratulations! The new password has been updated successfully. Please "
+"click on Login button to Log into the website"
+msgstr ""
+
+#: app/Controllers/ReviewController.php:399
+msgid "Congratulations! The review has been deleted."
+msgstr ""
+
+#: app/Register/RegisterController.php:11
+#: app/Register/RegisterEventSettings.php:39
+#: app/Register/RegisterMenu/RegisterEventScripts.php:39
+#: app/Register/RegisterMenu/RegisterListingScripts.php:165
+msgid "Congratulations! The settings have been updated successfully"
+msgstr ""
+
+#: app/Register/RegisterClaimSubMenu.php:104
+#: app/Register/RegisterMenu/RegisterListingScripts.php:208
+msgid "Congratulations! This setting has been changed successfully."
+msgstr ""
+
+#: config/push-notifications.php:88
+msgid "Congratulations! You made a sale from %postTitle%. Order ID: %orderID%"
+msgstr ""
+
+#: app/Models/UserModel.php:172
+msgid "Congratulations! Your account has been created successfully."
+msgstr ""
+
+#: app/Controllers/ClaimController.php:494
+msgid "Congratulations! Your claim has been approved."
+msgstr ""
+
+#: app/Controllers/FreePlanController.php:33
+msgid "Congratulations! Your plan has been updated successfully."
+msgstr ""
+
+#: app/Controllers/UserController.php:750
+#: app/Controllers/ProfileController.php:199
+msgid "Congratulations! Your profile have been updated"
+msgstr ""
+
+#: app/Controllers/ListingController.php:140
+#: app/Controllers/AddMorePhotosVideosController.php:116
+msgid "Congratulations! Your update has been successfully"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:466
+msgid "Congratulations, Your listings have been changed to new plan!"
+msgstr ""
+
+#: app/Register/RegisterMenu/RegisterAddNewPayment.php:157
+msgid "Continue"
+msgstr ""
+
+#: app/Framework/Payment/Stripe/StripeSuspendPlan.php:55
+msgid "Could not create free forever coupon"
+msgstr ""
+
+#: app/Framework/Payment/WooCommerce/WooCommerceNonRecurringPaymentMethod.php:49
+#: app/Framework/Payment/WooCommerce/WooCommerceRecurringPaymentMethod.php:49
+#: app/Framework/Payment/WooCommerce/WooCommerceRecurringPayment.php:52
+#: app/Framework/Payment/PayPal/PayPalNonRecurringPaymentMethod.php:163
+#: app/Framework/Payment/PayPal/PayPalRecurringPaymentMethod.php:253
+msgid "Could not insert Payment History"
+msgstr ""
+
+#: app/Controllers/UserController.php:205
+#: app/Controllers/UserController.php:211
+#: app/Controllers/ProfileController.php:246
+#: app/Controllers/ProfileController.php:248
+msgid "Cover Image"
+msgstr ""
+
+#: app/Register/RegisterSaleDetailSubMenu.php:228
+msgid "Create new Invoice"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1667
+#: app/Controllers/EmailController.php:1727
+msgid "Created At"
+msgstr ""
+
+#: app/Controllers/UserController.php:304
+msgid "Current Password"
+msgstr ""
+
+#: app/Register/views/sales/tbody.php:46
+#: app/Register/views/invoices/thead.php:7
+#: app/Register/views/invoices/tbody.php:54
+#: app/Register/views/subscriptions/tbody.php:36
+msgid "Customer"
+msgstr ""
+
+#: app/Framework/Payment/WooCommerce/WooCommerceSuspend.php:78
+msgid "Customer Changed Plan"
+msgstr ""
+
+#: config/listing-settings.php:960
+msgid "Customize your page layout"
+msgstr ""
+
+#: config/event-settings.php:50 app/Controllers/EventController.php:1299
+msgid "Daily"
+msgstr ""
+
+#: config/dashboard.php:5 app/Controllers/DokanController.php:536
+msgid "Dashboard"
+msgstr ""
+
+#: app/Register/views/sales/form-filters.php:30
+#: app/Register/views/sales/tbody.php:79
+#: app/Register/views/invoices/thead.php:15
+#: app/Register/views/invoices/form-filters.php:21
+#: app/Register/views/subscriptions/form-filters.php:30
+#: app/Register/views/subscriptions/tbody.php:53
+msgid "Date"
+msgstr ""
+
+#: app/Register/views/sales/form-filters.php:44
+#: app/Register/views/invoices/form-filters.php:41
+#: app/Register/views/subscriptions/form-filters.php:44
+msgid "Date End"
+msgstr ""
+
+#: app/Register/views/sales/form-filters.php:41
+#: app/Register/views/invoices/form-filters.php:37
+#: app/Register/views/subscriptions/form-filters.php:41
+msgid "Date Start"
+msgstr ""
+
+#: config/listinglocation.php:96 config/listinglocation.php:103
+#: config/listingtag.php:60
+msgid "Default Listing Type"
+msgstr ""
+
+#: app/Register/RegisterInvoiceSubMenu.php:212
+msgid "Delete All Invoices"
+msgstr ""
+
+#: config/listing-settings.php:23
+#: app/Framework/Helpers/SearchFieldSkeleton.php:173
+msgid "DESC"
+msgstr ""
+
+#: config/eventplan.php:37 config/addlisting.php:34 config/listingplan.php:45
+#: app/Controllers/EmailController.php:1489 views/invoice/print/index.php:20
+msgid "Description"
+msgstr ""
+
+#: config/posttypes.php:21 config/posttypes.php:96 config/posttypes.php:128
+msgid "Description."
+msgstr ""
+
+#: app/Framework/Helpers/HTML.php:406
+msgid "Direct Bank Transfer"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1491
+#: app/Framework/Invoice/InvoicePrinterExtension.php:159
+#: views/invoice/print/index.php:22 app/Register/views/invoices/thead.php:12
+msgid "Discount"
+msgstr ""
+
+#: config/discount.php:27
+msgid "Discount Amount"
+msgstr ""
+
+#: config/discount.php:44
+msgid "Discount For"
+msgstr ""
+
+#: config/discount.php:6
+msgid "Discount Settings"
+msgstr ""
+
+#: config/discount.php:17
+msgid "Discount Type"
+msgstr ""
+
+#: app/Controllers/UserController.php:178
+#: app/Controllers/ProfileController.php:232
+msgid "Display Name"
+msgstr ""
+
+#: app/Models/BookingCom.php:68 app/Models/BookingCom.php:98
+#, php-format
+msgid "Display On %s"
+msgstr ""
+
+#: app/Controllers/HaveBeenThereController.php:47
+msgid "Do you want to leave a review for this listing"
+msgstr ""
+
+#: app/Controllers/HaveBeenThereController.php:46
+msgid "Do you want to log into the site and leave a review for this listing"
+msgstr ""
+
+#: config/addlisting.php:49
+msgid "Document"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1519
+msgid "Download as PDF"
+msgstr ""
+
+#: config/posttypes.php:88
+msgid "Edit Claim"
+msgstr ""
+
+#: config/posttypes.php:13 app/Controllers/AddListingButtonController.php:314
+msgid "Edit Listing"
+msgstr ""
+
+#: config/posttypes.php:349
+msgid "Edit Listing Category"
+msgstr ""
+
+#: config/posttypes.php:325
+msgid "Edit Listing Location"
+msgstr ""
+
+#: config/posttypes.php:373
+msgid "Edit Listing Tag"
+msgstr ""
+
+#: config/listing-settings.php:270 config/listing-settings.php:971
+msgid "Edit Navigation"
+msgstr ""
+
+#: config/posttypes.php:120
+msgid "Edit Plan"
+msgstr ""
+
+#: config/listing-settings.php:276
+msgid "Edit Sidebar"
+msgstr ""
+
+#: config/posttypes.php:417 app/Controllers/DashboardController.php:132
+msgid "Editing"
+msgstr ""
+
+#: config/posttypes.php:425
+#, php-format
+msgid "Editing close <span class=\"count\">(%s)</span>"
+msgid_plural "Temporary close <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/Controllers/DokanController.php:211
+msgid ""
+"Eg: %h2%Check for this Event%close_h2%%breakDown%Please show us QRCode below "
+"when visiting the Event."
+msgstr ""
+
+#: config/register-login.php:15 app/Controllers/UserController.php:220
+#: app/Controllers/ProfileController.php:254
+msgid "Email"
+msgstr ""
+
+#: app/Controllers/DokanController.php:206
+msgid "Email Content"
+msgstr ""
+
+#: app/Framework/Helpers/VendorSkeleton.php:345
+msgid "Email us"
+msgstr ""
+
+#: config/push-notifications.php:19
+msgid "Enable Notifications"
+msgstr ""
+
+#: app/Controllers/EventController.php:1294
+#: app/Controllers/EventController.php:1308
+#: app/Controllers/EventController.php:1326
+msgid "End Time"
+msgstr ""
+
+#: app/MetaBoxes/CustomFieldsForPostType.php:354
+msgid "Entry {#}"
+msgstr ""
+
+#: app/Middleware/IsPlanExists.php:23
+msgid "ERROR: A plan is required"
+msgstr ""
+
+#: app/Controllers/UserController.php:625
+#: app/Controllers/ProfileController.php:146
+msgid "ERROR: Invalid Password."
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:435
+#, php-format
+msgid ""
+"Error: Number of upgrade listings has been exceeded Number of remaining "
+"listings. Solution: You purchased this plan before and there is/are %d "
+"remaining item(s) now, please deduce the number of upgrade listings to "
+"smaller or equal to %d"
+msgstr ""
+
+#: app/Controllers/UserController.php:567
+#: app/Controllers/ProfileController.php:94
+msgid "ERROR: Something went wrong, We could not update your profile."
+msgstr ""
+
+#: app/Controllers/WooCommerceController.php:441
+msgid ""
+"ERROR: The new plan, current plan, post type and payment ID are required"
+msgstr ""
+
+#: app/Controllers/UserController.php:632
+#: app/Controllers/ProfileController.php:153
+msgid "ERROR: The password confirmation must be matched the new password."
+msgstr ""
+
+#: app/Middleware/IsPlanExists.php:33
+msgid "ERROR: This plan does not exist."
+msgstr ""
+
+#: app/Controllers/ClaimController.php:519 app/Controllers/HandleSubmit.php:274
+msgid "ERROR: We could not create Free Plan"
+msgstr ""
+
+#: app/Controllers/InvoiceController.php:177
+msgid "Error: We could not generate this invoice"
+msgstr ""
+
+#: config/push-notifications.php:42
+msgid "Event Comment Notifications"
+msgstr ""
+
+#: config/listing-settings.php:15
+msgid "Event Date"
+msgstr ""
+
+#: config/payment.php:51
+msgid "Event Plan"
+msgstr ""
+
+#: app/Controllers/EventController.php:1318
+#, php-format
+msgid "Every %s"
+msgstr ""
+
+#: config/reviews.php:26 config/reviews.php:33
+msgid "Excellent"
+msgstr ""
+
+#: config/discount.php:55
+msgid "Exclude Add Listing Plans"
+msgstr ""
+
+#: config/discount.php:62
+msgid "Exclude Event Plans"
+msgstr ""
+
+#: app/Register/RegisterSaleDetailSubMenu.php:253
+#: app/Register/RegisterSaleDetailSubMenu.php:267
+#: app/Register/RegisterSaleDetailSubMenu.php:277
+msgid "Execute"
+msgstr ""
+
+#: config/addlisting.php:98 config/general.php:18
+msgid "Expensive"
+msgstr ""
+
+#: config/posttypes.php:394 app/Controllers/DashboardController.php:125
+msgid "Expired"
+msgstr ""
+
+#: config/posttypes.php:401
+#, php-format
+msgid "Expired <span class=\"count\">(%s)</span>"
+msgid_plural "Expired <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: config/discount.php:69 app/Controllers/AddListingController.php:328
+msgid "Expiry Date"
+msgstr ""
+
+#: app/Controllers/FavoriteStatisticController.php:70
+msgid "Favorite"
+msgstr ""
+
+#: config/dashboard.php:43 app/Controllers/FavoriteStatisticController.php:68
+#: app/Controllers/FavoriteStatisticController.php:183
+msgid "Favorites"
+msgstr ""
+
+#: app/Controllers/FavoriteStatisticController.php:211
+msgid "Favorites Statistic"
+msgstr ""
+
+#: app/Register/views/sales/form-filters.php:67
+#: app/Register/views/invoices/form-filters.php:66
+#: app/Register/views/subscriptions/form-filters.php:67
+msgid "Filter"
+msgstr ""
+
+#: app/Controllers/UserController.php:162
+#: app/Controllers/ProfileController.php:220
+msgid "First Name"
+msgstr ""
+
+#: config/discount.php:20
+msgid "Fixed Price Discount"
+msgstr ""
+
+#: app/Frontend/User.php:805
+msgid "Follow"
+msgstr ""
+
+#: app/Frontend/User.php:768
+msgid "Follower"
+msgid_plural "Followers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/Frontend/User.php:788 app/Frontend/User.php:805
+msgid "Following"
+msgstr ""
+
+#: app/Controllers/AddListingController.php:962
+msgid "Forbidden"
+msgstr ""
+
+#: app/Controllers/AddListingController.php:306
+#: app/Controllers/AddListingPaymentController.php:208
+msgid "Forever"
+msgstr ""
+
+#: config/general.php:11
+msgid "Friday"
+msgstr ""
+
+#: config/addlisting.php:107
+msgid "From"
+msgstr ""
+
+#: app/Framework/Helpers/QRCodeGenerator.php:54
+#, php-format
+msgid "Full name: %s"
+msgstr ""
+
+#: config/addlisting.php:41
+msgid "Gallery"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1666
+#: app/Controllers/EmailController.php:1724
+#: app/Register/views/sales/form-filters.php:50
+#: app/Register/views/sales/tbody.php:74
+#: app/Register/views/invoices/thead.php:10
+#: app/Register/views/invoices/form-filters.php:46
+#: app/Register/views/subscriptions/form-filters.php:50
+msgid "Gateway"
+msgstr ""
+
+#: config/listing-settings.php:264
+msgid "General"
+msgstr ""
+
+#: config/push-notifications.php:6
+msgid "Get notified after author submitted a new listing to your site"
+msgstr ""
+
+#: config/push-notifications.php:12
+msgid "Get notified after author submitted a new product to your site"
+msgstr ""
+
+#: config/push-notifications.php:68
+msgid "Get notified after your claim is approved"
+msgstr ""
+
+#: config/push-notifications.php:74
+msgid "Get notified after your product is published"
+msgstr ""
+
+#: config/push-notifications.php:25
+msgid "Get notified when author who you are following posts a new listing"
+msgstr ""
+
+#: config/push-notifications.php:43
+msgid "Get notified when someone leaves a comment on your event"
+msgstr ""
+
+#: config/push-notifications.php:56
+msgid "Get notified when someone leaves a discussion on your review"
+msgstr ""
+
+#: config/push-notifications.php:49
+msgid "Get notified when someone leaves a review on your listing"
+msgstr ""
+
+#: config/push-notifications.php:62
+msgid "Get notified when someone new starts following you"
+msgstr ""
+
+#: config/push-notifications.php:86
+msgid "Get notified when someone purchases your product"
+msgstr ""
+
+#: config/push-notifications.php:80
+msgid "Get notified when someone reviews your product"
+msgstr ""
+
+#: config/push-notifications.php:37
+msgid "Get notified when you receive a private messages"
+msgstr ""
+
+#: config/push-notifications.php:31
+msgid ""
+"Get notified when your listing status is changed. Eg: Your listing has been "
+"approved."
+msgstr ""
+
+#: app/Controllers/EventController.php:1224
+msgid "Google Address is required"
+msgstr ""
+
+#: app/Controllers/EmailController.php:2245
+#: app/Controllers/EmailController.php:2294
+#: app/Controllers/EmailController.php:2325
+msgid "Here"
+msgstr ""
+
+#: app/Controllers/RegisterLoginController.php:359
+#, php-format
+msgid "Hi %s! Nice to see you back."
+msgstr ""
+
+#: app/Frontend/User.php:608
+msgid ""
+"Hi, thanks for your message. We are not here at the moment, but we'll get "
+"back to you soon!"
+msgstr ""
+
+#: config/listing-settings.php:630 config/single-nav.php:10
+#: app/Controllers/EventController.php:187 views/single-listing/navtop.php:20
+msgid "Home"
+msgstr ""
+
+#: app/MetaBoxes/Listing.php:851
+msgid "Hour Mode"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wiloke.com"
+msgstr ""
+
+#: app/Controllers/EmailController.php:559
+#: app/Controllers/EmailController.php:1411
+msgid "IBAN"
+msgstr ""
+
+#: config/listing-settings.php:967
+msgid "Icon"
+msgstr ""
+
+#: app/Controllers/RegisterLoginController.php:463
+#: app/Controllers/RegisterLoginController.php:473
+#: app/Controllers/RegisterLoginController.php:569
+msgid ""
+"If email is registered, you will get a reset link. Please check your mail "
+"box / spam box and click on that link."
+msgstr ""
+
+#: app/Controllers/RegisterLoginController.php:519
+#: app/Controllers/RegisterLoginController.php:951
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: app/Controllers/ListingController.php:124
+msgid "images gallery"
+msgstr ""
+
+#: app/Controllers/InvoiceController.php:141
+msgid "In order to download invoice, you have to log into your account first"
+msgstr ""
+
+#: app/Middleware/CanRegister.php:24
+msgid ""
+"In order to register an account, You need to agree to our privacy policy"
+msgstr ""
+
+#: app/Middleware/CanRegister.php:34
+msgid ""
+"In order to register an account, You need to agree to our term conditionals"
+msgstr ""
+
+#: app/Controllers/DashboardController.php:111
+#: app/Framework/Helpers/General.php:847
+msgid "In Review"
+msgstr ""
+
+#: config/settings.php:2351 app/MetaBoxes/Listing.php:885
+msgid "Inherit Theme Options"
+msgstr ""
+
+#: config/listing-settings.php:637 config/single-nav.php:17
+msgid "Insights"
+msgstr ""
+
+#: app/Controllers/UserController.php:234
+#: app/Controllers/ProfileController.php:266
+msgid "Introduce your self"
+msgstr ""
+
+#: app/Controllers/FacebookLoginController.php:425
+msgid "Invalid Access Token"
+msgstr ""
+
+#: app/Controllers/AddListingController.php:627
+msgid "Invalid activation key."
+msgstr ""
+
+#: app/Controllers/WooCommerceController.php:180
+msgid "Invalid code"
+msgstr ""
+
+#: app/Controllers/UserController.php:664
+msgid "Invalid confirm password."
+msgstr ""
+
+#: app/Controllers/AddListingController.php:600
+msgid ""
+"Invalid confirmation link. <a href=\"#\" class=\"wil-js-send-confirmation-"
+"code\">Resend confirmation code</a>"
+msgstr ""
+
+#: app/Middleware/CanRegister.php:42
+msgid "Invalid Email"
+msgstr ""
+
+#: app/Controllers/Validation.php:942
+msgid "Invalid end date format"
+msgstr ""
+
+#: app/Controllers/AddListingController.php:1131
+msgid "Invalid Event Data"
+msgstr ""
+
+#: app/Controllers/AjaxUploadImgController.php:101
+#: app/Controllers/AjaxUploadFileController.php:69
+msgid "Invalid File Type"
+msgstr ""
+
+#: app/Controllers/ListingController.php:84
+#: app/Controllers/ListingController.php:250
+msgid "Invalid JSON format"
+msgstr ""
+
+#: app/Controllers/ClaimController.php:364
+#: app/Controllers/ReportController.php:57
+msgid "Invalid json format"
+msgstr ""
+
+#: app/Middleware/VerifyLogin.php:26
+msgid "Invalid password"
+msgstr ""
+
+#: app/Framework/Payment/Stripe/StripeCancelRecurringPayment.php:39
+msgid "Invalid payment id"
+msgstr ""
+
+#: app/Controllers/PayPalExecuteAddListingPayment.php:21
+#: app/Framework/Payment/PayPal/PayPalExecutePromotionPayment.php:20
+msgid "Invalid PayPal Token"
+msgstr ""
+
+#: app/Controllers/ClaimController.php:445
+#: app/Register/RegisterMenu/RegisterAddNewPayment.php:60
+msgid "Invalid plan id"
+msgstr ""
+
+#: app/Controllers/HaveBeenThereController.php:40
+msgid "Invalid post"
+msgstr ""
+
+#: app/Middleware/VerifyNonce.php:23
+#: app/Controllers/WooCommerceController.php:232
+msgid "Invalid security code"
+msgstr ""
+
+#: app/Controllers/Validation.php:929
+msgid "Invalid start date format"
+msgstr ""
+
+#: app/Middleware/CanRegister.php:54
+msgid "Invalid Username"
+msgstr ""
+
+#: app/Middleware/VerifyLogin.php:20
+msgid "Invalid username"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1472 views/invoice/print/index.php:11
+msgid "INVOICE"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1482 views/invoice/print/index.php:14
+msgid "Invoice date"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1480 views/invoice/print/index.php:12
+msgid "Invoice ID"
+msgstr ""
+
+#: config/addlisting.php:69
+msgid "Is Open New Window?"
+msgstr ""
+
+#: config/eventplan.php:23 config/listingplan.php:31
+msgid "Is Recommended"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1725
+msgid "Is Trial?"
+msgstr ""
+
+#: app/Controllers/PromotionController.php:948
+msgid "It is using WooCommerce Payment Gateway"
+msgstr ""
+
+#: app/Controllers/FacebookLoginController.php:276
+msgid ""
+"It seems you still not verify your facebook account, please complete it "
+"before logging into the website"
+msgstr ""
+
+#: app/Controllers/AddListingController.php:659
+#, php-format
+msgid ""
+"Just one more step to submit the listing. Please click on <a href=\"%s\">"
+"Become An Author</a> to complete it."
+msgstr ""
+
+#: app/Controllers/UserController.php:170
+#: app/Controllers/ProfileController.php:226
+msgid "Last Name"
+msgstr ""
+
+#: config/listing-settings.php:959
+msgid "Layout"
+msgstr ""
+
+#: app/Controllers/EventController.php:796
+msgid "Left a Comment "
+msgstr ""
+
+#: config/listing-settings.php:970
+msgid "Left Sidebar"
+msgstr ""
+
+#: app/Models/ReviewModel.php:607
+msgid "Like"
+msgstr ""
+
+#: app/Models/ReviewModel.php:601 app/Controllers/ReviewController.php:998
+msgid "Liked"
+msgstr ""
+
+#: config/addlisting.php:62
+msgid "Link To"
+msgstr ""
+
+#: config/posttypes.php:9 config/posttypes.php:116
+msgid "Listing"
+msgstr ""
+
+#: config/posttypes.php:353
+msgid "Listing Categories"
+msgstr ""
+
+#: config/posttypes.php:329
+msgid "Listing Locations"
+msgstr ""
+
+#: config/claim-settings.php:43
+msgid "Listing Name"
+msgstr ""
+
+#: app/Controllers/NotificationsController.php:790
+#: app/Controllers/NotificationsController.php:835
+msgid "Listing no longer available"
+msgstr ""
+
+#: config/payment.php:50 app/Framework/Helpers/GetWilokeSubmission.php:344
+msgid "Listing Plan"
+msgstr ""
+
+#: config/listingplan.php:7
+msgid "Listing Plan Category"
+msgstr ""
+
+#: app/MetaBoxes/EventPlan.php:46 app/MetaBoxes/ListingPlan.php:330
+msgid "Listing pricing"
+msgstr ""
+
+#: config/push-notifications.php:30
+msgid "Listing Status Notifications"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:475
+#, php-format
+msgid "Listing Status: %s"
+msgstr ""
+
+#: config/posttypes.php:377
+msgid "Listing Tags"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:473
+#, php-format
+msgid "Listing Title: %s"
+msgstr ""
+
+#: config/dashboard.php:15
+msgid "Listings"
+msgstr ""
+
+#: app/Controllers/DashboardController.php:336
+#, php-format
+msgid "Listings (%s)"
+msgstr ""
+
+#: app/Controllers/AddListingController.php:686
+#: app/Controllers/AddListingController.php:700
+msgid "Login"
+msgstr ""
+
+#: app/Controllers/DashboardController.php:304
+msgid "Logout"
+msgstr ""
+
+#: config/single-sidebar.php:107 config/listing-settings.php:876
+msgid "Map"
+msgstr ""
+
+#: config/listinglocation.php:110
+msgid "Mapbox Location Code"
+msgstr ""
+
+#: config/dashboard.php:26
+msgid "Messages"
+msgstr ""
+
+#: app/Framework/Payment/PayPal/PayPalExecuteNonRecurringPayment.php:31
+msgid "Missing PayPal Payment ID"
+msgstr ""
+
+#: app/Controllers/AddListingController.php:153
+msgid "Missing required information"
+msgstr ""
+
+#: app/Controllers/SchemaController.php:267
+msgid "Mo-Su Monday through Sunday, all day"
+msgstr ""
+
+#: config/addlisting.php:94 config/general.php:17
+msgid "Moderate"
+msgstr ""
+
+#: config/general.php:7
+msgid "Monday"
+msgstr ""
+
+#: config/settings.php:2348
+msgid "My own products"
+msgstr ""
+
+#: app/Controllers/MergingSettingValues.php:702
+msgid "My Title"
+msgstr ""
+
+#: config/posttypes.php:87
+msgid "New Claim"
+msgstr ""
+
+#: config/push-notifications.php:61
+msgid "New Followers Notifications"
+msgstr ""
+
+#: config/posttypes.php:12
+msgid "New Listing"
+msgstr ""
+
+#: config/posttypes.php:352
+msgid "New Listing Category Name"
+msgstr ""
+
+#: config/posttypes.php:328
+msgid "New Listing Location Name"
+msgstr ""
+
+#: config/posttypes.php:376
+msgid "New Listing Tag Name"
+msgstr ""
+
+#: app/Controllers/UserController.php:312
+msgid "New Password"
+msgstr ""
+
+#: config/posttypes.php:119
+msgid "New Plan"
+msgstr ""
+
+#: app/Register/RegisterSaleDetailSubMenu.php:244
+msgid "New Status"
+msgstr ""
+
+#: config/listing-settings.php:29
+msgid "Newest"
+msgstr ""
+
+#: app/Register/views/subscriptions/tbody.php:56
+msgid "Next Billing Date"
+msgstr ""
+
+#: config/listing-settings.php:12
+msgid "Next week"
+msgstr ""
+
+#: config/addlisting.php:77 app/Controllers/EmailController.php:1745
+msgid "No"
+msgstr ""
+
+#: app/Controllers/MessageController.php:241
+msgid "No alerts or messages at this time"
+msgstr ""
+
+#: config/posttypes.php:94
+msgid "No Claims found in Trash."
+msgstr ""
+
+#: config/posttypes.php:93
+msgid "No Claims found."
+msgstr ""
+
+#: app/MetaBoxes/Listing.php:858
+msgid "No Hours Available"
+msgstr ""
+
+#: config/posttypes.php:19
+msgid "No Listings found in Trash."
+msgstr ""
+
+#: config/posttypes.php:18
+msgid "No Listings found."
+msgstr ""
+
+#: app/Controllers/MessageController.php:169
+msgid "No Messages"
+msgstr ""
+
+#: app/Controllers/NotificationsController.php:1203
+msgid "No Notifications"
+msgstr ""
+
+#: config/posttypes.php:125
+msgid "No Plans found."
+msgstr ""
+
+#: config/posttypes.php:126
+msgid "No Planss found in Trash."
+msgstr ""
+
+#: app/Controllers/EmailController.php:1651
+msgid "Non Recurring Payment"
+msgstr ""
+
+#: config/addlisting.php:86 config/general.php:15
+msgid "Not to say"
+msgstr ""
+
+#: app/Controllers/AddListingController.php:909
+msgid "Nothing found"
+msgstr ""
+
+#: config/dashboard.php:30
+msgid "Notifications"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:501
+#, php-format
+msgid ""
+"Number of upgrade listings has been exceeded Availability Items of this plan."
+" You can upgrade maximum %s listings"
+msgstr ""
+
+#: config/event-settings.php:49
+msgid "Occurs Once"
+msgstr ""
+
+#: config/listing-settings.php:8
+msgid "Ongoing"
+msgstr ""
+
+#: app/Middleware/IsGatewaySupported.php:13
+#, php-format
+msgid "OOps! %s gateway is not support by our service"
+msgstr ""
+
+#: app/Controllers/AddListingController.php:568
+#, php-format
+msgid "Oops! %s type is not supported."
+msgstr ""
+
+#: app/Controllers/UserController.php:721
+msgid "Oops! Something went wrong, so We could not update the profile."
+msgstr ""
+
+#: app/Controllers/AddListingController.php:1066
+msgid "Oops! Something went wrong. We could not create a new listing"
+msgstr ""
+
+#: app/Middleware/CanSubmissionListing.php:15
+msgid "Oops! Sorry, but you do not have permission to submit a listing"
+msgstr ""
+
+#: app/Controllers/EventController.php:646
+#: app/Controllers/ListingController.php:410
+#, php-format
+msgid "Oops! Sorry, We found no %s"
+msgstr ""
+
+#: app/Controllers/ClaimController.php:573
+msgid "Oops! There are no claim fields."
+msgstr ""
+
+#: app/Middleware/IsPublishedPost.php:12 app/Middleware/IsPublishedPost.php:17
+msgid "Oops! This post does not exist!"
+msgstr ""
+
+#: app/Controllers/RegisterLoginController.php:908
+msgid ""
+"Oops! We could not generate reset key. Please contact the administrator to "
+"report this issue"
+msgstr ""
+
+#: app/Controllers/ReviewController.php:1589
+msgid "Oops! We could not insert the review"
+msgstr ""
+
+#: app/Controllers/MessageController.php:328
+msgid "Oops! We could not send your message, please try it again. "
+msgstr ""
+
+#: app/Controllers/SearchFormController.php:637
+msgid "Oops! We found no term"
+msgstr ""
+
+#: app/Controllers/ReportController.php:90
+msgid "Oops! You do not have permission to access this area."
+msgstr ""
+
+#: app/Middleware/IsExceededFreePlan.php:38
+msgid "Oops! You exceeded the number of free listings of this plan"
+msgstr ""
+
+#: app/Controllers/SearchFormController.php:1499
+#, php-format
+msgid ""
+"Oops! You have not not configured the search fields yet. To configure the "
+"search field, go to Wiloke Tools -> %s Settings -> Main Search Form"
+msgstr ""
+
+#: app/MetaBoxes/Listing.php:862
+msgid "Open For Selected Hours"
+msgstr ""
+
+#: app/Frontend/BusinessHours.php:243
+msgid "Open now"
+msgstr ""
+
+#: app/Framework/Helpers/QRCodeGenerator.php:60
+#, php-format
+msgid "Order ID: %s"
+msgstr ""
+
+#: app/Framework/Helpers/General.php:555
+msgid "Page"
+msgstr ""
+
+#: app/Framework/Helpers/General.php:556
+msgid "Pages"
+msgstr ""
+
+#: config/posttypes.php:92
+msgid "Parent Claims:"
+msgstr ""
+
+#: config/posttypes.php:347
+msgid "Parent Listing Category"
+msgstr ""
+
+#: config/posttypes.php:348
+msgid "Parent Listing Category:"
+msgstr ""
+
+#: config/posttypes.php:323
+msgid "Parent Listing Location"
+msgstr ""
+
+#: config/posttypes.php:324
+msgid "Parent Listing Location:"
+msgstr ""
+
+#: config/posttypes.php:371
+msgid "Parent Listing Tag"
+msgstr ""
+
+#: config/posttypes.php:372
+msgid "Parent Listing Tag:"
+msgstr ""
+
+#: config/posttypes.php:17
+msgid "Parent Listings:"
+msgstr ""
+
+#: config/posttypes.php:124
+msgid "Parent Plans:"
+msgstr ""
+
+#: config/register-login.php:23 config/register-login.php:40
+msgid "Password"
+msgstr ""
+
+#: app/Controllers/AddListingButtonController.php:308
+msgid "Pay & Publish"
+msgstr ""
+
+#: app/Controllers/EmailController.php:875
+#: app/Controllers/EmailController.php:917
+msgid "Payment Cancelled"
+msgstr ""
+
+#: config/push-notifications.php:91 app/Controllers/EmailController.php:935
+msgid "Payment Dispute"
+msgstr ""
+
+#: app/Controllers/EmailController.php:839
+msgid "Payment Failed"
+msgstr ""
+
+#: app/Controllers/EmailController.php:836
+#, php-format
+msgid "Payment for order %d from %s has failed."
+msgstr ""
+
+#: app/Controllers/EmailController.php:850
+#, php-format
+msgid "Payment for order %d from %s has suspended."
+msgstr ""
+
+#: app/Controllers/EmailController.php:1663
+#: app/Register/views/invoices/thead.php:8
+msgid "Payment ID"
+msgstr ""
+
+#: app/Controllers/EmailController.php:898
+msgid "Payment Refunded"
+msgstr ""
+
+#: app/Controllers/EmailController.php:852
+msgid "Payment Suspended"
+msgstr ""
+
+#: app/Controllers/PaymentController.php:156
+msgid "Payment: We could not insert payment"
+msgstr ""
+
+#: config/payment.php:43 app/Framework/Helpers/GetWilokeSubmission.php:148
+#: app/Framework/Helpers/HTML.php:396
+msgid "PayPal"
+msgstr ""
+
+#: config/sales.php:7
+msgid "Pending"
+msgstr ""
+
+#: config/discount.php:19
+msgid "Percentage Discount"
+msgstr ""
+
+#: app/Controllers/UserController.php:139
+msgid "Permanently Delete Account"
+msgstr ""
+
+#: app/Controllers/UserController.php:261
+#: app/Controllers/ProfileController.php:290
+msgid "Phone"
+msgstr ""
+
+#: config/listing-settings.php:14 config/listing-settings.php:391
+msgid "Pick a date"
+msgstr ""
+
+#: app/Register/views/invoices/thead.php:9
+msgid "Plan"
+msgstr ""
+
+#: app/Controllers/AddListingController.php:324
+#: app/Controllers/EmailController.php:1665
+#: app/Controllers/EmailController.php:1726
+#: app/Register/views/sales/tbody.php:60
+#: app/Register/views/subscriptions/tbody.php:45
+msgid "Plan Name"
+msgstr ""
+
+#: config/eventplan.php:44 config/listingplan.php:115
+msgid "Plan Settings"
+msgstr ""
+
+#: app/Register/views/sales/form-filters.php:18
+#: app/Register/views/sales/tbody.php:53
+#: app/Register/views/subscriptions/form-filters.php:18
+#: app/Register/views/subscriptions/tbody.php:41
+msgid "Plan Type"
+msgstr ""
+
+#: app/Controllers/RegisterLoginController.php:276
+msgid "Please activate Wilcity Theme"
+msgstr ""
+
+#: app/Controllers/MessageController.php:310
+msgid "Please enter your message"
+msgstr ""
+
+#: app/Controllers/RegisterLoginController.php:834
+msgid "Please enter your new password"
+msgstr ""
+
+#: app/Middleware/AddListingValidation.php:22
+#: app/Controllers/Validation.php:1036
+msgid "Please fill up all requirement fields."
+msgstr ""
+
+#: app/Controllers/ReportController.php:48
+msgid "Please give us your reason"
+msgstr ""
+
+#: app/Controllers/ClaimController.php:580
+msgid ""
+"Please go to Wiloke Submission -> Set a Free Claim Plan of this post type"
+msgstr ""
+
+#: app/Models/ReviewMetaModel.php:293
+msgid ""
+"Please go to Wiloke Tools -> [Your Listing Type] Settings -> Review Settings "
+"-> Add one category at least"
+msgstr ""
+
+#: app/Controllers/SearchFormController.php:979
+msgid ""
+"Please go to Wiloke Tools -> Your Listing Type settings -> Add some fields "
+"to Hero Search Form"
+msgstr ""
+
+#: app/Framework/Helpers/GetWilokeSubmission.php:310
+#, php-format
+msgid "Please provide the billing type: %s %s"
+msgstr ""
+
+#: app/Controllers/RegisterLoginController.php:456
+msgid "Please provide your username or email address."
+msgstr ""
+
+#: app/Controllers/PromotionController.php:826
+msgid "Please select a payment gateway"
+msgstr ""
+
+#: app/Register/RegisterSaleDetailSubMenu.php:53
+msgid "Please select a Session first"
+msgstr ""
+
+#: app/Framework/Helpers/Time.php:644
+#, php-format
+msgid ""
+"Please set Timezone to this post or go to <a href=\"%s\">General</a> -> Set "
+"General Timezone for your site. Note that you have to use GMT format instead "
+"of UTC format"
+msgstr ""
+
+#: app/MetaBoxes/Listing.php:198
+msgid ""
+"Please use Timezone String instead of UTC timezone offset: Settings &gt;  "
+"General"
+msgstr ""
+
+#: config/reviews.php:29 config/reviews.php:36
+msgid "Poor"
+msgstr ""
+
+#: config/eventplan.php:38 config/listingplan.php:46
+msgid "Popular"
+msgstr ""
+
+#: config/listing-settings.php:34
+msgid "Popular Shared"
+msgstr ""
+
+#: app/Controllers/UserController.php:227
+#: app/Controllers/AddListingController.php:326
+#: app/Controllers/ProfileController.php:260
+msgid "Position"
+msgstr ""
+
+#: app/Controllers/RegisterLoginController.php:548
+#: app/Controllers/RegisterLoginController.php:963
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+#: app/Framework/Helpers/General.php:548
+msgid "Post"
+msgstr ""
+
+#: config/listing-settings.php:28
+msgid "Post Date"
+msgstr ""
+
+#: app/Controllers/ViewStatisticController.php:70
+msgid "Post Reach"
+msgstr ""
+
+#: config/listing-settings.php:30
+msgid "Post Title"
+msgstr ""
+
+#: app/Framework/Helpers/General.php:549
+msgid "Posts"
+msgstr ""
+
+#: app/Register/views/sales/form-filters.php:62
+#: app/Register/views/invoices/form-filters.php:59
+#: app/Register/views/subscriptions/form-filters.php:62
+msgid "Posts Per Page"
+msgstr ""
+
+#: app/Controllers/UserController.php:235
+#: app/Controllers/ProfileController.php:267
+msgid "Press Shift + Enter if you want to generate a new line."
+msgstr ""
+
+#: config/addlisting.php:56
+msgid "Price"
+msgstr ""
+
+#: app/Controllers/MergingSettingValues.php:703
+msgid "Price is net per person, excluding drinks chef seasonal menu"
+msgstr ""
+
+#: config/single-sidebar.php:48 config/listing-settings.php:825
+msgid "Price Range"
+msgstr ""
+
+#: config/push-notifications.php:36
+msgid "Private Message Notifications"
+msgstr ""
+
+#: config/sales.php:8
+msgid "Processing"
+msgstr ""
+
+#: config/eventplan.php:16 config/listingplan.php:434
+msgid "Product Alias"
+msgstr ""
+
+#: app/Framework/Helpers/QRCodeGenerator.php:61
+#, php-format
+msgid "Product ID: %s"
+msgstr ""
+
+#: app/Framework/Helpers/QRCodeGenerator.php:62
+#, php-format
+msgid "Product name: %s"
+msgstr ""
+
+#: config/push-notifications.php:73
+msgid "Product Published Notifications"
+msgstr ""
+
+#: config/push-notifications.php:79
+msgid "Product Review Notifications"
+msgstr ""
+
+#: config/dashboard.php:11
+msgid "Profile"
+msgstr ""
+
+#: app/Controllers/PromotionController.php:700
+#: app/Controllers/PromotionController.php:726
+#, php-format
+msgid "Promote %s"
+msgstr ""
+
+#: app/Framework/Helpers/GetWilokeSubmission.php:341
+msgid "Promotion"
+msgstr ""
+
+#: app/Controllers/PromotionController.php:908
+#, php-format
+msgid "Promotion - %s"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1933
+#, php-format
+msgid "Promotion: %s wants to promote his/her listing on your site"
+msgstr ""
+
+#: app/Controllers/DashboardController.php:104
+#: app/Framework/Helpers/General.php:841
+msgid "Published"
+msgstr ""
+
+#: app/Framework/Helpers/QRCodeGenerator.php:64
+#, php-format
+msgid "Purchased date: %s"
+msgstr ""
+
+#: app/Framework/Helpers/QRCodeGenerator.php:66
+#, php-format
+msgid "Purchased from: %s"
+msgstr ""
+
+#: app/Controllers/DokanController.php:188
+msgid "QRCode Settings"
+msgstr ""
+
+#: config/listing-settings.php:35
+msgid "Random"
+msgstr ""
+
+#: config/push-notifications.php:50
+msgid ""
+"Rating %averageRating% %userName% just left a review on %postTitle%: "
+"%reviewExcerpt%"
+msgstr ""
+
+#: config/push-notifications.php:82
+msgid "Rating %rating% Comment: %reviewExcerpt%"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:664
+#, php-format
+msgid "Re-edit %s listing"
+msgstr ""
+
+#: app/Controllers/GoogleReCaptchaController.php:116
+msgid ""
+"Recaptcha Key is required, please go to Appearance -> Theme Options -> "
+"Register And Login to complete this setting"
+msgstr ""
+
+#: app/Controllers/UserController.php:243
+#: app/Controllers/ProfileController.php:274
+msgid "Receive message through email."
+msgstr ""
+
+#: config/listing-settings.php:16 config/listing-settings.php:31
+msgid "Recommended"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1652
+msgid "Recurring Payment"
+msgstr ""
+
+#: config/sales.php:5 app/Register/RegisterSaleDetailSubMenu.php:265
+msgid "Refund"
+msgstr ""
+
+#: config/invoices.php:5
+msgid "Refunded"
+msgstr ""
+
+#: app/Controllers/AddListingController.php:689
+#: app/Controllers/AddListingController.php:705
+msgid "Register"
+msgstr ""
+
+#: config/posttypes.php:429
+msgid "Rejected"
+msgstr ""
+
+#: config/posttypes.php:437
+#, php-format
+msgid "Rejected <span class=\"count\">(%s)</span>"
+msgid_plural "Rejected <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/MetaBoxes/CustomFieldsForPostType.php:357
+msgid "Remove Entry"
+msgstr ""
+
+#: config/listing-settings.php:171
+msgid "Remove Item"
+msgstr ""
+
+#: app/Controllers/WooCommerceController.php:250
+msgid "Removed the product from cart"
+msgstr ""
+
+#: app/Models/ReportModel.php:22
+#, php-format
+msgid "Report an issue of %s"
+msgstr ""
+
+#: app/Controllers/NotificationsController.php:554
+msgid "Report no longer available"
+msgstr ""
+
+#: app/Controllers/NotificationsController.php:754
+#, php-format
+msgid "requested %s withdrawal."
+msgstr ""
+
+#: app/Middleware/VerifyReview.php:22
+msgid "Review Content"
+msgstr ""
+
+#: config/push-notifications.php:54
+msgid "Review Discussion Notifications"
+msgstr ""
+
+#: app/Controllers/NotificationsController.php:954
+#: app/Controllers/NotificationsController.php:1002
+msgid "Review no longer available"
+msgstr ""
+
+#: config/push-notifications.php:48
+msgid "Review Notifications"
+msgstr ""
+
+#: app/Middleware/VerifyReview.php:16
+msgid "Review Title"
+msgstr ""
+
+#: config/dashboard.php:19
+msgid "Reviews"
+msgstr ""
+
+#: config/listing-settings.php:969
+msgid "Right Sidebar"
+msgstr ""
+
+#: config/push-notifications.php:85
+msgid "Sale Notifications"
+msgstr ""
+
+#: app/Register/RegisterSaleSubMenu.php:175
+#: app/Register/RegisterSubscriptions.php:154
+msgid "Sales"
+msgstr ""
+
+#: config/general.php:12
+msgid "Saturday"
+msgstr ""
+
+#: app/Controllers/PrintAddListingFields.php:45
+msgid "Save &amp; Preview"
+msgstr ""
+
+#: app/Register/RegisterMenu/RegisterAddNewPayment.php:212
+msgid "Search by username"
+msgstr ""
+
+#: config/posttypes.php:91
+msgid "Search Claims"
+msgstr ""
+
+#: config/posttypes.php:345
+msgid "Search Listing Categories"
+msgstr ""
+
+#: config/posttypes.php:321
+msgid "Search Listing Locations"
+msgstr ""
+
+#: config/posttypes.php:369
+msgid "Search Listing Tags"
+msgstr ""
+
+#: config/posttypes.php:16
+msgid "Search Listings"
+msgstr ""
+
+#: config/posttypes.php:123
+msgid "Search Plans"
+msgstr ""
+
+#: views/event-settings/fields.php:67
+msgid "Section Icon"
+msgstr ""
+
+#: views/event-settings/fields.php:85
+msgid "Section Key"
+msgstr ""
+
+#: views/event-settings/fields.php:80
+msgid "Section Name"
+msgstr ""
+
+#: app/MetaBoxes/EventPlan.php:96
+msgid "Select a Event Pricing"
+msgstr ""
+
+#: app/MetaBoxes/ListingPlan.php:375
+msgid "Select a Listing Pricing"
+msgstr ""
+
+#: config/push-notifications.php:20
+msgid "Select disable to turn off all notifications"
+msgstr ""
+
+#: app/Register/RegisterMenu/RegisterAddNewPayment.php:150
+msgid "Select Listing Type"
+msgstr ""
+
+#: app/Register/RegisterMenu/RegisterAddNewPayment.php:189
+msgid "Select Plan"
+msgstr ""
+
+#: app/Controllers/DokanController.php:201
+msgid "Sending QRCode after customer purchasing this product"
+msgstr ""
+
+#: config/listingcategory.php:7 config/listing-settings.php:644
+#: config/listinglocation.php:7 config/single-nav.php:24
+#: config/listingtag.php:6 views/single-listing/navtop.php:49
+msgid "Settings"
+msgstr ""
+
+#: app/Controllers/SharesStatisticController.php:42
+msgid "Share"
+msgstr ""
+
+#: app/Controllers/SharesStatisticController.php:94
+msgid "Share Statistic"
+msgstr ""
+
+#: app/Controllers/SharesStatisticController.php:112
+#: app/Controllers/SharesStatisticController.php:134
+msgid "Shared"
+msgstr ""
+
+#: app/Controllers/SharesStatisticController.php:40
+msgid "Shares"
+msgstr ""
+
+#: app/Controllers/DokanController.php:73
+msgid "Shop Logo"
+msgstr ""
+
+#: app/Controllers/EmailController.php:558
+#: app/Controllers/EmailController.php:1410
+msgid "Shortcode"
+msgstr ""
+
+#: config/listing-settings.php:976
+msgid "Sidebar"
+msgstr ""
+
+#: config/single-sidebar.php:55 config/listing-settings.php:831
+msgid "Single Price"
+msgstr ""
+
+#. %s: site name
+#: app/Controllers/RegisterLoginController.php:948
+#, php-format
+msgid "Site Name: %s"
+msgstr ""
+
+#: app/Controllers/UserController.php:290
+#: app/Controllers/ProfileController.php:318
+msgid "Social Networks"
+msgstr ""
+
+#: app/Controllers/RegisterLoginController.php:513
+#: app/Controllers/RegisterLoginController.php:945
+msgid "Someone has requested a password reset for the following account:"
+msgstr ""
+
+#: app/Controllers/PlanRelationshipController.php:266
+#: app/Controllers/PlanRelationshipController.php:315
+msgid "Something went error! We could not upgrade the Listing to new Plan"
+msgstr ""
+
+#: app/Controllers/AjaxUploadFileController.php:101
+#, php-format
+msgid "Something went error. We could upload this file %s"
+msgstr ""
+
+#: app/Models/UserModel.php:142
+msgid "Sorry, We could not create your account"
+msgstr ""
+
+#: app/Controllers/FacebookLoginController.php:372
+msgid "Sorry, We could not create your account. Please try it later"
+msgstr ""
+
+#: app/Controllers/StripeController.php:80
+#, php-format
+msgid "Sorry, We could not generate the Stripe Portal URL. Reason: %s"
+msgstr ""
+
+#: app/Controllers/SearchFormController.php:1223
+#: app/Controllers/SearchFormController.php:1314
+msgid "Sorry, We found no posts matched what are you looking for ..."
+msgstr ""
+
+#: app/Middleware/IAgreeToTerms.php:17
+msgid "Sorry, You have to agree to our terms."
+msgstr ""
+
+#: app/Middleware/IAgreeToPrivacyPolicy.php:17
+msgid "Sorry, You have to agree to privacy policy."
+msgstr ""
+
+#: config/settings.php:2350
+msgid "Specify product categories"
+msgstr ""
+
+#: config/settings.php:2349
+msgid "Specify products"
+msgstr ""
+
+#: app/Controllers/EventController.php:1291
+#: app/Controllers/EventController.php:1305
+#: app/Controllers/EventController.php:1323
+msgid "Start Time"
+msgstr ""
+
+#: config/single-sidebar.php:69 config/listing-settings.php:843
+#: app/Controllers/DokanController.php:541
+msgid "Statistic"
+msgstr ""
+
+#: app/Register/views/sales/form-filters.php:7
+#: app/Register/views/sales/tbody.php:68
+#: app/Register/views/invoices/form-filters.php:7
+#: app/Register/views/subscriptions/form-filters.php:7
+#: app/Register/views/subscriptions/tbody.php:48
+#: app/Register/views/subscriptions/tbody.php:51
+msgid "Status"
+msgstr ""
+
+#: config/payment.php:44 app/Framework/Helpers/GetWilokeSubmission.php:146
+#: app/Framework/Helpers/HTML.php:401
+msgid "Stripe"
+msgstr ""
+
+#: app/Controllers/EmailController.php:396
+msgid "Stripe Payment Issue"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1493
+#: app/Framework/Invoice/InvoicePrinterExtension.php:158
+#: views/invoice/print/index.php:21 app/Register/views/invoices/thead.php:11
+msgid "Sub Total"
+msgstr ""
+
+#: app/Controllers/PrintAddListingFields.php:46
+#: app/Register/RegisterMenu/RegisterAddNewPayment.php:279
+msgid "Submit"
+msgstr ""
+
+#: app/Controllers/AddListingButtonController.php:306
+msgid "Submit Listing"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1723
+msgid "Subscription ID"
+msgstr ""
+
+#: config/sales.php:6
+msgid "Succeed"
+msgstr ""
+
+#: config/invoices.php:6
+msgid "Succeeded"
+msgstr ""
+
+#: config/general.php:6
+msgid "Sunday"
+msgstr ""
+
+#: config/subscriptions.php:5
+msgid "Suspend"
+msgstr ""
+
+#: app/Framework/Payment/PayPal/PayPalSuspendPlan.php:24
+#: app/Framework/Payment/PayPal/PayPalSuspendPlan.php:26
+msgid "Suspended the Agreement"
+msgstr ""
+
+#: app/Controllers/EmailController.php:560
+#: app/Controllers/EmailController.php:1412
+msgid "Swift"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:477
+#, php-format
+msgid "Switched from %s to %s"
+msgstr ""
+
+#: config/single-sidebar.php:100 config/listing-settings.php:870
+msgid "Tags"
+msgstr ""
+
+#: views/invoice/print/index.php:23 app/Register/views/invoices/thead.php:13
+msgid "Tax"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1492
+msgid "TAX/VAT"
+msgstr ""
+
+#: config/posttypes.php:343
+msgctxt "taxonomy general name"
+msgid "Listing Categories"
+msgstr ""
+
+#: config/posttypes.php:319
+msgctxt "taxonomy general name"
+msgid "Listing Locations"
+msgstr ""
+
+#: config/posttypes.php:367
+msgctxt "taxonomy general name"
+msgid "Listing Tags"
+msgstr ""
+
+#: config/posttypes.php:344
+msgctxt "taxonomy singular name"
+msgid "Listing Category"
+msgstr ""
+
+#: config/posttypes.php:320
+msgctxt "taxonomy singular name"
+msgid "Listing Location"
+msgstr ""
+
+#: config/posttypes.php:368
+msgctxt "taxonomy singular name"
+msgid "Listing Tag"
+msgstr ""
+
+#: app/Framework/Helpers/QRCodeGenerator.php:56
+#, php-format
+msgid "Tel: %s"
+msgstr ""
+
+#: config/posttypes.php:405 app/Controllers/DashboardController.php:139
+msgid "Temporary Close"
+msgstr ""
+
+#: config/posttypes.php:413
+#, php-format
+msgid "Temporary close <span class=\"count\">(%s)</span>"
+msgid_plural "Temporary close <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: config/reviews.php:30 config/reviews.php:37
+msgid "Terrible"
+msgstr ""
+
+#: app/Controllers/MessageController.php:349
+msgid "Thank for contacting us, We will read and reply to you shortly"
+msgstr ""
+
+#: app/Controllers/ClaimController.php:477
+#: app/Controllers/ClaimController.php:529
+msgid ""
+"Thanks for your claiming! Our staff will review your request and contact you "
+"shortly"
+msgstr ""
+
+#: app/Middleware/IsThemeOptionSupport.php:15
+#, php-format
+msgid "The %s is not supported by the theme"
+msgstr ""
+
+#: app/Middleware/VerifyReview.php:13
+#: app/Middleware/AddListingValidation.php:26
+#: app/Controllers/PostController.php:514
+#: app/Framework/Routing/Controller.php:319
+#: app/Framework/Routing/Controller.php:323
+#, php-format
+msgid "The %s is required"
+msgstr ""
+
+#: app/Controllers/AddMorePhotosVideosController.php:160
+msgid "The add photos feature is not supported by this plan."
+msgstr ""
+
+#: app/Controllers/AddMorePhotosVideosController.php:128
+msgid "The Add Video is not supported by this plan."
+msgstr ""
+
+#: app/Middleware/AddressRequired.php:12
+msgid "The address field is required"
+msgstr ""
+
+#: app/Controllers/Validation.php:276 app/Controllers/Validation.php:283
+msgid "The address is required"
+msgstr ""
+
+#: app/Controllers/PlanRelationshipController.php:253
+msgid "The article must be a Listing Types"
+msgstr ""
+
+#: app/Framework/Payment/Receipt/WilokePromotionReceipt.php:116
+msgid "The aSelectedPlanKeys is required"
+msgstr ""
+
+#: app/Framework/Payment/DirectBankTransfer/DirectBankTransferPayment.php:143
+msgid "The bank accounts have been setup"
+msgstr ""
+
+#: config/discount.php:46
+msgid "The both"
+msgstr ""
+
+#: config/listing-settings.php:962
+msgid "The button at the top of your Page helps people take an action."
+msgstr ""
+
+#: app/Controllers/WooCommerceController.php:240
+msgid "The Cart Key is required"
+msgstr ""
+
+#: app/Middleware/VerifyCartKey.php:15
+msgid "The cart key is required"
+msgstr ""
+
+#: app/Frontend/SingleListing.php:953
+msgid "The content is empty"
+msgstr ""
+
+#: app/Controllers/CouponController.php:31
+msgid "The coupon is invalid or has expired"
+msgstr ""
+
+#: app/Framework/Payment/WooCommerce/WooCommerceSuspend.php:63
+msgid "The current order id is required."
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:418
+msgid ""
+"The current payment subscription has been suspended successfully. Please "
+"complete new payment session to new subscription"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:375
+msgid "The current plan id is required"
+msgstr ""
+
+#: app/Framework/Payment/PayPal/PayPalNonRecurringPaymentMethod.php:142
+msgid "The data has been prepared successfully"
+msgstr ""
+
+#: app/Controllers/ClaimController.php:360
+msgid "The data is required"
+msgstr ""
+
+#: app/Framework/Payment/DirectBankTransfer/DirectBankTransferConfiguration.php:27
+#: app/Framework/Payment/DirectBankTransfer/DirectBankTransferPayment.php:126
+msgid "The Direct Bank Transfer has not configured yet!"
+msgstr ""
+
+#: app/Controllers/RegisterLoginController.php:544
+msgid "The email could not be sent."
+msgstr ""
+
+#: app/Controllers/Validation.php:917
+msgid "The End date is required"
+msgstr ""
+
+#: app/Controllers/Validation.php:950
+msgid "The End date must be greater than Start date"
+msgstr ""
+
+#: app/Controllers/Validation.php:905
+msgid "The event calendar is required"
+msgstr ""
+
+#: app/Controllers/EventController.php:1186
+msgid "The event start date and end date are required"
+msgstr ""
+
+#: app/Controllers/EventController.php:1193
+msgid "The event start date must be smaller than event end date"
+msgstr ""
+
+#: app/Register/RegisterMenu/RegisterAddNewPayment.php:54
+#, php-format
+msgid "The field %s is required"
+msgstr ""
+
+#: app/Framework/Helpers/Inc.php:24
+#, php-format
+msgid "The file %s does not exists"
+msgstr ""
+
+#: app/Framework/Payment/SuspendSubscriptionPlan.php:71
+#, php-format
+msgid "The gateway %s is not supported yet"
+msgstr ""
+
+#: app/Controllers/ChangePlanStatusController.php:143
+msgid "The gateway is required"
+msgstr ""
+
+#: config/listingtag.php:33
+msgid "The icon image will get higher priority than LineAwesome Icon"
+msgstr ""
+
+#: app/Middleware/IsPassedPostAuthor.php:13
+msgid "The id is required"
+msgstr ""
+
+#: app/Register/RegisterPromotionPlans.php:35
+#, php-format
+msgid "The id of %s is too long. It should contains maximum 50 characters"
+msgstr ""
+
+#: app/Register/AddCustomPostType.php:154
+#, php-format
+msgid "The key %s is longer than 20 character"
+msgstr ""
+
+#: app/Controllers/Validation.php:290
+msgid "The latitude is required"
+msgstr ""
+
+#: app/Controllers/SearchFormController.php:934
+msgid "The Listing Type is required."
+msgstr ""
+
+#: app/Controllers/Validation.php:297
+msgid "The longitude is required"
+msgstr ""
+
+#: app/Controllers/PlanRelationshipController.php:288
+msgid "The new Payment ID is required"
+msgstr ""
+
+#: app/Controllers/PlanRelationshipController.php:287
+msgid "The new Plan ID is required"
+msgstr ""
+
+#: app/Framework/Payment/DirectBankTransfer/DirectBankTransferWebhook.php:45
+#: app/Framework/Payment/FreePlan/FreePlanWebhook.php:54
+msgid "The new status is required."
+msgstr ""
+
+#: app/Controllers/NotificationsController.php:449
+msgid "The notification id is required"
+msgstr ""
+
+#: app/Controllers/PlanRelationshipController.php:286
+msgid "The old payment ID is required"
+msgstr ""
+
+#: app/Controllers/PlanRelationshipController.php:285
+msgid "The old Plan ID is required"
+msgstr ""
+
+#: app/Framework/Payment/WooCommerce/WooCommerceNonRecurringPaymentMethod.php:39
+#: app/Framework/Payment/WooCommerce/WooCommerceRecurringPaymentMethod.php:39
+msgid "The Order ID is required"
+msgstr ""
+
+#: app/Register/RegisterMenu/RegisterAddNewPayment.php:66
+#: app/Framework/Payment/WooCommerce/WooCommercePayment.php:29
+#: app/Framework/Payment/WooCommerce/WooCommerceRecurringPayment.php:40
+msgid "The order id is required"
+msgstr ""
+
+#: app/Middleware/CanRegister.php:65
+msgid "The password is required"
+msgstr ""
+
+#: app/Middleware/IsMyPaymentSession.php:12
+msgid "The payment does not exist"
+msgstr ""
+
+#: app/Framework/Payment/WooCommerce/WooCommerceCancelRecurringPayment.php:32
+#: app/Framework/Payment/PayPal/PayPalCancelRecurringPayment.php:47
+msgid "The payment has been cancelled successfully"
+msgstr ""
+
+#: app/Framework/Payment/Stripe/StripeCancelRecurringPayment.php:64
+#, php-format
+msgid "The payment has been cancelled. Gateway: %s, Payment ID: %d"
+msgstr ""
+
+#: app/Framework/Payment/DirectBankTransfer/DirectBankTransferRecurringPayment.php:45
+msgid "The payment has been created successfully"
+msgstr ""
+
+#: app/Framework/Payment/DirectBankTransfer/DirectBankTransferNonRecurringPayment.php:44
+msgid "The payment has been created successfully."
+msgstr ""
+
+#: app/Framework/Payment/PayPal/PayPalNonRecurringPaymentMethod.php:170
+#: app/Framework/Payment/PayPal/PayPalRecurringPaymentMethod.php:261
+msgid ""
+"The payment has been created successfully. We will redirect to PayPal shortly"
+msgstr ""
+
+#: app/Framework/Payment/SuspendSubscriptionPlan.php:45
+msgid "The payment id does not exists"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:174
+#: app/Controllers/ChangePlanStatusController.php:135
+#: app/Controllers/ChangePlanStatusController.php:210
+msgid "The payment ID is required"
+msgstr ""
+
+#: app/Middleware/VerifyPaymentID.php:16
+msgid "The payment id is required"
+msgstr ""
+
+#: app/Controllers/ChangePlanStatusController.php:47
+#: app/Controllers/ChangePlanStatusController.php:71
+#: app/Framework/Payment/DirectBankTransfer/DirectBankTransferWebhook.php:37
+#: app/Framework/Payment/FreePlan/FreePlanWebhook.php:46
+msgid "The payment ID is required."
+msgstr ""
+
+#: app/Middleware/IsCurrentPlanAvailable.php:14
+#: app/Controllers/IsMyPaymentID.php:13
+msgid "The payment might have been deleted."
+msgstr ""
+
+#: app/Middleware/IsCurrentPlanAvailable.php:20
+#: app/Controllers/IsMyPaymentID.php:19
+msgid "The payment session does not exists."
+msgstr ""
+
+#: app/Framework/Payment/PayPalPayment.php:152
+#: app/Framework/Payment/PayPalPayment.php:162
+msgid "The PayPal has not configured yet!"
+msgstr ""
+
+#: app/Framework/Payment/Receipt/WilokePromotionReceipt.php:149
+msgid "The plan has been setup successfully"
+msgstr ""
+
+#: app/Controllers/PlanRelationshipController.php:242
+#: app/Controllers/PlanRelationshipController.php:261
+msgid "The plan has been upgraded successfully"
+msgstr ""
+
+#: app/Framework/Payment/Receipt/AddListingReceiptStructure.php:147
+msgid "The plan is required"
+msgstr ""
+
+#: app/Controllers/PayPalExecuteAddListingPayment.php:45
+msgid "The plan must be published first"
+msgstr ""
+
+#: app/Framework/Payment/Receipt/WilokePromotionReceipt.php:110
+msgid "The planName is required"
+msgstr ""
+
+#: app/Controllers/ClaimController.php:564
+msgid "The post ID is required"
+msgstr ""
+
+#: app/Controllers/PromotionController.php:141
+msgid "The post id is required."
+msgstr ""
+
+#: app/Register/RegisterController.php:24
+#: app/Register/ListingToolsGeneralConfig.php:296
+msgid "The Post Type is required"
+msgstr ""
+
+#: app/Controllers/PromotionController.php:892
+#: app/Framework/Payment/Receipt/WilokePromotionReceipt.php:141
+msgid "The product id is required"
+msgstr ""
+
+#: app/Framework/Helpers/ProductSkeleton.php:663
+msgid "The product is no longer available"
+msgstr ""
+
+#: app/Middleware/ValidateGoogleReCaptcha.php:82
+#: app/Controllers/GoogleReCaptchaController.php:123
+msgid "The reCAPTCHA wasn't entered correctly. Please try it again."
+msgstr ""
+
+#: app/Framework/Payment/Stripe/StripeRefundNonRecurringPayment.php:63
+msgid "The refund has been proceeded"
+msgstr ""
+
+#: app/Controllers/RegisterLoginController.php:839
+msgid "The reset key has been expired"
+msgstr ""
+
+#: app/Middleware/IsReviewExists.php:11
+msgid "The review does not exist"
+msgstr ""
+
+#: app/Controllers/ReviewController.php:421
+#: app/Controllers/ReviewController.php:1093
+msgid "The review ID is required"
+msgstr ""
+
+#: app/Middleware/IsReviewEnabled.php:15
+msgid "The review is closed"
+msgstr ""
+
+#: app/Register/RegisterSingleSidebarSettings.php:150
+msgid "The settings have been reset successfully"
+msgstr ""
+
+#: app/Frontend/SingleListing.php:961 app/Controllers/ListingController.php:161
+msgid "The settings have been updated"
+msgstr ""
+
+#: app/Controllers/Validation.php:911
+msgid "The Start date is required"
+msgstr ""
+
+#: app/Framework/Payment/StripePayment.php:29
+msgid "The Stripe has not configured yet!"
+msgstr ""
+
+#: app/Controllers/PaymentController.php:123
+msgid "The token is required"
+msgstr ""
+
+#: app/Middleware/BeforeSubmitMessage.php:14
+msgid "The user does not exists"
+msgstr ""
+
+#: app/Middleware/VerifyDirectBankTransfer.php:15
+msgid "The user id and plan id are required"
+msgstr ""
+
+#: app/Framework/Payment/Receipt/WilokePromotionReceipt.php:122
+msgid "The userID is required"
+msgstr ""
+
+#: app/Controllers/ListingController.php:246
+msgid "The value is required"
+msgstr ""
+
+#: app/Framework/Helpers/VendorSkeleton.php:423
+msgid "The vendor does not exists"
+msgstr ""
+
+#: app/Middleware/IsWilokeShortcodeActivated.php:13
+msgid ""
+"The Wiloke Shortcode plugin is required. From the admin sidbear, click on "
+"Appearance -> Install Plugins to activate it"
+msgstr ""
+
+#: app/Controllers/EventController.php:698
+#: app/Controllers/EventController.php:924
+msgid "There are no events"
+msgstr ""
+
+#: app/Controllers/FavoriteStatisticController.php:157
+msgid "There are no favorites"
+msgstr ""
+
+#: app/Controllers/UserController.php:782
+msgid "There are no invoices"
+msgstr ""
+
+#: app/Register/views/invoices/tbody.php:11
+msgid "There are no invoices yet."
+msgstr ""
+
+#: app/Frontend/SingleListing.php:932
+msgid "There are no menus"
+msgstr ""
+
+#: app/Frontend/SingleListing.php:1032
+msgid "There are no photos"
+msgstr ""
+
+#: app/Register/AddCustomPostType.php:132
+msgid "There are no post types"
+msgstr ""
+
+#: app/Controllers/PostController.php:626
+#: app/Controllers/PostController.php:686
+msgid "There are no posts"
+msgstr ""
+
+#: app/Controllers/PromotionController.php:148
+msgid "There are no promotions."
+msgstr ""
+
+#: app/Controllers/ReportController.php:109
+msgid ""
+"There are no report fields. Please go to Wiloke Listing Tools -> Reports to "
+"create one."
+msgstr ""
+
+#: app/Controllers/SearchFormController.php:892
+#: app/Controllers/MergingSettingValues.php:335
+#: app/Controllers/MergingSettingValues.php:416
+#: app/Controllers/MergingSettingValues.php:474
+msgid "There are no terms"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:138
+msgid "There are Payment Gateways"
+msgstr ""
+
+#: config/push-notifications.php:92
+msgid "There is a dispute issue in a payment session"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:345
+msgid "There is no listing belongs to this plan currently"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:78
+msgid "There is no listing belongs to this plan currently."
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:82
+msgid ""
+"There is no listing belongs to this plan currently. Warning: You will still "
+"be billed for this subscription. To end billing, Cancel the plan instead."
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:106
+msgid "There is no listing in this payment id"
+msgstr ""
+
+#: app/MetaBoxes/EventPlan.php:88 app/MetaBoxes/ListingPlan.php:368
+msgid "There is no Listing pricing"
+msgstr ""
+
+#: app/Controllers/SearchFormController.php:698
+#: app/Controllers/SearchFormController.php:720
+msgid "There is no listing yet"
+msgstr ""
+
+#: app/Controllers/PromotionController.php:942
+msgid "There is no promotion plan"
+msgstr ""
+
+#: app/Controllers/ReviewController.php:537
+#: app/Controllers/ReviewController.php:557
+msgid "There is no review yet"
+msgstr ""
+
+#: app/Controllers/UserController.php:703
+msgid "There is nothing change"
+msgstr ""
+
+#: config/push-notifications.php:94
+msgid ""
+"There was a dispute with %paymentID% Payment ID. Please contact %adminEmail% "
+"to resolve this issue"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1602
+#, php-format
+msgid ""
+"There was a failed payment on %s. Payment ID: %d. Customer Email: %s. "
+"Customer ID: %d."
+msgstr ""
+
+#: app/Controllers/AddListingController.php:615
+msgid "This account does not exist."
+msgstr ""
+
+#: app/Middleware/IsPublishingListing.php:12
+msgid "This article does not exists"
+msgstr ""
+
+#: app/Controllers/MessageController.php:136
+msgid "This chat room id does not exists"
+msgstr ""
+
+#: app/Middleware/CanRegister.php:48
+msgid "This email is already exists"
+msgstr ""
+
+#: app/Controllers/UserController.php:501
+#: app/Controllers/ProfileController.php:31
+msgid "This email is already registered."
+msgstr ""
+
+#: app/Controllers/ReviewController.php:700
+#: app/Controllers/ReviewController.php:707
+msgid "This email is existed"
+msgstr ""
+
+#: config/wiloke-submission.php:220
+#, php-format
+msgid ""
+"This feature is used for Currency Format. Leave empty to use the default "
+"option. To find your country locale, go to <a href=\"%s\" target=\"_blank\">"
+"this link</a>"
+msgstr ""
+
+#: app/Controllers/ChangePlanStatusController.php:111
+msgid "This gateway does not support this feature"
+msgstr ""
+
+#: config/listing-settings.php:13
+msgid "This month"
+msgstr ""
+
+#: app/Register/RegisterMenu/RegisterAddNewPayment.php:72
+#, php-format
+msgid ""
+"This order has been assigned to %s already. You need to remove the payment "
+"id to create a new payment"
+msgstr ""
+
+#: app/Controllers/InvoiceController.php:377
+#, php-format
+msgid "This payment does not exist %s"
+msgstr ""
+
+#: app/Controllers/ChangePlanStatusController.php:59
+msgid "This payment gateway does not support this feature"
+msgstr ""
+
+#: app/Framework/Payment/SuspendSubscriptionPlan.php:49
+msgid "This payment is not a recurring payment"
+msgstr ""
+
+#: app/Controllers/ListingController.php:91
+#, php-format
+msgid ""
+"This plan does not support %s, You should upgrade to higher plan to get this "
+"feature"
+msgstr ""
+
+#: app/Controllers/ChangePlanStatusController.php:220
+msgid "This plan has been cancelled. You can change the status anymore."
+msgstr ""
+
+#: app/Controllers/UserController.php:764
+msgid "This plan may have been deleted"
+msgstr ""
+
+#: app/Controllers/UserController.php:409
+msgid "This plan may have been deleted."
+msgstr ""
+
+#: app/Models/InvoiceModel.php:85
+msgid "This plan might have been deleted"
+msgstr ""
+
+#: app/Controllers/NotificationsController.php:915
+msgid "This post no longer available"
+msgstr ""
+
+#: app/Middleware/IsPostType.php:11 app/Middleware/IsGroupType.php:15
+msgid "This post type does not exist"
+msgstr ""
+
+#: app/Framework/Payment/WooCommerce/WooCommerceChangePlan.php:42
+msgid "This product is not existed or it is no longer available"
+msgstr ""
+
+#: app/Framework/Payment/PayPal/PayPalRefundNonRecurringPayment.php:35
+msgid "This sale does not exist"
+msgstr ""
+
+#: app/Controllers/ChangePlanStatusController.php:87
+msgid "This status is permanent, you can not change that."
+msgstr ""
+
+#. Description of the plugin
+msgid "This tool allows customizing your Add Listing page"
+msgstr ""
+
+#: app/Controllers/RegisterLoginController.php:845
+msgid "This username does not exist."
+msgstr ""
+
+#: app/Middleware/CanRegister.php:59
+msgid "This username is already exists"
+msgstr ""
+
+#: config/listing-settings.php:11
+msgid "This week"
+msgstr ""
+
+#: config/general.php:10
+msgid "Thursday"
+msgstr ""
+
+#: app/MetaBoxes/Listing.php:878
+msgid "Time Format"
+msgstr ""
+
+#: config/addlisting.php:28
+msgid "Title"
+msgstr ""
+
+#: config/addlisting.php:108
+msgid "To"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1025
+#, php-format
+msgid "To reply this message, please click on %s"
+msgstr ""
+
+#: app/Controllers/RegisterLoginController.php:523
+#: app/Controllers/RegisterLoginController.php:953
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: config/listing-settings.php:9
+msgid "Today"
+msgstr ""
+
+#: app/Controllers/EventController.php:507
+msgid "Toggle"
+msgstr ""
+
+#: config/listing-settings.php:10
+msgid "Tomorrow"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1490
+#: app/Framework/Invoice/InvoicePrinterExtension.php:160
+#: views/invoice/print/index.php:24 app/Register/views/invoices/thead.php:14
+msgid "Total"
+msgstr ""
+
+#: app/Controllers/WooCommerceController.php:492
+msgid "Total Items"
+msgstr ""
+
+#: app/Framework/Payment/PayPal/PayPalRecurringPaymentMethod.php:131
+msgid "Trial"
+msgstr ""
+
+#: config/general.php:8
+msgid "Tuesday"
+msgstr ""
+
+#: config/general.php:19
+msgid "Ultra High"
+msgstr ""
+
+#: config/addlisting.php:102
+msgid "Ultra high"
+msgstr ""
+
+#: app/Framework/Payment/Stripe/StripeCancelRecurringPayment.php:71
+msgid ""
+"Unfortunately, We could not cancel this subscription. Possible reason: "
+"Invalid subscription ID"
+msgstr ""
+
+#: app/Controllers/AjaxUploadImgController.php:141
+msgid ""
+"Unfortunately, We could not upload your images. Possible reason: Wrong Image "
+"Format or Your image is exceeded the allowable file size."
+msgstr ""
+
+#: app/Controllers/NotificationsController.php:732
+msgid "Unfortunately, Your withdrawal has been cancelled."
+msgstr ""
+
+#: config/posttypes.php:383 app/Controllers/DashboardController.php:118
+msgid "Unpaid"
+msgstr ""
+
+#: config/posttypes.php:390
+#, php-format
+msgid "Unpaid <span class=\"count\">(%s)</span>"
+msgid_plural "Unpaid <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: config/listing-settings.php:7
+msgid "Upcoming"
+msgstr ""
+
+#: config/posttypes.php:350
+msgid "Update Listing Category"
+msgstr ""
+
+#: config/posttypes.php:326
+msgid "Update Listing Location"
+msgstr ""
+
+#: config/posttypes.php:374
+msgid "Update Listing Tag"
+msgstr ""
+
+#: app/Controllers/UserController.php:420
+msgid "Updating"
+msgstr ""
+
+#: app/Framework/Helpers/HTML.php:199 app/Framework/Helpers/HTML.php:236
+msgid "Upload Image"
+msgstr ""
+
+#: app/Controllers/DokanController.php:86
+msgid "Upload Logo"
+msgstr ""
+
+#: config/listingtag.php:32
+msgid "Upload Your Icon"
+msgstr ""
+
+#: config/single-sidebar.php:18 config/listing-settings.php:796
+msgid "Use default tabs"
+msgstr ""
+
+#: config/listing-settings.php:981
+msgid "Use Default?"
+msgstr ""
+
+#: config/register-login.php:7
+msgid "Username"
+msgstr ""
+
+#: config/register-login.php:32
+msgid "Username/Email"
+msgstr ""
+
+#: config/reviews.php:27 config/reviews.php:34
+msgid "Very Good"
+msgstr ""
+
+#: app/Controllers/ListingController.php:105
+msgid "video gallery"
+msgstr ""
+
+#: app/Controllers/ViewStatisticController.php:43
+msgid "View"
+msgstr ""
+
+#: config/posttypes.php:89
+msgid "View Claim"
+msgstr ""
+
+#: app/Register/views/invoices/tbody.php:55
+msgid "View customer information"
+msgstr ""
+
+#: app/Controllers/NotificationsController.php:715
+#: app/Controllers/NotificationsController.php:733
+#: app/Controllers/NotificationsController.php:755
+msgid "View Detail"
+msgstr ""
+
+#: app/Register/views/sales/tbody.php:42
+#: app/Register/views/subscriptions/tbody.php:31
+msgid "View Invoice Detail"
+msgstr ""
+
+#: config/posttypes.php:14
+msgid "View Listing"
+msgstr ""
+
+#: config/posttypes.php:121
+msgid "View Plan"
+msgstr ""
+
+#: app/Register/views/invoices/tbody.php:62
+msgid "View Session Details"
+msgstr ""
+
+#: app/Controllers/ViewStatisticController.php:110
+msgid "View Statistic"
+msgstr ""
+
+#: app/Controllers/ViewStatisticController.php:41
+msgid "Views"
+msgstr ""
+
+#: app/Controllers/ClaimController.php:315
+msgid "wants to claim "
+msgstr ""
+
+#: app/Controllers/NotificationsController.php:564
+msgid "Warning"
+msgstr ""
+
+#: config/promotion-metaboxes.php:37
+msgid ""
+"Warning: After the promotion is being published, You CAN NOT change to "
+"another Listing"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1521
+msgid ""
+"Warning: In order to download the Invoice You will have to log into your "
+"account."
+msgstr ""
+
+#: app/Controllers/EmailController.php:387
+#, php-format
+msgid ""
+"Warning: Wilcity could not handle Stripe Event Hook. This is a detail "
+"information from Stripe: %s. Make sure that you followed all Stripe "
+"configuration<a href=\"%s\">%s</a>"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:487
+msgid ""
+"Warning: You will still be billed for this subscription even there is no "
+"listing belongs to it. To end billing, Cancel the plan instead"
+msgstr ""
+
+#: app/Controllers/NotificationsController.php:939
+#, php-format
+msgid "We are regret to inform you that your claim %s has been rejected."
+msgstr ""
+
+#: app/Framework/Payment/WooCommerce/WooCommerceCancelRecurringPayment.php:35
+msgid "We could not cancel this subscription"
+msgstr ""
+
+#: app/Framework/Payment/Stripe/StripeSCARecurringPaymentMethod.php:144
+msgid "We could not create payment id"
+msgstr ""
+
+#: app/Framework/Payment/WooCommerce/WooCommerceCancelRecurringPayment.php:24
+msgid "We could not find any Subscription ID of this payment"
+msgstr ""
+
+#: app/Framework/Payment/PayPal/PayPalRefundNonRecurringPayment.php:46
+msgid "We could not find PayPal Sale ID"
+msgstr ""
+
+#: app/Framework/Payment/Stripe/StripeRefundNonRecurringPayment.php:30
+msgid "We could not find Stripe Charge ID"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:352
+#: app/Controllers/AddListingPaymentController.php:363
+msgid "We could not find the plan type"
+msgstr ""
+
+#: app/Framework/Payment/WooCommerce/WooCommerceCancelRecurringPayment.php:47
+msgid "We could not find WooCommerce Order of this payment"
+msgstr ""
+
+#: app/Framework/Payment/WooCommerce/WooCommerceSuspend.php:70
+msgid "We could not found any subscription under this order id"
+msgstr ""
+
+#: app/Framework/Payment/PayPal/PayPalCancelRecurringPayment.php:21
+msgid "We could not found PayPal Agreement ID of this payment id"
+msgstr ""
+
+#: app/Framework/Payment/PayPal/PayPalRefundNonRecurringPayment.php:79
+#: app/Framework/Payment/Stripe/StripeRefundNonRecurringPayment.php:48
+msgid "We could not found the invoice of this session"
+msgstr ""
+
+#: app/Controllers/EventController.php:1232
+msgid "We could not get Geocode of the address, please try to enter it again"
+msgstr ""
+
+#: app/Controllers/ReviewController.php:726
+msgid "We could not insert a new account."
+msgstr ""
+
+#: app/Framework/Payment/FreePlan/FreePlan.php:102
+msgid "We could not insert a Payment ID"
+msgstr ""
+
+#: app/Register/RegisterMenu/RegisterAddNewPayment.php:91
+msgid "We could not insert the payment"
+msgstr ""
+
+#: app/Controllers/WooCommerceController.php:275
+#: app/Controllers/WooCommerceController.php:297
+#: app/Controllers/WooCommerceController.php:322
+#: app/Controllers/WooCommerceController.php:344
+msgid "We could not insert this product to cart!"
+msgstr ""
+
+#: app/MetaBoxes/Review.php:45
+msgid "We could not insert your review."
+msgstr ""
+
+#: app/Controllers/WooCommerceController.php:257
+msgid "We could not remove this product from cart!"
+msgstr ""
+
+#: app/Framework/Payment/DirectBankTransfer/DirectBankTransferSuspend.php:37
+msgid "We could not update suspended status to database"
+msgstr ""
+
+#: app/Middleware/IsAllowEditingPublishedListing.php:13
+msgid "We do not allow editing a published listing"
+msgstr ""
+
+#: app/Controllers/FacebookLoginController.php:410
+#: app/Controllers/FacebookLoginController.php:451
+msgid "We do not support this feature."
+msgstr ""
+
+#: app/Controllers/UserController.php:103
+msgid "We found no author"
+msgstr ""
+
+#: app/Controllers/DokanController.php:369
+msgid "We found no category"
+msgstr ""
+
+#: app/Controllers/ReviewController.php:434
+msgid "We found no discussions"
+msgstr ""
+
+#: app/Controllers/WooCommerceController.php:140
+msgid "We found no order"
+msgstr ""
+
+#: app/Controllers/PayPalExecuteAddListingPayment.php:37
+msgid "We found no Plan ID"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:183
+#: app/Controllers/AddListingPaymentController.php:198
+msgid "We found no plans in this listing type."
+msgstr ""
+
+#: app/Controllers/PayPalExecuteAddListingPayment.php:30
+#: app/Framework/Payment/PayPal/PayPalExecutePromotionPayment.php:29
+msgid "We found no Post ID"
+msgstr ""
+
+#: app/Controllers/DokanController.php:408
+#: app/Controllers/AddListingController.php:441
+msgid "We found no products"
+msgstr ""
+
+#: app/Controllers/WooCommerceBookingController.php:82
+msgid "We found no rooms"
+msgstr ""
+
+#: app/Controllers/AddListingController.php:420
+msgid "We found not posts that matched your query"
+msgstr ""
+
+#: app/Framework/Payment/CancelSubscriptionStaticFactory.php:38
+msgid "We have not found any payment gateway yet"
+msgstr ""
+
+#: app/Middleware/IsAccountConfirmed.php:29
+msgid ""
+"We have sent an email with a confirmation link to your email address. In "
+"order to complete the sign-up process, please click the confirmation link."
+msgstr ""
+
+#: app/Controllers/RegisterLoginController.php:994
+msgid ""
+"We have sent an email with a confirmation link to your email address. In "
+"order to complete the sign-up process, please click the confirmation link.\n"
+"If you do not receive a confirmation email, please check your spam folder. "
+"Also, please verify that you entered a valid email address in our sign-up "
+"form. <a href=\"#\" class=\"wil-js-send-confirmation-code\">Resend "
+"confirmation code</a>"
+msgstr ""
+
+#: app/Controllers/ClaimController.php:406
+#, php-format
+msgid "We need your %s."
+msgstr ""
+
+#: app/Controllers/ReviewController.php:680
+msgid "We need your comment."
+msgstr ""
+
+#: app/Middleware/IsLockedAddListing.php:25
+#, php-format
+msgid ""
+"We regret to inform you that your account has been locked because there was "
+"a dispute in the following Payment ID: %d. Please email to %s to resolve "
+"this issue!"
+msgstr ""
+
+#: app/Controllers/AddListingController.php:476
+msgid ""
+"We regret to inform you that your account has been locked the Add Listing "
+"feature because there was a dispute issue in the previous payment"
+msgstr ""
+
+#: app/Controllers/AddListingController.php:487
+msgid ""
+"We regret to inform you that your account has been locked the Add Listing "
+"feature."
+msgstr ""
+
+#: app/Controllers/EmailController.php:1998
+#, php-format
+msgid ""
+"We sent an email to %s.  If you do not find the email in your inbox, please "
+"check your spam filter or bulk email folder."
+msgstr ""
+
+#: app/Controllers/RegisterLoginController.php:977
+msgid ""
+"We sent an email to you with a link to get back into your account. Please "
+"check your mailbox and click on the reset link."
+msgstr ""
+
+#: app/Controllers/UserController.php:268
+#: app/Controllers/ProfileController.php:296
+msgid "Website"
+msgstr ""
+
+#: config/listing-settings.php:966
+msgid "Website / Phone / Email"
+msgstr ""
+
+#: config/general.php:9
+msgid "Wednesday"
+msgstr ""
+
+#: config/event-settings.php:51
+msgid "Weekly"
+msgstr ""
+
+#: app/Frontend/SingleListing.php:889
+msgid "Whoops! We could not found the content of this content"
+msgstr ""
+
+#: app/Frontend/SingleListing.php:845
+msgid "Whoops! We found no features of this listing"
+msgstr ""
+
+#: app/Controllers/DokanController.php:224
+msgid "Whoops! We found no products of this listing"
+msgstr ""
+
+#: app/Middleware/IsAdministrator.php:13
+msgid "Whoops! You do not have permission to access this page"
+msgstr ""
+
+#. Author of the plugin
+msgid "Wiloke"
+msgstr ""
+
+#: config/roles.php:5
+msgid "Wiloke Contributor"
+msgstr ""
+
+#. Name of the plugin
+msgid "Wiloke Listing Tools"
+msgstr ""
+
+#: app/Register/WilokeSubmission.php:80
+msgid "Wiloke Submission"
+msgstr ""
+
+#: config/payment.php:46 app/Framework/Helpers/GetWilokeSubmission.php:149
+msgid "WooCommerce"
+msgstr ""
+
+#: config/eventplan.php:7 config/listingplan.php:425
+msgid "WooCommerce Alias"
+msgstr ""
+
+#: app/Controllers/MessageController.php:126
+msgid "Wrong message ID"
+msgstr ""
+
+#: app/Controllers/ChangePlanStatusController.php:196
+msgid "Wrong Payment Gateway"
+msgstr ""
+
+#: app/Models/UserModel.php:592
+msgid "Wrong the next billing date value."
+msgstr ""
+
+#: config/eventplan.php:32 config/addlisting.php:73 config/listingplan.php:40
+#: app/Controllers/EmailController.php:1743
+msgid "Yes"
+msgstr ""
+
+#: app/Controllers/ReviewController.php:1569
+msgid "You already left a review before."
+msgstr ""
+
+#: app/Middleware/CanRegister.php:16
+#, php-format
+msgid "You are ineligible to register for %s"
+msgstr ""
+
+#: app/Controllers/ClaimController.php:388
+msgid "You are the author of this post already."
+msgstr ""
+
+#: app/Framework/Upload/Upload.php:88
+#, php-format
+msgid "You can not upload a file bigger than %s"
+msgstr ""
+
+#: app/Controllers/PromotionController.php:837
+msgid "You can promote a published listing only"
+msgstr ""
+
+#: app/Controllers/AjaxUploadImgController.php:111
+#: app/Controllers/AjaxUploadFileController.php:79
+#, php-format
+msgid "You can upload an image smaller or equal to %s"
+msgstr ""
+
+#: app/Controllers/AddMorePhotosVideosController.php:188
+#, php-format
+msgid "You can upload maximum %s images to this listing"
+msgstr ""
+
+#: app/Controllers/AddMorePhotosVideosController.php:145
+#, php-format
+msgid "You can upload maximum %s video urls to this listing"
+msgstr ""
+
+#: config/push-notifications.php:55
+msgid ""
+"You can use %averageRating% as a placeholder in the notification message"
+msgstr ""
+
+#: app/Controllers/ListingController.php:80
+msgid "You changed nothing"
+msgstr ""
+
+#: app/Controllers/ListingController.php:458
+msgid "You do not have any listing yet."
+msgstr ""
+
+#: app/Middleware/IsTemporaryHiddenPost.php:11
+msgid "You do not have permission to access this area."
+msgstr ""
+
+#: app/Middleware/IsUserLoggedIn.php:14
+#: app/Middleware/IsSupportedPostTypeAddListing.php:14
+#: app/Middleware/IsPostAuthor.php:12 app/Middleware/IsOwnerOfPost.php:11
+#: app/Frontend/SingleListing.php:1035
+#: app/Register/RegisterSubmenuQuickSearchForm.php:197
+#: app/Register/RegisterController.php:18
+#: app/Register/ListingToolsGeneralConfig.php:290
+#: app/Register/RegisterClaimSubMenu.php:83
+#: app/Controllers/UserController.php:653
+#: app/Controllers/EventController.php:1014
+#: app/Controllers/ReviewController.php:687
+#: app/Controllers/InvoiceController.php:164
+#: app/Controllers/ListingController.php:374
+#: app/Framework/Routing/Controller.php:226
+#: app/Register/RegisterMenu/RegisterListingScripts.php:173
+msgid "You do not have permission to access this page"
+msgstr ""
+
+#: app/Controllers/AddListingController.php:669
+msgid "You do not have permission to access this page!"
+msgstr ""
+
+#: app/Middleware/VerifyPaymentID.php:25
+msgid "You do not have permission to do this action"
+msgstr ""
+
+#: config/translation.php:3 app/Middleware/DesignListingRoles.php:13
+#: app/Register/AddCustomPostType.php:124
+msgid "You do not permission to access this page"
+msgstr ""
+
+#: app/Controllers/ReviewController.php:1243
+msgid "You do not permission to access this review"
+msgstr ""
+
+#: app/Controllers/UserController.php:389
+msgid "You do not use any plan yet."
+msgstr ""
+
+#: app/Controllers/ReviewController.php:693
+msgid "You entered an invalid email."
+msgstr ""
+
+#: app/Controllers/NotificationsController.php:566
+msgid "You got a report for"
+msgstr ""
+
+#: app/Controllers/AddListingController.php:580
+#, php-format
+msgid ""
+"You have exceeded your number of items quota in this plan. Please go to <a "
+"href=\"%s\">Dashboard</a>, then click on Billings to upgrade to higher plan"
+msgstr ""
+
+#: app/Middleware/IsExceededMaximumListingInRecurringPlan.php:24
+msgid ""
+"You have reached the maximum of availability listings in this plan. Please "
+"go to your Dashboard, then navigate to Billing and upgrade to higher plan."
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:553
+#, php-format
+msgid "You have to assign a product to %s plan"
+msgstr ""
+
+#: app/Controllers/ReviewController.php:1514
+msgid "You have to filled up all required information"
+msgstr ""
+
+#: app/Controllers/AddListingPaymentController.php:392
+msgid "You have to select 1 listing at least"
+msgstr ""
+
+#: app/Controllers/PromotionController.php:840
+msgid "You have to select 1 plan at least"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1627
+msgid "You just received a new order"
+msgstr ""
+
+#: app/Controllers/EmailController.php:1622
+#, php-format
+msgid "You just received an order from %s."
+msgstr ""
+
+#: app/Controllers/EmailController.php:1616
+#, php-format
+msgid "You just received an order from %s. The order id is %d"
+msgstr ""
+
+#: app/Middleware/VerifyLogin.php:14
+msgid "You logged into the site already"
+msgstr ""
+
+#: app/Controllers/AddListingController.php:678
+msgid "You must be logged in to submit a listing"
+msgstr ""
+
+#: app/Controllers/WooCommerceController.php:186
+msgid "You must select 1 product at least"
+msgstr ""
+
+#: app/Controllers/Validation.php:957
+msgid "You must specify Event Occur day"
+msgstr ""
+
+#: app/Framework/Payment/DirectBankTransfer/DirectBankTransferConfiguration.php:34
+msgid "You need provide one bank account at least."
+msgstr ""
+
+#: app/Framework/Payment/DirectBankTransfer/DirectBankTransferPayment.php:137
+msgid ""
+"You need provide one bank account at least: Wiloke Submission -> Direct Bank "
+"Transfer setting"
+msgstr ""
+
+#: app/Controllers/AjaxUploadFileController.php:60
+msgid "You need to upload 1 file at least"
+msgstr ""
+
+#: app/Controllers/AjaxUploadImgController.php:90
+msgid "You need to upload 1 image at least"
+msgstr ""
+
+#: app/Framework/Routing/Controller.php:335
+#: app/Framework/Routing/Controller.php:342
+msgid "You provided an invalid email address"
+msgstr ""
+
+#: app/Controllers/CouponController.php:64
+#: app/Controllers/CouponController.php:70
+#, php-format
+msgid "You save %s"
+msgstr ""
+
+#: app/Middleware/IsLockedAddListing.php:30
+msgid "Your account has been locked"
+msgstr ""
+
+#: app/Controllers/UserController.php:682
+msgid "Your account was successfully deleted. We are sorry to see you go!"
+msgstr ""
+
+#: app/Controllers/NotificationsController.php:924
+#, php-format
+msgid "Your article %s has been changed to %s"
+msgstr ""
+
+#: app/Controllers/ReviewController.php:1629
+msgid ""
+"Your comment has been received and is being reviewed by our team staff. It "
+"will be published after approval."
+msgstr ""
+
+#: app/Framework/Helpers/Price.php:51
+msgid ""
+"Your Country Locale setting is not valid. Please go to Wiloke Submission -> "
+"Country Locale and resolve it"
+msgstr ""
+
+#: config/push-notifications.php:33
+msgid ""
+"Your listing %postTitle% has been changed from %beforeStatus% to "
+"%afterStatus%"
+msgstr ""
+
+#: app/Middleware/IsListingBeingReviewed.php:12
+msgid ""
+"Your listing is being reviewed by our support staff. Please be patient and "
+"wait for an email from us."
+msgstr ""
+
+#: app/Controllers/PromotionController.php:998
+#, php-format
+msgid "Your Promotion will expiry on: %s"
+msgstr ""
+
+#: app/Controllers/NotificationsController.php:714
+msgid "Your withdrawal has been processed."
+msgstr ""

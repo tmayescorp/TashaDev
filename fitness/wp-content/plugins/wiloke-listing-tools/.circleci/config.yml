@@ -1,0 +1,203 @@
+version: 2.1
+references:
+  docker_container: &docker_container
+    - image: circleci/php:7.4.14-fpm
+    - image: circleci/mysql:5.7
+      environment:
+        MYSQL_DATABASE: wordpress
+        MYSQL_USER: wordpress
+        MYSQL_PASSWORD: 123456
+        MYSQL_ROOT_PASSWORD: root
+        MYSQL_TCP_PORT: 3306
+        MYSQL_UNIX_PORT: 3306
+      auth:
+        username: $DOCKER_LOGIN
+        password: $DOCKER_PASSWORD  # context / project UI env-var reference
+    - image: circleci/buildpack-deps:curl
+  curl_installation: &installing_curl
+    - run:
+        name: CURL
+        command: |
+          sudo apt-get update && \
+          sudo apt-get -y install \
+               libcurl4-gnutls-dev
+  mysql_client_installation: &installing_mysql
+    - run:
+        name: Install MySQL client
+        command: |
+          sudo apt-get update && \
+          sudo apt-get -y install \
+            default-mysql-client \
+            libjpeg-dev \
+            libpng-dev \
+            libzip-dev \
+            libcurl4-gnutls-dev && \
+          sudo docker-php-ext-install mysqli
+  wating_for_mysql_running: &waiting_for_mysql
+    - run:
+        name: Running Mysql
+        command: |
+          for i in `seq 1 10`;
+          do
+            nc -z 127.0.0.1 3306 && echo Success && exit 0
+            echo -n .
+            sleep 1
+          done
+          echo Failed waiting for MySQL && exit 1
+  working_directory: &working_directory
+    working_directory: ~/wiloke-listing-tools
+  environment: &environment
+    environment:
+      WORKSPACE_ROOT: tmp/
+      DB_NAME: wordpress
+      DB_USER: wordpress
+      DB_PASSWORD: 123456
+      DB_HOST: 127.0.0.1
+      WORKING_DIR: ~/var/www/html
+      WP_ADMIN: admin
+      WP_PASSWORD: admin
+      WP_EMAIL: contact.wiloke@gmail.com
+      WP_URL: http://localhost:8080
+      PHP_ADDRESS: localhost:8080
+      REST_BASE: wiloke/v2
+      PLUGIN_NAME: wiloke-listing-tools
+      TEST_NAMESPACE: WilokeListingToolsTests
+      NAMESPACE: WilokeListingTools
+      MY_PLUGIN_PATH: wp-content/plugins/wiloke-listing-tools
+      PLUGIN_PATH: wp-content/plugins
+      THEME_PATH: wp-content/themes
+      THEME_NAME: wilcity
+      WILOKE_DEPENDENCY_PLUGINS: wilcity-shortcodes wilcity-widgets
+jobs:
+  build:
+    <<: *environment
+    docker: *docker_container
+    <<: *working_directory
+    parallelism: 2
+    steps:
+      - run:
+          name: Checking folder
+          command: ls -la
+      - checkout
+      - setup_remote_docker:
+          docker_layer_caching: true
+#      - run: docker build .
+      - run:
+          name: Checking folder
+          command: ls -la
+      - <<: *installing_mysql
+      - <<: *installing_curl
+      - <<: *waiting_for_mysql
+      - run:
+          name: Downloading & Installing WordPress
+          command: .circleci/install-wp.sh
+      - run:
+          name: Showing WordPress Plugin folder
+          command: ls -la $PLUGIN_PATH
+      - checkout:
+          path: $MY_PLUGIN_PATH
+          #      - run:
+          #          name: Update Composer
+          #          command: sudo composer self-update
+          #      - restore_cache: # special step to restore the dependency cache if `composer.lock` does not change
+          #          keys:
+          #            - composer-v1-{{ checksum "composer.lock" }}
+          #            # fallback to using the latest cache if no exact match is found (See https://circleci.com/docs/2.0/caching/)
+          #            - composer-v1-
+      - run:
+          name: Installing Composer
+          command: cd $MY_PLUGIN_PATH && composer install -n --prefer-dist
+      - run:
+          name: Generate autoload
+          command: cd $MY_PLUGIN_PATH && composer dump-autoload
+      - run:
+          name: Create Database
+          command: mysql -h $DB_HOST -u root -proot -e "create database if not exists wordpress;"
+      - run:
+          name: Start PHP server
+          command: sudo php -S $PHP_ADDRESS -t .
+          background: true
+      - run:
+          name: Installing WordPress
+          command: .circleci/running-wp.sh
+      - run:
+          name: Clone Dependency Plugins
+          command: |
+            .circleci/download-dependency-plugins.sh $WILOKE_DEPENDENCY_PLUGINS && ls -la $PLUGIN_PATH
+      - run:
+          name: Clone Wilcity Theme
+          command: |
+            pwd &&
+            chmod 777 -R $THEME_PATH &&
+            cd $THEME_PATH &&
+            git clone git@github.com:wilokecom/wilcity.git &&
+            ls -la
+      - run:
+          name: Setting up PHP UNIT
+          command: .circleci/setup-phpunit.sh
+      - run:
+          name: Adding 777 to PHPUNIT
+          command: chmod 777 $MY_PLUGIN_PATH/phpunit.xml && ls -la $MY_PLUGIN_PATH
+      - run:
+          name: Activating plugin
+          command: cd $MY_PLUGIN_PATH && .circleci/activate-plugin.sh $WILOKE_DEPENDENCY_PLUGINS
+      - run:
+          name: Activating Theme
+          command: cd $MY_PLUGIN_PATH && .circleci/activate-theme.sh
+      - run:
+          name: Showing tests folder
+          command: ls -la $MY_PLUGIN_PATH/tests/sample-data && cat $MY_PLUGIN_PATH/phpunit.xml
+      - run:
+          name: Running PHPUnit Test
+          command: chmod 777 -R $MY_PLUGIN_PATH/tests && cd $MY_PLUGIN_PATH && vendor/bin/phpunit
+#      - persist_to_workspace:
+#          root: .
+#          paths: .
+  test_phpunit:
+    docker: *docker_container
+    <<: *working_directory
+    <<: *environment
+    steps:
+      - setup_remote_docker:
+          docker_layer_caching: true
+#      - run: docker build .
+      - attach_workspace:
+          at: .
+      - <<: *installing_mysql
+      - <<: *waiting_for_mysql
+      - run:
+          name: Create Database
+          command: mysql -h $DB_HOST -u root -proot -e "create database if not exists wordpress;"
+      - run:
+          name: Start PHP server
+          command: sudo php -S $PHP_ADDRESS -t .
+          background: true
+      - run:
+          name: Setting up PHP UNIT
+          command: .circleci/setup-phpunit.sh
+      - run:
+          name: Adding 777 to bootstrap
+          command: chmod 777 $MY_PLUGIN_PATH/tests/bootstrap.php
+      - run:
+          name: Cat PHPXML
+          command: cat $MY_PLUGIN_PATH/phpunit.xml
+      - run:
+          name: Adding 777 to PHPUNIT
+          command: chmod 777 $MY_PLUGIN_PATH/phpunit.xml && ls -la $MY_PLUGIN_PATH
+      - run:
+          name: Activating plugin
+          command: cd $MY_PLUGIN_PATH && .circleci/activate-plugin.sh $WILOKE_DEPENDENCY_PLUGINS
+      - run:
+          name: Activating Theme
+          command: cd $MY_PLUGIN_PATH && .circleci/activate-theme.sh
+      - run:
+          name: Running PHPUnit Test
+          command: ls -la $PLUGIN_PATH && cd $MY_PLUGIN_PATH && vendor/bin/phpunit
+workflows:
+  version: 2
+  build_test:
+    jobs:
+      - build
+#      - test_phpunit:
+#          requires:
+#            - build
